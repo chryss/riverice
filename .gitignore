@@ -3,8 +3,9 @@
 .DS*
 ._.DS*
 
-# hide data for the time being
+# hide data and output plots for the time being
 data
+plots
 
 
 # Byte-compiled / optimized / DLL files
