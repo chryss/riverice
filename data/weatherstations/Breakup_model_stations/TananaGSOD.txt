@@ -1,0 +1,3 @@
+PAED,0.6,https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/70272026401.csv,70272026401,61.18,-149.97
+PATA,0.2,https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/70178026529.csv,70178026529,65.1719,-152.0789
+PFYU,0.2,https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/70194026413.csv,70194026413,66.5673,-145.2513

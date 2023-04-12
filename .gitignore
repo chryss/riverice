@@ -2,11 +2,11 @@
 .vscode
 .DS*
 ._.DS*
+*.zip
 
 # hide data and output plots for the time being
-data
+data/GIS
 plots
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

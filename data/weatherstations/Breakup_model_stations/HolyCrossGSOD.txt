@@ -1,0 +1,3 @@
+PAOT,0.1,https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/70133026616.csv,70133026616,66.8983,-162.54
+PATK,0.8,https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/70251026528.csv,70251026528,62.3209,-150.1066
+PAVD,0.1,https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/70275626479.csv,70275626479,61.1308,-146.3483

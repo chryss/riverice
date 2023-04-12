@@ -1,0 +1,3 @@
+PAGK,0.1,https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/70271026425.csv,70271026425,62.2086,-145.4515
+PFYU,0.3,https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/70194026413.csv,70194026413,66.5673,-145.2513
+MXYA2,0.6,https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/99999999999.csv,99999999999,61.4333,-142.9217
