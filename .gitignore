@@ -3,6 +3,7 @@
 .DS*
 ._.DS*
 *.zip
+*.png
 
 # hide data and output plots for the time being
 data/GIS
