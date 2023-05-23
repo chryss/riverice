@@ -1,0 +1,289 @@
+{
+  "Buckland River at Buckland": [
+    "FAIRBANKS_INTL_AP",
+    "NORTHWAY_AIRPORT",
+    "NENANA_MUN_AP",
+    "MCKINLEY_PARK",
+    "KOTZEBUE_AIRPORT"
+  ],
+  "Chena River at Fairbanks": [
+    "FAIRBANKS_INTL_AP",
+    "NENANA_MUN_AP",
+    "BIG_DELTA_AIRPORT",
+    "NORTH_POLE",
+    "COLLEGE_OBSERVATORY"
+  ],
+  "Chisana River at Northway": [
+    "SKAGWAY_AIRPORT",
+    "ALYESKA",
+    "CHICKEN",
+    "ANCHORAGE_MERRILL_FIELD",
+    "GULKANA_AIRPORT"
+  ],
+  "Gakona River at Gakona": [
+    "NORTHWAY_AIRPORT",
+    "NENANA_MUN_AP",
+    "GULKANA_AIRPORT",
+    "SAINT_PAUL_ISLAND_AIRPORT",
+    "TALKEETNA_AIRPORT"
+  ],
+  "Gulkana River nr Gakona": [
+    "NORTHWAY_AIRPORT",
+    "NENANA_MUN_AP",
+    "SAINT_PAUL_ISLAND_AIRPORT",
+    "GULKANA_AIRPORT",
+    "NORTH_POLE"
+  ],
+  "Kobuk River at Ambler": [
+    "NORTHWAY_AIRPORT",
+    "NENANA_MUN_AP",
+    "CHICKEN",
+    "GULKANA_AIRPORT",
+    "KOTZEBUE_AIRPORT"
+  ],
+  "Kobuk River at Kobuk": [
+    "NENANA_MUN_AP",
+    "EAGLE",
+    "KENAI_AIRPORT",
+    "CHICKEN",
+    "BIG_DELTA_AIRPORT"
+  ],
+  "Kobuk River at Shungnak": [
+    "FAIRBANKS_INTL_AP",
+    "NORTHWAY_AIRPORT",
+    "NENANA_MUN_AP",
+    "CHICKEN",
+    "BIG_DELTA_AIRPORT"
+  ],
+  "Koyukuk River at Allakaket": [
+    "FAIRBANKS_INTL_AP",
+    "NENANA_MUN_AP",
+    "EAGLE",
+    "BETTLES_AIRPORT",
+    "KENAI_AIRPORT"
+  ],
+  "Koyukuk River at Bettles": [
+    "FAIRBANKS_INTL_AP",
+    "NENANA_MUN_AP",
+    "EAGLE",
+    "BETTLES_AIRPORT",
+    "KENAI_AIRPORT"
+  ],
+  "Koyukuk River at Hughes": [
+    "FAIRBANKS_INTL_AP",
+    "NENANA_MUN_AP",
+    "BETTLES_AIRPORT",
+    "KENAI_AIRPORT",
+    "MCGRATH_AP"
+  ],
+  "Kuskokwim River at Akiak": [
+    "ALYESKA",
+    "MCGRATH_AP",
+    "BETHEL_AIRPORT",
+    "KING_SALMON_AIRPORT",
+    "TALKEETNA_AIRPORT"
+  ],
+  "Kuskokwim River at Aniak": [
+    "FAIRBANKS_INTL_AP",
+    "MCGRATH_AP",
+    "BETHEL_AIRPORT",
+    "TALKEETNA_AIRPORT",
+    "COLLEGE_OBSERVATORY"
+  ],
+  "Kuskokwim River at Bethel": [
+    "MCKINLEY_PARK",
+    "ALYESKA",
+    "BETHEL_AIRPORT",
+    "KING_SALMON_AIRPORT",
+    "TALKEETNA_AIRPORT"
+  ],
+  "Kuskokwim River at Crooked Creek": [
+    "NORTHWAY_AIRPORT",
+    "MCGRATH_AP",
+    "KING_SALMON_AIRPORT",
+    "TALKEETNA_AIRPORT",
+    "COLLEGE_OBSERVATORY"
+  ],
+  "Kuskokwim River at Kalskag": [
+    "BETHEL_AIRPORT",
+    "MCGRATH_AP",
+    "KING_SALMON_AIRPORT",
+    "ILIAMNA_AIRPORT",
+    "TALKEETNA_AIRPORT"
+  ],
+  "Kuskokwim River at McGrath": [
+    "FAIRBANKS_INTL_AP",
+    "NENANA_MUN_AP",
+    "MCGRATH_AP",
+    "BIG_DELTA_AIRPORT",
+    "COLLEGE_OBSERVATORY"
+  ],
+  "Kuskokwim River at Nikolai": [
+    "KENAI_AIRPORT",
+    "ALYESKA",
+    "BIG_DELTA_AIRPORT",
+    "TALKEETNA_AIRPORT",
+    "COLLEGE_OBSERVATORY"
+  ],
+  "Kuskokwim River at Red Devil": [
+    "FAIRBANKS_INTL_AP",
+    "KENAI_AIRPORT",
+    "MCGRATH_AP",
+    "KING_SALMON_AIRPORT",
+    "TALKEETNA_AIRPORT"
+  ],
+  "Kuskokwim River at Sleetmute": [
+    "FAIRBANKS_INTL_AP",
+    "MCGRATH_AP",
+    "KING_SALMON_AIRPORT",
+    "TALKEETNA_AIRPORT",
+    "COLLEGE_OBSERVATORY"
+  ],
+  "Kuskokwim River at Stony River": [
+    "FAIRBANKS_INTL_AP",
+    "KENAI_AIRPORT",
+    "BETHEL_AIRPORT",
+    "MCGRATH_AP",
+    "TALKEETNA_AIRPORT"
+  ],
+  "Kuskokwim River at Tuluksak": [
+    "ALYESKA",
+    "MCGRATH_AP",
+    "BETHEL_AIRPORT",
+    "KING_SALMON_AIRPORT",
+    "TALKEETNA_AIRPORT"
+  ],
+  "Susitna River at Sunshine": [
+    "ALYESKA",
+    "ANCHORAGE_MERRILL_FIELD",
+    "BIG_DELTA_AIRPORT",
+    "TALKEETNA_AIRPORT",
+    "NORTH_POLE"
+  ],
+  "Tanana River at Nenana": [
+    "FAIRBANKS_INTL_AP",
+    "NENANA_MUN_AP",
+    "BIG_DELTA_AIRPORT",
+    "NORTH_POLE",
+    "COLLEGE_OBSERVATORY"
+  ],
+  "Tanana River nr Manley Hot Springs": [
+    "FAIRBANKS_INTL_AP",
+    "NENANA_MUN_AP",
+    "MCGRATH_AP",
+    "BIG_DELTA_AIRPORT",
+    "COLLEGE_OBSERVATORY"
+  ],
+  "Yentna River at Lake Creek": [
+    "SKAGWAY_AIRPORT",
+    "ALYESKA",
+    "BIG_DELTA_AIRPORT",
+    "GULKANA_AIRPORT",
+    "TALKEETNA_AIRPORT"
+  ],
+  "Yukon River at Alakanuk": [
+    "NOME_AIRPORT",
+    "NENANA_MUN_AP",
+    "MCGRATH_AP",
+    "BETHEL_AIRPORT",
+    "TALKEETNA_AIRPORT"
+  ],
+  "Yukon River at Anvik": [
+    "FAIRBANKS_INTL_AP",
+    "NENANA_MUN_AP",
+    "MCKINLEY_PARK",
+    "MCGRATH_AP",
+    "BIG_DELTA_AIRPORT"
+  ],
+  "Yukon River at Circle": [
+    "FAIRBANKS_INTL_AP",
+    "NENANA_MUN_AP",
+    "EAGLE",
+    "KENAI_AIRPORT",
+    "CHICKEN"
+  ],
+  "Yukon River at Dawson": [
+    "FAIRBANKS_INTL_AP",
+    "NORTHWAY_AIRPORT",
+    "ALYESKA",
+    "CHICKEN",
+    "GULKANA_AIRPORT"
+  ],
+  "Yukon River at Eagle": [
+    "FAIRBANKS_INTL_AP",
+    "EAGLE",
+    "MCGRATH_AP",
+    "BIG_DELTA_AIRPORT",
+    "COLLEGE_OBSERVATORY"
+  ],
+  "Yukon River at Fort Yukon": [
+    "FAIRBANKS_INTL_AP",
+    "NORTHWAY_AIRPORT",
+    "EAGLE",
+    "KENAI_AIRPORT",
+    "CHICKEN"
+  ],
+  "Yukon River at Galena": [
+    "FAIRBANKS_INTL_AP",
+    "NENANA_MUN_AP",
+    "MCKINLEY_PARK",
+    "MCGRATH_AP",
+    "COLLEGE_OBSERVATORY"
+  ],
+  "Yukon River at Holy Cross": [
+    "NORTHWAY_AIRPORT",
+    "BETHEL_AIRPORT",
+    "KING_SALMON_AIRPORT",
+    "GULKANA_AIRPORT",
+    "TALKEETNA_AIRPORT"
+  ],
+  "Yukon River at Kaltag": [
+    "NOME_AIRPORT",
+    "NENANA_MUN_AP",
+    "MCGRATH_AP",
+    "BETHEL_AIRPORT",
+    "TALKEETNA_AIRPORT"
+  ],
+  "Yukon River at Marshall": [
+    "NORTHWAY_AIRPORT",
+    "ALYESKA",
+    "BETHEL_AIRPORT",
+    "CHICKEN",
+    "ANCHORAGE_MERRILL_FIELD"
+  ],
+  "Yukon River at Mountain Village": [
+    "NOME_AIRPORT",
+    "BETHEL_AIRPORT",
+    "KING_SALMON_AIRPORT",
+    "SITKA_AIRPORT",
+    "TALKEETNA_AIRPORT"
+  ],
+  "Yukon River at Ruby": [
+    "FAIRBANKS_INTL_AP",
+    "NENANA_MUN_AP",
+    "BETHEL_AIRPORT",
+    "MCGRATH_AP",
+    "BIG_DELTA_AIRPORT"
+  ],
+  "Yukon River at Russian Mission": [
+    "FAIRBANKS_INTL_AP",
+    "KENAI_AIRPORT",
+    "BETHEL_AIRPORT",
+    "BIG_DELTA_AIRPORT",
+    "NORTH_POLE"
+  ],
+  "Yukon River at Tanana": [
+    "NENANA_MUN_AP",
+    "EAGLE",
+    "MCGRATH_AP",
+    "CHICKEN",
+    "BIG_DELTA_AIRPORT"
+  ],
+  "Yukon River nr Emmonak": [
+    "NOME_AIRPORT",
+    "NORTHWAY_AIRPORT",
+    "NENANA_MUN_AP",
+    "BETHEL_AIRPORT",
+    "TALKEETNA_AIRPORT"
+  ]
+}
