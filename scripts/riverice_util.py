@@ -54,7 +54,7 @@ def calculate_corr(breakupDF: pd.DataFrame,
                    show_plots: bool = False, save_plots: bool = False, 
                    prefix: str = "TDD_breakup", 
                    stationnames: list[str] | None = None,
-                   outpath: Path = Path().resolve()):
+                   outpath: Path = Path().resolve()) -> list[dict]:
     """Calculate pairwise correlations between TDD anomalies in dataframe and stations, optionally plotting them"""
     if not set(locations) <= set(breakupDF.siteID):
         raise Exception("Sorry, the location isn't available in the breakup dataset. Check spelling?")
