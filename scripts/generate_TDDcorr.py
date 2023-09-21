@@ -62,7 +62,7 @@ if __name__ == '__main__':
              station_tdd, breakup_anomaly_fixed, datestr, locations) 
     recordsDF = makeDF_from_records(records)
 
-    with open(OUTPATH / "TDD_anomaly_correllations.csv", "w") as dst:
+    with open(OUTPATH / "TDD_anomaly_correlations.csv", "w") as dst:
         dst.write("# Correlations between TDD anomalies each date since April 1 and breakup day \n")
         dst.write("# For all selected sites and stations\n")
         dst.write("# \n")
