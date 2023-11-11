@@ -8,27 +8,10 @@ from pathlib import Path
 from matplotlib import pyplot as plt
 from scipy.stats import pearsonr
 
-DD_CONFIG = {
-    "TDD": {
-        "deltaT": 32
-    },
-    "DD20": {
-        "deltaT": 20
-    },
-    "DD25": {
-        "deltaT": 25
-    },
-}
 PROJPATH = Path().resolve().parent
 BREAKUPPTH = PROJPATH / "data/breakupdata/derived/breakupDate_cleaned.csv"
 CLIMPTH = PROJPATH / "data/weatherstations/ACIS/TDD/all_cumul_clim1991_2020.csv"
 STATIONDATA = PROJPATH / "data/weatherstations/ACIS/TDD/tdd_cumul_bystation"
-
-def get_climpath(ddprefix):
-    return PROJPATH / f"data/weatherstations/ACIS/{ddprefix}/all_cumul_clim1991_2020.csv"
-
-def get_stationdata(ddprefix):
-    return PROJPATH / f"data/weatherstations/ACIS/{ddprefix}/dd_cumul_bystation"
 
 def datestr2dayssince(datestr: str, since: str = '0301') -> int:
     """Translate date string like '2000-04-02' into integer days-since reference date"""
@@ -43,13 +26,13 @@ def dayssince2date(days: int, year: int, since: str = '0301') -> dt.date:
     since_date = dt.datetime.strptime(f"{year}{since}", "%Y%m%d").date()
     return (since_date + dt.timedelta(days=days))
 
-def retrieve_dd(row, stationDF, offset=0):
+def retrieve_tdd(row, stationDF, offset=0):
     try:
         return stationDF.iloc[row.days_since_march-offset][str(row.year)]
     except KeyError:
         return np.nan
 
-def retrieve_dd_anomaly(row, stationname, stationDF, offset=0):
+def retrieve_tdd_anomaly(row, stationname, stationDF, offset=0):
     climatologies = pd.read_csv(CLIMPTH, header=3, index_col=0)
     try:
         return ( stationDF.iloc[row.days_since_march1-offset][str(row.year)] 
@@ -57,7 +40,7 @@ def retrieve_dd_anomaly(row, stationname, stationDF, offset=0):
     except KeyError:
         return np.nan
     
-def retrieve_dd_anomaly_fixed(row, stationname, stationDF, datestring):
+def retrieve_tdd_anomaly_fixed(row, stationname, stationDF, datestring):
     """Datestring is something like 04-15"""
     climatologies = pd.read_csv(CLIMPTH, header=3, index_col=0)
     days_since_march1 = datestr2dayssince(f"{str(row.year)}-{datestring}")
@@ -69,10 +52,10 @@ def retrieve_dd_anomaly_fixed(row, stationname, stationDF, datestring):
 def calculate_corr(breakupDF: pd.DataFrame, 
                    locations: list[str], 
                    show_plots: bool = False, save_plots: bool = False, 
-                   prefix: str = "DD_breakup", 
+                   prefix: str = "TDD_breakup", 
                    stationnames: list[str] | None = None,
                    outpath: Path = Path().resolve()) -> list[dict]:
-    """Calculate pairwise correlations between DD anomalies in dataframe and stations, optionally plotting them"""
+    """Calculate pairwise correlations between TDD anomalies in dataframe and stations, optionally plotting them"""
     if not set(locations) <= set(breakupDF.siteID):
         raise Exception("Sorry, the location isn't available in the breakup dataset. Check spelling?")
     outputrecords = []
@@ -101,7 +84,7 @@ def calculate_corr(breakupDF: pd.DataFrame,
                                     hue='year', palette="crest")
                 ax.set_title(f"{stationname.replace('_', ' ').title()} station for {location} "
                              f"{prefix.replace('_', ' ')}")
-                ax.set_xlabel(f"DD anomaly")
+                ax.set_xlabel("TDD anomaly")
                 ax.set_ylabel("Days since March 1")
                 plt.legend(loc='upper right')
                 ax.text(0.06, 0.1, 
