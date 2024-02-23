@@ -13,7 +13,7 @@ OUTPATH = rutil.PROJPATH / "data/breakupdata/working"
 
 ## Change these as needed 
 STARTDATE = dt.datetime(2000, 4, 1)
-NUMDAYS = 65
+NUMDAYS = 90
 
 def makeDF_from_records(records: list[dict[str]]) -> pd.DataFrame:
     """"Turn per-station, per-location, per-date records of correlations into dataframe"""
