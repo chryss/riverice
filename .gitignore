@@ -4,6 +4,10 @@
 ._.DS*
 *.zip
 *.png
+*.gif
+*.mp4
+*.avi
+*.mov
 
 # hide data and output plots for the time being
 data/GIS
