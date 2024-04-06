@@ -27,7 +27,7 @@ def get_acis_stationdata(uid):
     params = {
         'uid': uid,
         'sdate': "1980-01-01",
-        'edate': "2023-09-01",
+        'edate': "2024-04-05",
         'elems': "maxt,mint,avgt,snwd,13",
         'output': 'csv'
     }

@@ -38,7 +38,7 @@ def datestr2dayssince(datestr: str, since: str = '0301') -> int:
     since_date = dt.date(thedate.year, since_mth, since_day)
     return (thedate - since_date).days
 
-def dayssince2date(days: int, year: int, since: str = '0301') -> dt.date:
+def dayssince2date(days: int, year: int = '2000', since: str = '0301') -> dt.date:
     """Translate number of days past reference to dt.date for given year"""
     since_date = dt.datetime.strptime(f"{year}{since}", "%Y%m%d").date()
     return (since_date + dt.timedelta(days=days))
