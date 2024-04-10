@@ -76,7 +76,7 @@ if __name__ == '__main__':
 
         # do calculation and generate plots
         if for_ffmpeg: icount = 1
-        for ii in range (32, 80, 1):
+        for ii in range (32, 50, 1):
             breakup_avg_model = linear_model.LinearRegression() 
             DF = likelihoodDF[likelihoodDF.forecast_day_past_march1==ii].copy()
             DDval = mean_station[f'{year}'][ii].squeeze()

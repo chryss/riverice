@@ -11,8 +11,8 @@ import numpy as np
 
 PROJPATH = Path(__file__).resolve().parent.parent
 ACISDIR = PROJPATH / "data/weatherstations/ACIS"
-OUTDIR = ACISDIR / 'stationdata_working'
-ACISSTATIONS = "ACIS_stations_AK_recentTemps.csv"
+OUTDIR = ACISDIR / 'stationdata/RFC_new_model'
+ACISSTATIONS = "ACIS_stations_AK_fornewmodel.csv"
 
 def safelyget(alist, idx, default='N/A'):
     """Returns alist[idx] if exists, else default"""
@@ -27,7 +27,7 @@ def get_acis_stationdata(uid):
     params = {
         'uid': uid,
         'sdate': "1980-01-01",
-        'edate': "2024-04-05",
+        'edate': "2024-05-30",
         'elems': "maxt,mint,avgt,snwd,13",
         'output': 'csv'
     }
