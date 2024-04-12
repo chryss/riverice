@@ -23,6 +23,8 @@ PROJPATH = Path().resolve().parent
 BREAKUPPTH = PROJPATH / "data/breakupdata/derived/breakupDate_cleaned.csv"
 CLIMPTH = PROJPATH / "data/weatherstations/ACIS/TDD/all_cumul_clim1991_2020.csv"
 STATIONDATA = PROJPATH / "data/weatherstations/ACIS/TDD/tdd_cumul_bystation"
+COLNAMES = ["Tmax_f", "Tmin_F", "Tavg_F", "sd_m", "swe"]
+LASTYEAR = 2024
 
 def get_climpath(ddprefix):
     return PROJPATH / f"data/weatherstations/ACIS/{ddprefix}/all_cumul_clim1991_2020.csv"
@@ -42,6 +44,42 @@ def dayssince2date(days: int, year: int = '2000', since: str = '0301') -> dt.dat
     """Translate number of days past reference to dt.date for given year"""
     since_date = dt.datetime.strptime(f"{year}{since}", "%Y%m%d").date()
     return (since_date + dt.timedelta(days=days))
+
+def station2df(stationpth):
+    df = pd.read_csv(stationpth, header=1, 
+        names=COLNAMES, parse_dates=True)
+    df = df.replace("M", -9999,)
+    df['year'] = df.index.year
+    return df 
+
+def get_MAMJ_dd(stationdf):
+    stationdf.drop(columns=["Tmax_f", "Tmin_F", "sd_m", "swe"], inplace=True)
+    tempdf = stationdf[stationdf.index.month.isin([3, 4, 5, 6])]
+    tempdf = tempdf[tempdf.index.year < LASTYEAR+1]
+    return tempdf
+
+def days_past_march1(rowind):
+    march1 = dt.date(rowind.year, 3, 1)
+    timed = rowind.date() - march1
+    return timed.days
+
+def get_dddf(tempdf, prefix='DD25'):
+    tempdf['d_since_march1'] = list(tempdf.index.to_series().apply(days_past_march1))
+    tempdf['dd'] = tempdf['Tavg_F'].astype('float') - DD_CONFIG[prefix]['deltaT']
+    tempdf.loc[tempdf['dd'] < 0, 'dd'] = 0
+    tdddf = tempdf.groupby(['year', "d_since_march1", 'Tavg_F'], as_index=False)['dd'].sum().assign(
+        dd_cumul=lambda x: x.groupby('year')['dd'].cumsum()
+    ) 
+    return tdddf
+
+def get_pivotdf(tdddf, index="d_since_march1", column='year', value='dd_cumul'):
+    pivotdf = tdddf.pivot(index=[index], columns=[column], values=[value] )
+    pivotdf.columns = pivotdf.columns.get_level_values(1)
+    return pivotdf
+
+def station2pivot(stationdf, index="d_since_march1", column='year', value='dd_cumul'):
+    return get_pivotdf(get_dddf(get_MAMJ_dd(stationdf)), index=index, column=column, value=value)
+
 
 def retrieve_dd(row, stationDF, offset=0):
     try:

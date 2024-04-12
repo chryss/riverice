@@ -16,7 +16,7 @@ xs = np.arange(-101, 101)
 year = 2024
 for_ffmpeg = False
 DAILY = True
-PLOTS = False
+PLOTS = True
 
 PROJPATH = Path().resolve().parent
 tdd_anomalycorr = PROJPATH / f"data/breakupdata/derived/{prefix}_anomaly_correlations.csv"
@@ -58,8 +58,9 @@ if __name__ == '__main__':
     days_end = 90
     if DAILY:
         today = dt.datetime.now().strftime('%Y-%m-%d')
-        days_end = ru.datestr2dayssince(today) + 1
-        days_start = ru.datestr2dayssince(today)
+        # we start and end the day before today b/c day with newest ACIS data
+        days_end = ru.datestr2dayssince(today)
+        days_start = ru.datestr2dayssince(today) - 1
 
     huctable = pd.read_csv(huctablepath)
     breakupDF = pd.read_csv(breakuppth, header=3, index_col=0)
@@ -83,7 +84,7 @@ if __name__ == '__main__':
 
         # do calculation and generate plots
         if for_ffmpeg: icount = 1
-        for ii in range (31, days_end, 1):
+        for ii in range (30, 31, 1):
             breakup_avg_model = linear_model.LinearRegression() 
             DF = likelihoodDF[likelihoodDF.forecast_day_past_march1==ii].copy()
             DDval = mean_station[f'{year}'][ii].squeeze()
@@ -100,7 +101,7 @@ if __name__ == '__main__':
             prob_37 = pdf[103:108].sum()
             prob_wk2 = pdf[108:115].sum()
             prob_wk3 = pdf[115:122].sum()
-            forecastdate = ru.dayssince2date(ii, year)
+            forecastdate = ru.dayssince2date(ii + 1, year) # forecast is one day later than data
             mostlikely = int(np.round(mu_0) + 1)
             forecasteddate = ru.dayssince2date(mostlikely+ii-1, year)
             startidx = max(101, 100 + mostlikely-3)

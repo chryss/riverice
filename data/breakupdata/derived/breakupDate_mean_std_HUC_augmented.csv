@@ -1,4 +1,4 @@
-,siteID,mean,std,lat,lon,objectid,huc6,name,river,locality,mean_date
+,siteID,mean_days,std_days,lat,lon,objectid,huc6,name,river,locality,mean_date
 0,Gakona River at Gakona,59.2352941176471,10.4766951287114,62.30565,-145.285421,1,190201,Copper River,Gakona River,Gakona,04-29
 1,Gulkana River nr Gakona,58.4848484848485,9.42112391159228,62.299913,-145.370357,1,190201,Copper River,Gulkana River,Gakona,04-28
 2,Yukon River at Circle,67.025641025641,5.78786016038461,65.830226,-144.008404,2,190705,Fortymile River-Yukon River,Yukon River,Circle,05-07
