@@ -26,7 +26,7 @@ breakuppth = breakupdata / "derived/breakupDate_cleaned.csv"
 stationfolder = PROJPATH / f"data/weatherstations/ACIS/{prefix}/dd_cumul_bystation"
 combinedpath = PROJPATH / 'data/weatherstations/ACIS_combined_DD'
 huctablepath = PROJPATH / "data/breakupdata/derived/breakupDate_mean_std_HUC_augmented.csv"
-outfolder = PROJPATH / f"data/working"
+outfolder = PROJPATH / f"data/DDforecast_2024"
 
 def make_likelihood_DF(breakupDF):
     """Generate a dataframe of breakup likelihoods from historical data"""
@@ -84,7 +84,7 @@ if __name__ == '__main__':
 
         # do calculation and generate plots
         if for_ffmpeg: icount = 1
-        for ii in range (30, 31, 1):
+        for ii in range (days_start, days_end, 1):
             breakup_avg_model = linear_model.LinearRegression() 
             DF = likelihoodDF[likelihoodDF.forecast_day_past_march1==ii].copy()
             DDval = mean_station[f'{year}'][ii].squeeze()
@@ -107,6 +107,7 @@ if __name__ == '__main__':
             startidx = max(101, 100 + mostlikely-3)
             endidx = startidx + 6
             plusminus3daysprob = pdf[startidx:endidx+1].sum()
+            print(f"Forecast on {forecastdate}")
             print(mu_0, np.round(mu_0), sigma_0, prob_12, prob_37, prob_wk2, prob_wk3)
             if PLOTS:
                 fig, ax1 = plt.subplots()
