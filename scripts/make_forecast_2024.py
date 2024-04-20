@@ -102,8 +102,8 @@ if __name__ == '__main__':
             prob_wk2 = pdf[108:115].sum()
             prob_wk3 = pdf[115:122].sum()
             forecastdate = ru.dayssince2date(ii + 1, year) # forecast is one day later than data
-            mostlikely = int(np.round(mu_0) + 1)
-            forecasteddate = ru.dayssince2date(mostlikely+ii-1, year)
+            mostlikely = int(np.round(mu_0))
+            forecasteddate = ru.dayssince2date(mostlikely+ii, year)
             startidx = max(101, 100 + mostlikely-3)
             endidx = startidx + 6
             plusminus3daysprob = pdf[startidx:endidx+1].sum()
@@ -166,7 +166,7 @@ if __name__ == '__main__':
                 "probability of breakup within 1 or 2 days": prob_12, 
                 "probability of breakup within 3-7 days": prob_37, 
                 "probability of breakup within week 2 from now": prob_wk2, 
-                "probability of breakup within week 2 from now": prob_wk3
+                "probability of breakup within week 3 from now": prob_wk3
             }
             try:
                 results[forecastdate].append(resultrecord)

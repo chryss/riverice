@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 ACISDIR="../data/weatherstations/ACIS/stationdata/RFC_new_model"
 OUTDIR="../data/DDforecast_2024"
 CLOUDDIR="/Users/chris/Library/CloudStorage/GoogleDrive-cwaigl@alaska.edu/My\ Drive/Shortcuts/Alaska\ River\ Ice\ Forecasting/Forecasts2024/from_DD25_only"
@@ -18,5 +19,5 @@ python acis2combinedDD.py
 python make_forecast_2024.py 
 
 echo "Copying to Google Drive"
-cd $OUTDIR
+cd ${OUTDIR}
 cp -R  * ${CLOUDDIR}
