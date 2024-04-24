@@ -27,6 +27,11 @@ stationfolder = PROJPATH / f"data/weatherstations/ACIS/{prefix}/dd_cumul_bystati
 combinedpath = PROJPATH / 'data/weatherstations/ACIS_combined_DD'
 huctablepath = PROJPATH / "data/breakupdata/derived/breakupDate_mean_std_HUC_augmented.csv"
 outfolder = PROJPATH / f"data/DDforecast_2024"
+broken_up = "broken_up_2024.csv"
+
+def get_brokenup():
+    return set(pd.read_csv(outfolder / broken_up).location)
+    
 
 def make_likelihood_DF(breakupDF):
     """Generate a dataframe of breakup likelihoods from historical data"""
@@ -66,13 +71,17 @@ if __name__ == '__main__':
     breakupDF = pd.read_csv(breakuppth, header=3, index_col=0)
     breakupDF['days_since_march1'] = breakupDF.apply(
         lambda row: ru.datestr2dayssince(row.breakup), axis=1)
+    broken_upSet = get_brokenup()
+    print(broken_upSet)
 
     results = {}
     for _, item in huctable.iterrows():
         location = item.siteID
+        if location in broken_upSet:
+            print(f"{location} has broken up")
+            continue
         river = item.river
         locality = item.locality
-        # clean up location
         print(f"working on {location}")
         # load combined station data
         mean_station = pd.read_csv(combinedpath / f"{prefix}_combined_{location.replace(' ', '_')}.csv", 
