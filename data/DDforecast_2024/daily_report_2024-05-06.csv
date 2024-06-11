@@ -1,0 +1,39 @@
+location,river,forecastdate,most likely breakup in (days),forecasted date,average breakup date,probability of breakup within ± 3 days around forecasted,probability of breakup within 1 or 2 days,probability of breakup within 3-7 days,probability of breakup within week 2 from now,probability of breakup within week 3 from now
+Buckland,Buckland River,2024-05-06,11,2024-05-16,05-15,0.45,0.02,0.15,0.45,0.31
+Fairbanks,Chena River,2024-05-06,-10,2024-04-25,04-24,0.99,0.69,0.31,0.01,0.00
+Northway,Chisana River,2024-05-06,-11,2024-04-24,04-23,1.00,0.91,0.09,0.00,0.00
+Gakona,Gakona River,2024-05-06,-3,2024-05-02,04-29,0.66,0.23,0.44,0.27,0.06
+Gakona,Gulkana River,2024-05-06,-5,2024-04-30,04-28,0.78,0.30,0.48,0.20,0.02
+Kobuk,Kobuk River,2024-05-06,9,2024-05-14,05-13,0.55,0.04,0.26,0.54,0.15
+Shungnak,Kobuk River,2024-05-06,11,2024-05-16,05-15,0.59,0.01,0.15,0.59,0.24
+Ambler,Kobuk River,2024-05-06,12,2024-05-17,05-16,0.48,0.02,0.13,0.46,0.33
+Bettles,Koyukuk River,2024-05-06,5,2024-05-10,05-07,0.65,0.14,0.48,0.35,0.03
+Allakaket,Koyukuk River,2024-05-06,6,2024-05-11,05-08,0.60,0.10,0.42,0.43,0.05
+Hughes,Koyukuk River,2024-05-06,5,2024-05-10,05-08,0.67,0.12,0.50,0.36,0.02
+Sleetmute,Kuskokwim River,2024-05-06,-3,2024-05-02,05-02,0.99,0.58,0.41,0.01,0.00
+Stony River,Kuskokwim River,2024-05-06,-2,2024-05-03,05-02,0.98,0.53,0.45,0.02,0.00
+Red Devil,Kuskokwim River,2024-05-06,-2,2024-05-03,05-03,0.99,0.60,0.39,0.01,0.00
+McGrath,Kuskokwim River,2024-05-06,-1,2024-05-04,05-04,0.99,0.60,0.40,0.01,0.00
+Crooked Creek,Kuskokwim River,2024-05-06,0,2024-05-05,05-04,0.96,0.43,0.53,0.04,0.00
+Aniak,Kuskokwim River,2024-05-06,2,2024-05-07,05-05,0.86,0.26,0.60,0.14,0.00
+Kalskag,Kuskokwim River,2024-05-06,1,2024-05-06,05-05,0.96,0.37,0.59,0.04,0.00
+Tuluksak,Kuskokwim River,2024-05-06,3,2024-05-08,05-06,0.91,0.23,0.68,0.09,0.00
+Akiak,Kuskokwim River,2024-05-06,4,2024-05-09,05-07,0.74,0.12,0.62,0.26,0.00
+Bethel,Kuskokwim River,2024-05-06,4,2024-05-09,05-07,0.67,0.15,0.52,0.32,0.02
+Sunshine,Susitna River,2024-05-06,-3,2024-05-02,04-29,0.98,0.55,0.43,0.02,0.00
+Manley Hot Springs,Tanana River,2024-05-06,-2,2024-05-03,05-01,0.97,0.51,0.46,0.03,0.00
+Lake Creek,Yentna River,2024-05-06,-4,2024-05-01,04-29,1.00,0.76,0.24,0.00,0.00
+Eagle,Yukon River,2024-05-06,0,2024-05-05,05-03,0.98,0.47,0.51,0.02,0.00
+Circle,Yukon River,2024-05-06,4,2024-05-09,05-07,0.71,0.15,0.56,0.29,0.01
+Tanana,Yukon River,2024-05-06,4,2024-05-09,05-07,0.74,0.15,0.59,0.26,0.00
+Fort Yukon,Yukon River,2024-05-06,5,2024-05-10,05-08,0.65,0.09,0.50,0.40,0.02
+Ruby,Yukon River,2024-05-06,6,2024-05-11,05-09,0.76,0.07,0.55,0.38,0.00
+Galena,Yukon River,2024-05-06,6,2024-05-11,05-10,0.75,0.04,0.50,0.46,0.00
+Kaltag,Yukon River,2024-05-06,8,2024-05-13,05-11,0.68,0.02,0.29,0.63,0.06
+Holy Cross,Yukon River,2024-05-06,8,2024-05-13,05-12,0.74,0.01,0.28,0.68,0.03
+Marshall,Yukon River,2024-05-06,10,2024-05-15,05-12,0.75,0.00,0.06,0.81,0.12
+Russian Mission,Yukon River,2024-05-06,8,2024-05-13,05-12,0.63,0.02,0.27,0.62,0.09
+Anvik,Yukon River,2024-05-06,8,2024-05-13,05-14,0.68,0.02,0.29,0.64,0.06
+Mountain Village,Yukon River,2024-05-06,11,2024-05-16,05-14,0.62,0.01,0.13,0.62,0.24
+Emmonak,Yukon River,2024-05-06,16,2024-05-21,05-18,0.64,0.00,0.01,0.25,0.63
+Alakanuk,Yukon River,2024-05-06,17,2024-05-22,05-19,0.61,0.00,0.00,0.17,0.63

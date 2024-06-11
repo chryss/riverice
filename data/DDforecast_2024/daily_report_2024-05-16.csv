@@ -1,0 +1,23 @@
+location,river,forecastdate,most likely breakup in (days),forecasted date,average breakup date,probability of breakup within ± 3 days around forecasted,probability of breakup within 1 or 2 days,probability of breakup within 3-7 days,probability of breakup within week 2 from now,probability of breakup within week 3 from now
+Buckland,Buckland River,2024-05-16,1,2024-05-16,05-15,0.81,0.27,0.54,0.18,0.01
+Northway,Chisana River,2024-05-16,-21,2024-04-24,04-23,1.00,0.98,0.02,0.00,0.00
+Gakona,Gulkana River,2024-05-16,-15,2024-04-30,04-28,0.92,0.47,0.45,0.08,0.00
+Kobuk,Kobuk River,2024-05-16,-1,2024-05-14,05-13,0.95,0.43,0.51,0.05,0.00
+Shungnak,Kobuk River,2024-05-16,0,2024-05-15,05-15,0.93,0.38,0.55,0.07,0.00
+Ambler,Kobuk River,2024-05-16,1,2024-05-16,05-16,0.78,0.25,0.53,0.21,0.01
+Bettles,Koyukuk River,2024-05-16,-6,2024-05-09,05-07,0.99,0.63,0.36,0.01,0.00
+Allakaket,Koyukuk River,2024-05-16,-4,2024-05-11,05-08,0.97,0.55,0.42,0.03,0.00
+Hughes,Koyukuk River,2024-05-16,-5,2024-05-10,05-08,0.99,0.67,0.33,0.01,0.00
+Tuluksak,Kuskokwim River,2024-05-16,-7,2024-05-08,05-06,1.00,0.80,0.20,0.00,0.00
+Akiak,Kuskokwim River,2024-05-16,-6,2024-05-09,05-07,1.00,0.75,0.25,0.00,0.00
+Manley Hot Springs,Tanana River,2024-05-16,-12,2024-05-03,05-01,1.00,0.86,0.14,0.00,0.00
+Tanana,Yukon River,2024-05-16,-6,2024-05-09,05-07,1.00,0.76,0.24,0.00,0.00
+Ruby,Yukon River,2024-05-16,-5,2024-05-10,05-09,1.00,0.82,0.18,0.00,0.00
+Kaltag,Yukon River,2024-05-16,-2,2024-05-13,05-11,1.00,0.65,0.35,0.00,0.00
+Holy Cross,Yukon River,2024-05-16,-2,2024-05-13,05-12,1.00,0.76,0.24,0.00,0.00
+Marshall,Yukon River,2024-05-16,0,2024-05-15,05-12,0.99,0.49,0.49,0.01,0.00
+Russian Mission,Yukon River,2024-05-16,-2,2024-05-13,05-12,0.97,0.50,0.47,0.03,0.00
+Anvik,Yukon River,2024-05-16,-2,2024-05-13,05-14,0.99,0.60,0.40,0.01,0.00
+Mountain Village,Yukon River,2024-05-16,1,2024-05-16,05-14,0.92,0.35,0.58,0.08,0.00
+Emmonak,Yukon River,2024-05-16,5,2024-05-20,05-18,0.78,0.09,0.61,0.30,0.00
+Alakanuk,Yukon River,2024-05-16,7,2024-05-22,05-19,0.77,0.03,0.44,0.52,0.01
