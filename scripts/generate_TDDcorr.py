@@ -54,14 +54,16 @@ if __name__ == '__main__':
 
     # Retrieve records for each correlation  dataframe 
     records = {}
-    for ii in range(NUMDAYS):
-        datepoint = STARTDATE + dt.timedelta(days=ii)
-        datestr = datepoint.strftime('%m-%d')
-        print(f"Working on {datestr}")
-        breakup_anomaly_fixed = breakup.copy()
-        records[datestr] = get_correlationrecords(
-             station_dd, breakup_anomaly_fixed, datestr, locations) 
-    recordsDF = makeDF_from_records(records)
+    try:
+        for ii in range(NUMDAYS):
+            datepoint = STARTDATE + dt.timedelta(days=ii)
+            datestr = datepoint.strftime('%m-%d')
+            print(f"Working on {datestr}")
+            breakup_anomaly_fixed = breakup.copy()
+            records[datestr] = get_correlationrecords(
+                station_dd, breakup_anomaly_fixed, datestr, locations) 
+    finally:
+        recordsDF = makeDF_from_records(records)
 
     with open(OUTPATH / f"{PREFIX}_anomaly_correlations.csv", "w") as dst:
         dst.write(f"# Correlations between {PREFIX} anomalies each date since April 1 and breakup day \n")

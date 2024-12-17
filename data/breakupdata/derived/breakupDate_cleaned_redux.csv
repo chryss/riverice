@@ -1,0 +1,1916 @@
+# Data from NWS-APRFC_AK_BreakupDate.csv
+# Only sites with more than 17 data points since 1980
+# 
+,id,siteID,year,breakup,JulianDay
+0,7185,Chena River at Fairbanks,2023,2023-04-30,120
+1,7186,Kuskokwim River at Nikolai,2023,2023-05-02,122
+2,7187,Skwentna River at Skwentna,2023,2023-05-07,127
+3,7188,Gakona River at Gakona,2023,2023-05-05,125
+4,7189,Gulkana River nr Gakona,2023,2023-05-02,122
+5,7190,Tanana River at Nenana,2023,2023-05-08,128
+6,7191,Yukon River at Dawson,2023,2023-05-09,129
+7,7192,Yentna River at Lake Creek,2023,2023-05-09,129
+8,7193,Susitna River at Sunshine,2023,2023-05-10,130
+9,7195,Yukon River at Eagle,2023,2023-05-12,132
+10,7196,Kuskokwim River at Stony River,2023,2023-05-12,132
+11,7197,Kuskokwim River at Sleetmute,2023,2023-05-12,132
+12,7198,Tanana River nr Manley Hot Springs,2023,2023-05-12,132
+13,7199,Kuskokwim River at McGrath,2023,2023-05-13,133
+14,7200,Kuskokwim River at Red Devil,2023,2023-05-13,133
+15,7201,Kuskokwim River at Crooked Creek,2023,2023-05-13,133
+16,7203,Koyukuk River at Allakaket,2023,2023-05-13,133
+17,7204,Yukon River at Tanana,2023,2023-05-14,134
+18,7205,Yukon River at Fort Yukon,2023,2023-05-14,134
+19,7206,Yukon River at Circle,2023,2023-05-13,133
+20,7207,Koyukuk River at Bettles,2023,2023-05-13,133
+21,7208,Koyukuk River at Hughes,2023,2023-05-14,134
+22,7209,Yukon River at Rampart,2023,2023-05-16,136
+23,7210,Yukon River at Beaver,2023,2022-05-15,135
+24,7211,Kuskokwim River at Aniak,2023,2022-05-15,135
+25,7212,Yukon River at Ruby,2023,2023-05-17,137
+26,7213,Kuskokwim River at Kalskag,2023,2023-05-15,135
+27,7214,Kuskokwim River at Tuluksak,2023,2023-05-18,138
+28,7215,Kuskokwim River at Akiak,2023,2023-05-18,138
+29,7217,Yukon River at Stevens Village,2023,2023-05-16,136
+30,7218,Yukon River at Galena,2023,2023-05-19,139
+31,7220,Kuskokwim River at Bethel,2023,2023-05-20,140
+32,7221,Yukon River at Kaltag,2023,2023-05-18,138
+33,7222,Yukon River at Nulato,2023,2023-05-18,138
+34,7223,Yukon River at Holy Cross,2023,2023-05-19,139
+35,7224,Yukon River at Anvik,2023,2023-05-19,139
+36,7225,Yukon River at Koyukuk,2023,2023-05-17,137
+37,7226,Buckland River at Buckland,2023,2023-05-19,139
+38,7227,Kuskokwim River at Napakiak,2023,2023-05-20,140
+39,7230,Kobuk River at Kobuk,2023,2023-05-20,140
+40,7231,Colville River at Umiat,2023,2023-05-22,142
+41,7232,Yukon River at Russian Mission,2023,2023-05-25,145
+42,7233,Yukon River at Mountain Village,2023,2023-05-23,143
+43,7234,Yukon River at Pilot Station,2023,2023-05-25,145
+44,7235,Yukon River at Alakanuk,2023,2023-05-27,147
+45,7236,Yukon River nr Emmonak,2023,2023-05-27,147
+46,7237,Noatak River at Noatak,2023,2023-05-21,141
+47,7238,Yukon River at Marshall,2023,2023-05-25,145
+48,7123,Anchor River at Anchor Point,2022,2022-04-01,91
+49,7124,Kuskokwim River at Nikolai,2022,2022-04-25,115
+50,7125,Chisana River at Northway,2022,2022-04-27,117
+51,7128,Chena River at Fairbanks,2022,2022-04-30,120
+52,7129,Tanana River at Nenana,2022,2022-05-02,122
+53,7132,Kuskokwim River at Bethel,2022,2022-05-05,125
+54,7133,Kuskokwim River at Stony River,2022,2022-05-05,125
+55,7134,Kuskokwim River at Aniak,2022,2022-05-01,121
+56,7135,Yukon River at Eagle,2022,2022-05-07,127
+57,7136,Yukon River at Dawson,2022,2022-05-07,127
+58,7137,Susitna River at Sunshine,2022,2022-05-05,125
+59,7138,Yukon River at Circle,2022,2022-05-09,129
+60,7139,Koyukuk River at Allakaket,2022,2022-05-06,126
+61,7140,Koyukuk River at Hughes,2022,2022-05-08,128
+62,7142,Yukon River at Tanana,2022,2022-05-09,129
+63,7143,Skwentna River at Skwentna,2022,2022-04-27,117
+64,7144,Yentna River at Lake Creek,2022,2022-05-05,125
+65,7145,Kuskokwim River at McGrath,2022,2022-05-09,129
+66,7146,Yukon River at Ruby,2022,2022-05-11,131
+67,7147,Kuskokwim River at Akiak,2022,2022-05-05,125
+68,7148,Kuskokwim River at Sleetmute,2022,2022-05-08,128
+69,7149,Kuskokwim River at Red Devil,2022,2022-05-08,128
+70,7150,Kuskokwim River at Crooked Creek,2022,2022-05-08,128
+71,7151,Kuskokwim River at Kalskag,2022,2022-05-08,128
+72,7152,Kuskokwim River at Tuluksak,2022,2022-05-04,124
+73,7154,Kuskokwim River at Napakiak,2022,2022-05-05,125
+74,7155,Yukon River at Fort Yukon,2022,2022-05-10,130
+75,7156,Yukon River at Galena,2022,2022-05-11,131
+76,7157,Yukon River at Nulato,2022,2022-05-12,132
+77,7158,Yukon River at Kaltag,2022,2022-05-12,132
+78,7159,Yukon River at Pilot Station,2022,2022-05-09,129
+79,7160,Yukon River nr Emmonak,2022,2022-05-15,135
+80,7161,Yukon River at Alakanuk,2022,2022-05-15,135
+81,7162,Gulkana River nr Gakona,2022,2022-05-07,127
+82,7164,Kobuk River at Kobuk,2022,2022-05-17,137
+83,7166,Yukon River at Anvik,2022,2022-05-18,138
+84,7167,Kobuk River at Ambler,2022,2022-05-20,140
+85,7168,Yukon River at Holy Cross,2022,2022-05-18,138
+86,7169,Yukon River at Russian Mission,2022,2022-05-18,138
+87,7170,Yukon River at Marshall,2022,2022-05-15,135
+88,7171,Yukon River at Mountain Village,2022,2022-05-10,130
+89,7172,Buckland River at Buckland,2022,2022-05-21,141
+90,7173,Kobuk River at Shungnak,2022,2022-05-20,140
+91,7174,Noatak River at Noatak,2022,2022-05-20,140
+92,7175,Koyukuk River at Bettles,2022,2022-05-05,125
+93,7176,Yukon River at Stevens Village,2022,2022-05-10,130
+94,7177,Yukon River at Beaver,2022,2022-05-10,130
+95,7182,Koyukuk River at Huslia,2022,2022-05-08,128
+96,7038,Anchor River at Anchor Point,2021,2021-04-19,109
+97,7039,Kuskokwim River at Nikolai,2021,2021-04-23,113
+98,7042,Chisana River at Northway,2021,2021-04-26,116
+99,7043,Gulkana River nr Gakona,2021,2021-04-28,118
+100,7045,Kuskokwim River at Sleetmute,2021,2021-04-29,119
+101,7046,Chena River at Fairbanks,2021,2021-04-27,117
+102,7047,Tanana River at Nenana,2021,2021-04-30,120
+103,7049,Gakona River at Gakona,2021,2021-04-26,116
+104,7050,Kuskokwim River at Stony River,2021,2021-04-30,120
+105,7051,Kuskokwim River at Red Devil,2021,2021-04-30,120
+106,7052,Kuskokwim River at Crooked Creek,2021,2021-05-03,123
+107,7054,Kuskokwim River at Aniak,2021,2021-05-03,123
+108,7055,Susitna River at Sunshine,2021,2021-04-29,119
+109,7056,Kuskokwim River at McGrath,2021,2021-05-04,124
+110,7057,Kuskokwim River at Akiak,2021,2021-05-05,125
+111,7058,Yukon River at Dawson,2021,2021-05-06,126
+112,7059,Tanana River nr Manley Hot Springs,2021,2021-05-05,125
+113,7060,Tanana River at Fairbanks D-S of Chena R,2021,2021-05-05,125
+114,7061,Kuskokwim River at Kalskag,2021,2021-05-06,126
+115,7062,Kuskokwim River at Bethel,2021,2021-05-06,126
+116,7063,Kuskokwim River at Tuluksak,2021,2021-05-06,126
+117,7065,Kuskokwim River at Napakiak,2021,2021-05-08,128
+118,7066,Yukon River at Galena,2021,2021-05-09,129
+119,7067,Yukon River at Eagle,2021,2021-05-08,128
+120,7068,Yukon River at Ruby,2021,2021-05-08,128
+121,7069,Yukon River at Tanana,2021,2021-05-07,127
+122,7070,Koyukuk River at Bettles,2021,2021-05-09,129
+123,7071,Yukon River at Circle,2021,2021-05-10,130
+124,7072,Yukon River at Koyukuk,2021,2021-05-11,131
+125,7073,Yukon River at Nulato,2021,2021-05-11,131
+126,7074,Yukon River at Beaver,2021,2021-05-12,132
+127,7076,Buckland River at Buckland,2021,2021-05-12,132
+128,7077,Yukon River at Fort Yukon,2021,2021-05-11,131
+129,7078,Koyukuk River at Allakaket,2021,2021-05-11,131
+130,7079,Koyukuk River at Hughes,2021,2021-05-09,129
+131,7080,Yukon River at Pilot Station,2021,2021-05-13,133
+132,7081,Yukon River nr Emmonak,2021,2021-05-13,133
+133,7083,Yukon River at Stevens Village,2021,2021-05-12,132
+134,7084,Yukon River at Alakanuk,2021,2021-05-16,136
+135,7085,Noatak River at Noatak,2021,2021-05-14,134
+136,7086,Yukon River at Holy Cross,2021,2021-05-12,132
+137,7087,Yukon River at Rampart,2021,2021-05-15,135
+138,7088,Yukon River at Marshall,2021,2021-05-13,133
+139,7089,Kobuk River at Ambler,2021,2021-05-13,133
+140,7091,Kobuk River at Kobuk,2021,2021-05-11,131
+141,7092,Kobuk River at Shungnak,2021,2021-05-12,132
+142,7093,Yukon River at Kaltag,2021,2021-05-11,131
+143,7094,Yukon River at Mountain Village,2021,2021-05-12,132
+144,7095,Skwentna River at Skwentna,2021,2021-05-02,122
+145,7098,Colville River at Umiat,2021,2021-05-28,148
+146,7181,Koyukuk River at Huslia,2021,2021-05-09,129
+147,6971,Kuskokwim River at Nikolai,2020,2020-04-21,112
+148,6973,Chisana River at Northway,2020,2020-04-23,114
+149,6976,Chena River at Fairbanks,2020,2020-04-21,112
+150,6977,Tanana River at Nenana,2020,2020-04-27,118
+151,6981,Gakona River at Gakona,2020,2020-04-26,117
+152,6982,Gulkana River nr Gakona,2020,2020-04-24,115
+153,6984,Anchor River at Anchor Point,2020,2020-04-20,111
+154,6986,Kuskokwim River at Sleetmute,2020,2020-04-28,119
+155,6987,Kuskokwim River at Red Devil,2020,2020-04-28,119
+156,6988,Kuskokwim River at Crooked Creek,2020,2020-04-29,120
+157,6990,Kuskokwim River at McGrath,2020,2020-05-02,123
+158,6991,Yukon River at Dawson,2020,2020-05-03,124
+159,6992,Kuskokwim River at Kalskag,2020,2020-05-04,125
+160,6993,Kuskokwim River at Akiak,2020,2020-05-04,125
+161,6994,Kuskokwim River at Tuluksak,2020,2020-05-04,125
+162,6995,Kuskokwim River at Aniak,2020,2020-05-01,122
+163,6999,Kuskokwim River at Bethel,2020,2020-05-03,124
+164,7001,Yukon River at Eagle,2020,2020-05-05,126
+165,7002,Yukon River at Ruby,2020,2020-05-06,127
+166,7003,Tanana River nr Manley Hot Springs,2020,2020-05-01,122
+167,7004,Yukon River at Circle,2020,2020-05-06,127
+168,7005,Yukon River at Galena,2020,2020-05-07,128
+169,7006,Skwentna River at Skwentna,2020,2020-04-30,121
+170,7007,Yukon River at Beaver,2020,2020-05-08,129
+171,7009,Yukon River at Tanana,2020,2020-05-07,128
+172,7010,Yukon River at Koyukuk,2020,2020-05-08,129
+173,7012,Koyukuk River at Bettles,2020,2020-05-09,130
+174,7014,Koyukuk River at Allakaket,2020,2020-05-10,131
+175,7015,Buckland River at Buckland,2020,2020-05-10,131
+176,7016,Koyukuk River at Hughes,2020,2020-05-10,131
+177,7017,Yukon River at Anvik,2020,2020-05-10,131
+178,7018,Yukon River at Russian Mission,2020,2020-05-10,131
+179,7019,Yukon River at Marshall,2020,2020-05-10,131
+180,7020,Yukon River at Pilot Station,2020,2020-05-11,132
+181,7021,Yukon River at Mountain Village,2020,2020-05-11,132
+182,7022,Kobuk River at Kobuk,2020,2020-05-12,133
+183,7024,Kobuk River at Shungnak,2020,2020-05-13,134
+184,7025,Yukon River at Kaltag,2020,2020-05-07,128
+185,7026,Yukon River at Holy Cross,2020,2020-05-06,127
+186,7027,Yukon River at Fort Yukon,2020,2020-05-08,129
+187,7028,Kobuk River at Ambler,2020,2020-05-15,136
+188,7029,Yukon River nr Emmonak,2020,2020-05-14,135
+189,7030,Yukon River at Alakanuk,2020,2020-05-14,135
+190,7031,Kuskokwim River at Stony River,2020,2020-04-28,119
+191,7032,Kuskokwim River at Napakiak,2020,2020-05-03,124
+192,7036,Susitna River at Sunshine,2020,2020-05-01,122
+193,7037,Yentna River at Lake Creek,2020,2020-04-30,121
+194,7180,Koyukuk River at Huslia,2020,2020-05-10,131
+195,6921,Kuskokwim River at Nikolai,2019,2019-03-31,90
+196,6923,Chisana River at Northway,2019,2019-04-10,100
+197,6925,Skwentna River at Skwentna,2019,2019-04-12,102
+198,6926,Kuskokwim River at Bethel,2019,2019-04-12,102
+199,6927,Tanana River at Nenana,2019,2019-04-14,104
+200,6928,Kuskokwim River at Napakiak,2019,2019-04-14,104
+201,6929,Yentna River at Lake Creek,2019,2019-04-15,105
+202,6930,Tanana River at Fairbanks D-S of Chena R,2019,2019-04-15,105
+203,6931,Susitna River at Sunshine,2019,2019-04-17,107
+204,6932,Yukon River at Dawson,2019,2019-04-23,113
+205,6933,Kuskokwim River at McGrath,2019,2019-04-28,118
+206,6934,Kuskokwim River at Sleetmute,2019,2019-04-28,118
+207,6935,Kuskokwim River at Crooked Creek,2019,2019-04-29,119
+208,6936,Kuskokwim River at Red Devil,2019,2019-04-29,119
+209,6937,Gakona River at Gakona,2019,2019-04-29,119
+210,6938,Kuskokwim River at Aniak,2019,2019-04-29,119
+211,6939,Kuskokwim River at Kalskag,2019,2019-04-29,119
+212,6940,Kuskokwim River at Tuluksak,2019,2019-04-30,120
+213,6941,Tanana River nr Manley Hot Springs,2019,2019-04-30,120
+214,6942,Yukon River at Eagle,2019,2019-05-01,121
+215,6943,Kuskokwim River at Akiak,2019,2019-04-26,116
+216,6944,Kuskokwim River at Stony River,2019,2019-04-28,118
+217,6945,Buckland River at Buckland,2019,2019-05-05,125
+218,6946,Yukon River at Holy Cross,2019,2019-05-05,125
+219,6947,Yukon River at Marshall,2019,2019-05-05,125
+220,6948,Yukon River at Russian Mission,2019,2019-05-05,125
+221,6949,Yukon River at Tanana,2019,2019-05-05,125
+222,6950,Yukon River at Galena,2019,2019-05-09,129
+223,6951,Yukon River at Kaltag,2019,2019-05-12,132
+224,6952,Yukon River nr Emmonak,2019,2019-05-08,128
+225,6953,Yukon River at Ruby,2019,2019-05-08,128
+226,6959,Yukon River at Mountain Village,2019,2019-05-08,128
+227,6956,Yukon River at Koyukuk,2019,2019-05-08,128
+228,6957,Yukon River at Circle,2019,2019-05-09,129
+229,6960,Yukon River at Pilot Station,2019,2019-05-07,127
+230,6961,Koyukuk River at Huslia,2019,2019-05-12,132
+231,6962,Koyukuk River at Hughes,2019,2019-05-12,132
+232,6963,Yukon River at Fort Yukon,2019,2019-05-11,131
+233,6964,Yukon River at Beaver,2019,2019-05-12,132
+234,6965,Yukon River at Stevens Village,2019,2019-05-12,132
+235,6966,Yukon River at Rampart,2019,2019-05-12,132
+236,6967,Kobuk River at Kobuk,2019,2019-05-14,134
+237,6968,Koyukuk River at Bettles,2019,2019-05-14,134
+238,6969,Colville River at Umiat,2019,2019-05-18,138
+239,6970,Colville River at Colville Village,2019,2019-05-27,147
+240,7179,Koyukuk River at Allakaket,2019,2019-05-13,133
+241,6865,Anchor River at Anchor Point,2018,2018-04-11,101
+242,6867,Kuskokwim River at Nikolai,2018,2018-04-24,114
+243,6868,Chisana River at Northway,2018,2018-04-25,115
+244,6871,Kuskokwim River at Red Devil,2018,2018-04-29,119
+245,6872,Kuskokwim River at Sleetmute,2018,2018-04-29,119
+246,6873,Kuskokwim River at Crooked Creek,2018,2018-04-29,119
+247,6874,Kuskokwim River at Aniak,2018,2018-05-01,121
+248,6875,Kuskokwim River at Kalskag,2018,2018-05-05,125
+249,6876,Kuskokwim River at Bethel,2018,2018-05-02,122
+250,6878,Kuskokwim River at Stony River,2018,2018-05-02,122
+251,6879,Kuskokwim River at Tuluksak,2018,2018-05-04,124
+252,6880,Skwentna River at Skwentna,2018,2018-05-03,123
+253,6881,Yentna River at Lake Creek,2018,2018-05-03,123
+254,6882,Kuskokwim River at Akiak,2018,2018-05-04,124
+255,6883,Susitna River at Sunshine,2018,2018-05-04,124
+256,6884,Kuskokwim River at Napakiak,2018,2018-05-05,125
+257,6885,Gakona River at Gakona,2018,2018-05-06,126
+258,6886,Gulkana River nr Gakona,2018,2018-05-06,126
+259,6887,Yukon River at Dawson,2018,2018-05-08,128
+260,6888,Yukon River at Eagle,2018,2018-05-08,128
+261,6889,Kuskokwim River at McGrath,2018,2018-05-09,129
+262,6890,Yukon River at Tanana,2018,2018-05-07,127
+263,6891,Tanana River nr Manley Hot Springs,2018,2018-05-08,128
+264,6893,Yukon River at Circle,2018,2018-05-10,130
+265,6894,Koyukuk River at Bettles,2018,2018-05-11,131
+266,6895,Yukon River at Galena,2018,2018-05-12,132
+267,6896,Yukon River at Fort Yukon,2018,2018-05-12,132
+268,6897,Yukon River at Ruby,2018,2018-05-12,132
+269,6898,Buckland River at Buckland,2018,2018-05-12,132
+270,6899,Koyukuk River at Allakaket,2018,2018-05-11,131
+271,6900,Koyukuk River at Huslia,2018,2018-05-13,133
+272,6901,Yukon River at Beaver,2018,2018-05-12,132
+273,6902,Yukon River at Stevens Village,2018,2018-05-11,131
+274,6903,Yukon River at Rampart,2018,2018-05-12,132
+275,6904,Koyukuk River at Hughes,2018,2018-05-11,131
+276,6905,Yukon River at Nulato,2018,2018-05-12,132
+277,6906,Tanana River at Nenana,2018,2018-05-01,121
+278,6907,Yukon River at Kaltag,2018,2018-05-14,134
+279,6908,Yukon River at Anvik,2018,2018-05-15,135
+280,6909,Yukon River at Holy Cross,2018,2018-05-16,136
+281,6910,Yukon River at Russian Mission,2018,2018-05-14,134
+282,6911,Yukon River at Marshall,2018,2018-05-15,135
+283,6912,Yukon River at Pilot Station,2018,2018-05-13,133
+284,6913,Yukon River at Mountain Village,2018,2018-05-14,134
+285,6914,Kobuk River at Kobuk,2018,2018-05-11,131
+286,6915,Kobuk River at Shungnak,2018,2018-05-16,136
+287,6916,Kobuk River at Ambler,2018,2018-05-16,136
+288,6917,Noatak River at Noatak,2018,2018-05-11,131
+289,6919,Colville River at Colville Village,2018,2018-06-05,156
+290,6920,Chena River at Fairbanks,2018,2018-04-25,115
+291,6777,Yentna River at Lake Creek,2017,2017-04-26,116
+292,6771,Anchor River at Anchor Point,2017,2017-04-13,103
+293,6772,Kuskokwim River at Nikolai,2017,2017-04-23,113
+294,6773,Skwentna River at Skwentna,2017,2017-04-24,114
+295,6775,Yentna River at Fish Creek,2017,2017-04-25,115
+296,6776,Kuskokwim River at Stony River,2017,2017-04-26,116
+297,6779,Gakona River at Gakona,2017,2017-04-27,117
+298,6780,Gulkana River nr Gakona,2017,2017-04-27,117
+299,6781,Chena River at Fairbanks,2017,2017-04-29,119
+300,6782,Tanana River at Fairbanks D-S of Chena R,2017,2017-05-01,121
+301,6783,Tanana River at Nenana,2017,2017-05-01,121
+302,6785,Kuskokwim River at McGrath,2017,2017-05-04,124
+303,6786,Kuskokwim River at Sleetmute,2017,2017-04-27,117
+304,6787,Kuskokwim River at Red Devil,2017,2017-04-28,118
+305,6788,Kuskokwim River at Crooked Creek,2017,2017-05-03,123
+306,6789,Kuskokwim River at Aniak,2017,2017-05-03,123
+307,6790,Kuskokwim River at Kalskag,2017,2017-05-04,124
+308,6791,Kuskokwim River at Tuluksak,2017,2017-05-07,127
+309,6792,Kuskokwim River at Akiak,2017,2017-05-07,127
+310,6794,Kuskokwim River at Bethel,2017,2017-05-06,126
+311,6795,Kuskokwim River at Napakiak,2017,2017-05-08,128
+312,6796,Yukon River at Dawson,2017,2017-05-03,123
+313,6797,Yukon River at Eagle,2017,2017-05-04,124
+314,6798,Yukon River at Circle,2017,2017-05-08,128
+315,6799,Yukon River at Fort Yukon,2017,2017-05-11,131
+316,6800,Yukon River at Beaver,2017,2017-05-12,132
+317,6801,Yukon River at Stevens Village,2017,2017-05-13,133
+318,6802,Yukon River at Rampart,2017,2017-05-13,133
+319,6803,Yukon River at Tanana,2017,2017-05-10,130
+320,6804,Yukon River at Ruby,2017,2017-05-09,129
+321,6805,Yukon River at Galena,2017,2017-05-11,131
+322,6806,Yukon River at Koyukuk,2017,2017-05-11,131
+323,6807,Yukon River at Nulato,2017,2017-05-12,132
+324,6808,Yukon River at Kaltag,2017,2017-05-10,130
+325,6809,Yukon River at Anvik,2017,2017-05-11,131
+326,6810,Yukon River at Holy Cross,2017,2017-05-06,126
+327,6811,Yukon River at Russian Mission,2017,2017-05-06,126
+328,6812,Yukon River at Marshall,2017,2017-05-10,130
+329,6813,Yukon River at Pilot Station,2017,2017-05-05,125
+330,6814,Yukon River at Mountain Village,2017,2017-05-11,131
+331,6815,Yukon River at Alakanuk,2017,2017-05-14,134
+332,6816,Yukon River nr Emmonak,2017,2017-05-14,134
+333,6817,Koyukuk River at Bettles,2017,2017-05-08,128
+334,6818,Koyukuk River at Allakaket,2017,2017-05-09,129
+335,6819,Koyukuk River at Hughes,2017,2017-05-09,129
+336,6820,Buckland River at Buckland,2017,2017-05-14,134
+337,6821,Kobuk River at Kobuk,2017,2017-05-12,132
+338,6822,Kobuk River at Shungnak,2017,2017-05-14,134
+339,6823,Kobuk River at Ambler,2017,2017-05-13,133
+340,6825,Colville River at Umiat,2017,2017-05-26,146
+341,6826,Colville River at Colville Village,2017,2017-05-26,146
+342,6828,Susitna River at Sunshine,2017,2017-04-29,119
+343,6710,Yentna River at Lake Creek,2016,2016-04-14,105
+344,6711,Skwentna River at Skwentna,2016,2016-04-12,103
+345,6712,Anchor River at Anchor Point,2016,2016-03-18,78
+346,6713,Susitna River at Sunshine,2016,2016-04-16,107
+347,6714,Chisana River at Northway,2016,2016-04-11,102
+348,6715,Tanana River at Fairbanks D-S of Chena R,2016,2016-04-18,109
+349,6716,Kuskokwim River at Nikolai,2016,2016-04-11,102
+350,6717,Kuskokwim River at Sleetmute,2016,2016-04-18,109
+351,6718,Kuskokwim River at Red Devil,2016,2016-04-19,110
+352,6719,Kuskokwim River at Crooked Creek,2016,2016-04-21,112
+353,6720,Kuskokwim River at Aniak,2016,2016-04-19,110
+354,6721,Kuskokwim River at Kalskag,2016,2016-04-20,111
+355,6722,Kuskokwim River at Tuluksak,2016,2016-04-21,112
+356,6723,Kuskokwim River at Akiak,2016,2016-04-21,112
+357,6724,Kuskokwim River at Bethel,2016,2016-04-20,111
+358,6725,Kuskokwim River at Napakiak,2016,2016-04-20,111
+359,6726,Yukon River at Dawson,2016,2016-04-23,114
+360,6727,Kuskokwim River at Stony River,2016,2016-04-23,114
+361,6728,Kuskokwim River at McGrath,2016,2016-04-24,115
+362,6729,Yukon River at Eagle,2016,2016-04-26,117
+363,6732,Yukon River at Circle,2016,2016-04-29,120
+364,6733,Yukon River at Fort Yukon,2016,2016-05-01,122
+365,6734,Yukon River at Tanana,2016,2016-04-29,120
+366,6735,Yukon River at Ruby,2016,2016-05-02,123
+367,6736,Yukon River at Galena,2016,2016-05-02,123
+368,6737,Koyukuk River at Hughes,2016,2016-04-30,121
+369,6738,Yukon River at Stevens Village,2016,2016-05-03,124
+370,6739,Yukon River at Rampart,2016,2016-05-03,124
+371,6740,Yukon River at Nulato,2016,2016-05-04,125
+372,6741,Little Susitna River nr Palmer,2016,2016-04-01,92
+373,6748,Chena River at Fairbanks,2016,2016-04-22,113
+374,6749,Tanana River at Nenana,2016,2016-04-23,114
+375,6750,Tanana River nr Manley Hot Springs,2016,2016-04-28,119
+376,6752,Yukon River at Beaver,2016,2016-05-02,123
+377,6753,Yukon River at Holy Cross,2016,2016-04-26,117
+378,6754,Yukon River at Koyukuk,2016,2016-05-04,125
+379,6755,Yukon River at Kaltag,2016,2016-05-01,122
+380,6756,Yukon River at Anvik,2016,2016-05-04,125
+381,6757,Yukon River at Russian Mission,2016,2016-04-25,116
+382,6758,Yukon River at Marshall,2016,2016-04-25,116
+383,6759,Yukon River at Pilot Station,2016,2016-04-29,120
+384,6760,Yukon River at Mountain Village,2016,2016-04-28,119
+385,6761,Yukon River at Alakanuk,2016,2016-05-03,124
+386,6762,Yukon River nr Emmonak,2016,2016-05-03,124
+387,6763,Koyukuk River at Bettles,2016,2016-04-30,121
+388,6764,Koyukuk River at Allakaket,2016,2016-05-01,122
+389,6765,Kobuk River at Kobuk,2016,2016-05-04,125
+390,6766,Kobuk River at Shungnak,2016,2016-05-04,125
+391,6767,Kobuk River at Ambler,2016,2016-05-03,124
+392,6768,Noatak River at Noatak,2016,2016-05-05,126
+393,6649,Kuskokwim River at Nikolai,2015,2015-04-15,105
+394,6650,Tanana River at Nenana,2015,2015-04-24,114
+395,6652,Chena River at Fairbanks,2015,2015-04-24,114
+396,6654,Susitna River at Sunshine,2015,2015-04-30,120
+397,6655,Yentna River at Lake Creek,2015,2015-04-28,118
+398,6656,Skwentna River at Skwentna,2015,2015-04-27,117
+399,6658,Kuskokwim River at Stony River,2015,2015-04-30,120
+400,6659,Kuskokwim River at Red Devil,2015,2015-04-30,120
+401,6660,Kuskokwim River at Sleetmute,2015,2015-04-30,120
+402,6661,Tanana River at Fairbanks D-S of Chena R,2015,2015-04-30,120
+403,6662,Kuskokwim River at McGrath,2015,2015-04-30,120
+404,6663,Tanana River nr Manley Hot Springs,2015,2015-05-01,121
+405,6665,Gulkana River nr Gakona,2015,2015-05-03,123
+406,6666,Kuskokwim River at Bethel,2015,2015-05-04,124
+407,6667,Yukon River at Dawson,2015,2015-05-04,124
+408,6668,Kuskokwim River at Aniak,2015,2015-05-04,124
+409,6670,Kuskokwim River at Napakiak,2015,2015-05-03,123
+410,6671,Kuskokwim River at Tuluksak,2015,2015-05-05,125
+411,6672,Yukon River at Eagle,2015,2015-05-06,126
+412,6673,Yukon River at Tanana,2015,2015-05-07,127
+413,6674,Kuskokwim River at Crooked Creek,2015,2015-04-29,119
+414,6675,Kuskokwim River at Akiak,2015,2015-05-06,126
+415,6676,Kuskokwim River at Kalskag,2015,2015-05-05,125
+416,6678,Yukon River at Circle,2015,2015-05-11,131
+417,6679,Yukon River at Fort Yukon,2015,2015-05-12,132
+418,6680,Yukon River at Beaver,2015,2015-05-10,130
+419,6681,Yukon River at Stevens Village,2015,2015-05-11,131
+420,6682,Yukon River at Rampart,2015,2015-05-11,131
+421,6683,Yukon River at Ruby,2015,2015-05-08,128
+422,6684,Yukon River at Galena,2015,2015-05-09,129
+423,6685,Yukon River at Koyukuk,2015,2015-05-10,130
+424,6686,Yukon River at Nulato,2015,2015-05-11,131
+425,6687,Yukon River at Kaltag,2015,2015-05-11,131
+426,6688,Yukon River at Anvik,2015,2015-05-14,134
+427,6689,Yukon River at Holy Cross,2015,2015-05-11,131
+428,6690,Yukon River at Russian Mission,2015,2015-05-13,133
+429,6691,Yukon River at Marshall,2015,2015-05-11,131
+430,6692,Yukon River at Pilot Station,2015,2015-05-14,134
+431,6693,Yukon River at Mountain Village,2015,2015-05-12,132
+432,6694,Yukon River at Alakanuk,2015,2015-05-16,136
+433,6695,Yukon River nr Emmonak,2015,2015-05-16,136
+434,6696,Koyukuk River at Bettles,2015,2015-05-07,127
+435,6697,Koyukuk River at Allakaket,2015,2015-05-05,125
+436,6698,Koyukuk River at Hughes,2015,2015-05-05,125
+437,6699,Buckland River at Buckland,2015,2015-05-15,135
+438,6700,Kobuk River at Kobuk,2015,2015-05-11,131
+439,6701,Kobuk River at Shungnak,2015,2015-05-12,132
+440,6702,Kobuk River at Ambler,2015,2015-05-13,133
+441,6703,Noatak River at Noatak,2015,2015-05-15,135
+442,6704,Colville River at Umiat,2015,2015-05-15,135
+443,6705,Colville River at Colville Village,2015,2015-05-22,142
+444,6706,Gakona River at Gakona,2015,2015-05-03,123
+445,6566,Anchor River at Anchor Point,2014,2014-04-17,107
+446,6568,Susitna River at Sunshine,2014,2014-05-02,122
+447,6569,Yentna River at Lake Creek,2014,2014-05-01,121
+448,6570,Skwentna River at Skwentna,2014,2014-04-29,119
+449,6571,Gakona River at Gakona,2014,2014-04-30,120
+450,6572,Gulkana River nr Gakona,2014,2014-04-25,115
+451,6573,Chena River at Fairbanks,2014,2014-04-22,112
+452,6575,Tanana River at Fairbanks D-S of Chena R,2014,2014-04-29,119
+453,6576,Tanana River at Nenana,2014,2014-04-25,115
+454,6577,Tanana River nr Manley Hot Springs,2014,2014-04-29,119
+455,6578,Kuskokwim River at Nikolai,2014,2014-04-22,112
+456,6579,Kuskokwim River at McGrath,2014,2014-04-30,120
+457,6580,Kuskokwim River at Stony River,2014,2014-05-02,122
+458,6581,Kuskokwim River at Sleetmute,2014,2014-05-01,121
+459,6582,Kuskokwim River at Red Devil,2014,2014-05-01,121
+460,6583,Kuskokwim River at Crooked Creek,2014,2014-05-02,122
+461,6584,Kuskokwim River at Aniak,2014,2014-05-01,121
+462,6585,Kuskokwim River at Kalskag,2014,2014-04-30,120
+463,6586,Kuskokwim River at Tuluksak,2014,2014-05-04,124
+464,6587,Kuskokwim River at Akiak,2014,2014-05-04,124
+465,6588,Kuskokwim River at Bethel,2014,2014-05-02,122
+466,6590,Yukon River at Dawson,2014,2014-05-02,122
+467,6591,Yukon River at Eagle,2014,2014-05-01,121
+468,6592,Yukon River at Circle,2014,2014-05-05,125
+469,6593,Yukon River at Fort Yukon,2014,2014-05-06,126
+470,6594,Yukon River at Beaver,2014,2014-05-07,127
+471,6595,Yukon River at Stevens Village,2014,2014-05-07,127
+472,6596,Yukon River at Rampart,2014,2014-05-07,127
+473,6597,Yukon River at Tanana,2014,2014-05-03,123
+474,6598,Yukon River at Ruby,2014,2014-05-04,124
+475,6599,Yukon River at Galena,2014,2014-05-05,125
+476,6600,Yukon River at Koyukuk,2014,2014-05-07,127
+477,6601,Yukon River at Nulato,2014,2014-05-07,127
+478,6602,Yukon River at Kaltag,2014,2014-05-07,127
+479,6603,Yukon River at Anvik,2014,2014-05-07,127
+480,6604,Yukon River at Holy Cross,2014,2014-05-07,127
+481,6605,Yukon River at Russian Mission,2014,2014-05-02,122
+482,6606,Yukon River at Marshall,2014,2014-05-03,123
+483,6607,Yukon River at Pilot Station,2014,2014-05-03,123
+484,6608,Yukon River at Mountain Village,2014,2014-05-04,124
+485,6609,Yukon River nr Emmonak,2014,2014-05-10,130
+486,6610,Koyukuk River at Bettles,2014,2014-05-03,123
+487,6611,Koyukuk River at Allakaket,2014,2014-05-04,124
+488,6612,Koyukuk River at Hughes,2014,2014-05-05,125
+489,6613,Buckland River at Buckland,2014,2014-05-04,124
+490,6614,Kobuk River at Kobuk,2014,2014-05-10,130
+491,6615,Kobuk River at Shungnak,2014,2014-05-10,130
+492,6616,Kobuk River at Ambler,2014,2014-05-11,131
+493,6617,Noatak River at Noatak,2014,2014-05-14,134
+494,6618,Colville River at Umiat,2014,2014-05-14,134
+495,6619,Colville River at Colville Village,2014,2014-06-03,154
+496,1084,Buckland River at Buckland,2013,2013-05-26,146
+497,1085,Kobuk River at Kobuk,2013,2013-05-30,150
+498,1086,Kobuk River at Shungnak,2013,2013-05-30,150
+499,1087,Kobuk River at Ambler,2013,2013-05-30,150
+500,1088,Noatak River at Noatak,2013,2013-05-29,149
+501,1090,Colville River at Colville Village,2013,2013-06-09,160
+502,1092,Colville River at Umiat,2013,2013-05-28,148
+503,1458,Gakona River at Gakona,2013,2013-05-24,144
+504,1459,Gulkana River nr Gakona,2013,2013-05-23,143
+505,2282,Skwentna River at Skwentna,2013,2013-05-13,133
+506,2283,Little Susitna River nr Palmer,2013,2013-05-12,132
+507,2287,Yentna River at Lake Creek,2013,2013-05-14,134
+508,3673,Kuskokwim River at McGrath,2013,2013-05-24,144
+509,3674,Kuskokwim River at Bethel,2013,2013-05-29,149
+510,3675,Kuskokwim River at Nikolai,2013,2013-05-09,129
+511,3676,Kuskokwim River at Stony River,2013,2013-05-20,140
+512,3677,Kuskokwim River at Sleetmute,2013,2013-05-21,141
+513,3678,Kuskokwim River at Red Devil,2013,2013-05-21,141
+514,3679,Kuskokwim River at Crooked Creek,2013,2013-05-22,142
+515,3680,Kuskokwim River at Aniak,2013,2013-05-26,146
+516,3681,Kuskokwim River at Kalskag,2013,2013-05-25,145
+517,3682,Kuskokwim River at Tuluksak,2013,2013-05-25,145
+518,3683,Kuskokwim River at Akiak,2013,2013-05-27,147
+519,3685,Kuskokwim River at Napakiak,2013,2013-05-30,150
+520,4448,Tanana River nr Manley Hot Springs,2013,2013-05-23,143
+521,4450,Chena River at Fairbanks,2013,2013-05-15,135
+522,4451,Chisana River at Northway,2013,2013-05-08,128
+523,4452,Tanana River at Fairbanks D-S of Chena R,2013,2013-05-16,136
+524,4453,Tanana River at Nenana,2013,2013-05-20,140
+525,6540,Yukon River at Fort Yukon,2013,2013-05-21,141
+526,6541,Koyukuk River at Bettles,2013,2013-05-24,144
+527,6542,Yukon River at Dawson,2013,2013-05-15,135
+528,6543,Yukon River at Eagle,2013,2013-05-17,137
+529,6544,Yukon River at Circle,2013,2013-05-19,139
+530,6545,Yukon River at Beaver,2013,2013-05-22,142
+531,6546,Yukon River at Stevens Village,2013,2013-05-23,143
+532,6547,Yukon River at Rampart,2013,2013-05-24,144
+533,6548,Yukon River at Tanana,2013,2013-05-24,144
+534,6549,Yukon River at Galena,2013,2013-05-26,146
+535,6550,Yukon River at Koyukuk,2013,2013-05-28,148
+536,6551,Yukon River at Nulato,2013,2013-05-30,150
+537,6552,Yukon River at Kaltag,2013,2013-05-30,150
+538,6553,Yukon River at Anvik,2013,2013-05-30,150
+539,6554,Yukon River at Holy Cross,2013,2013-05-29,149
+540,6555,Yukon River at Russian Mission,2013,2013-05-28,148
+541,6556,Yukon River at Marshall,2013,2013-05-27,147
+542,6557,Yukon River at Pilot Station,2013,2013-05-31,151
+543,6558,Yukon River at Mountain Village,2013,2013-06-01,152
+544,6559,Yukon River at Alakanuk,2013,2013-06-03,154
+545,6560,Yukon River nr Emmonak,2013,2013-06-03,154
+546,6561,Koyukuk River at Allakaket,2013,2013-05-27,147
+547,6562,Koyukuk River at Hughes,2013,2013-05-27,147
+548,6563,Yukon River at Ruby,2013,2013-05-25,145
+549,1057,Kobuk River at Ambler,2012,2012-05-23,144
+550,1058,Colville River at Colville Village,2012,2012-06-04,156
+551,1059,Buckland River at Buckland,2012,2012-05-22,143
+552,1060,Kobuk River at Kobuk,2012,2012-05-20,141
+553,1061,Kobuk River at Shungnak,2012,2012-05-19,140
+554,1062,Noatak River at Noatak,2012,2012-05-20,141
+555,1063,Colville River at Umiat,2012,2012-05-23,144
+556,1446,Gulkana River nr Gakona,2012,2012-04-26,117
+557,2265,Little Susitna River nr Palmer,2012,2012-04-10,101
+558,2268,Skwentna River at Skwentna,2012,2012-04-29,120
+559,2271,Susitna River at Sunshine,2012,2012-04-27,118
+560,2272,Yentna River at Lake Creek,2012,2012-04-30,121
+561,3651,Kuskokwim River at Nikolai,2012,2012-04-19,110
+562,3652,Kuskokwim River at McGrath,2012,2012-04-30,121
+563,3653,Kuskokwim River at Stony River,2012,2012-04-30,121
+564,3654,Kuskokwim River at Sleetmute,2012,2012-04-30,121
+565,3655,Kuskokwim River at Red Devil,2012,2012-05-05,126
+566,3656,Kuskokwim River at Crooked Creek,2012,2012-05-06,127
+567,3658,Kuskokwim River at Aniak,2012,2012-05-06,127
+568,3659,Kuskokwim River at Kalskag,2012,2012-05-07,128
+569,3660,Kuskokwim River at Tuluksak,2012,2012-05-13,134
+570,3661,Kuskokwim River at Akiak,2012,2012-05-13,134
+571,3664,Kuskokwim River at Bethel,2012,2012-05-15,136
+572,3665,Kuskokwim River at Napakiak,2012,2012-05-16,137
+573,4431,Tanana River nr Manley Hot Springs,2012,2012-04-28,119
+574,4433,Chena River at Fairbanks,2012,2012-04-23,114
+575,4434,Chisana River at Northway,2012,2012-04-23,114
+576,4435,Tanana River at Fairbanks D-S of Chena R,2012,2012-04-25,116
+577,4437,Tanana River at Nenana,2012,2012-04-23,114
+578,6486,Yukon River at Galena,2012,2012-05-11,132
+579,6487,Koyukuk River at Bettles,2012,2012-05-10,131
+580,6488,Yukon River at Circle,2012,2012-05-04,125
+581,6489,Yukon River at Eagle,2012,2012-04-29,120
+582,6490,Yukon River at Alakanuk,2012,2012-05-25,146
+583,6491,Yukon River at Anvik,2012,2012-05-15,136
+584,6492,Yukon River at Beaver,2012,2012-05-10,131
+585,6493,Yukon River at Dawson,2012,2012-05-01,122
+586,6494,Yukon River nr Emmonak,2012,2012-05-25,146
+587,6496,Yukon River at Holy Cross,2012,2012-05-15,136
+588,6497,Yukon River at Kaltag,2012,2012-05-14,135
+589,6498,Yukon River at Koyukuk,2012,2012-05-12,133
+590,6499,Yukon River at Marshall,2012,2012-05-15,136
+591,6500,Yukon River at Mountain Village,2012,2012-05-22,143
+592,6501,Yukon River at Nulato,2012,2012-05-09,130
+593,6502,Yukon River at Pilot Station,2012,2012-05-17,138
+594,6503,Yukon River at Rampart,2012,2012-05-10,131
+595,6504,Yukon River at Ruby,2012,2012-05-08,129
+596,6505,Yukon River at Russian Mission,2012,2012-05-15,136
+597,6506,Yukon River at Stevens Village,2012,2012-05-10,131
+598,6507,Yukon River at Tanana,2012,2012-05-06,127
+599,6508,Yukon River at Fort Yukon,2012,2012-05-09,130
+600,6509,Koyukuk River at Allakaket,2012,2012-05-12,133
+601,6510,Koyukuk River at Hughes,2012,2012-05-12,133
+602,1050,Colville River at Colville Village,2011,2011-05-30,150
+603,1051,Kobuk River at Ambler,2011,2011-05-23,143
+604,1052,Buckland River at Buckland,2011,2011-05-21,141
+605,1053,Kobuk River at Shungnak,2011,2011-05-21,141
+606,1054,Kobuk River at Kobuk,2011,2011-05-21,141
+607,1056,Noatak River at Noatak,2011,2011-05-22,142
+608,1440,Gulkana River nr Gakona,2011,2011-05-08,128
+609,2260,Yentna River at Lake Creek,2011,2011-05-05,125
+610,2261,Little Susitna River nr Palmer,2011,2011-04-20,110
+611,3638,Kuskokwim River at Nikolai,2011,2011-04-24,114
+612,3639,Kuskokwim River at Aniak,2011,2011-05-16,136
+613,3640,Kuskokwim River at McGrath,2011,2011-05-05,125
+614,3642,Kuskokwim River at Stony River,2011,2011-05-01,121
+615,3643,Kuskokwim River at Sleetmute,2011,2011-05-07,127
+616,3644,Kuskokwim River at Red Devil,2011,2011-05-08,128
+617,3645,Kuskokwim River at Crooked Creek,2011,2011-05-09,129
+618,3646,Kuskokwim River at Kalskag,2011,2011-05-12,132
+619,3647,Kuskokwim River at Tuluksak,2011,2011-05-09,129
+620,3648,Kuskokwim River at Akiak,2011,2011-05-12,132
+621,3649,Kuskokwim River at Bethel,2011,2011-05-11,131
+622,3650,Kuskokwim River at Napakiak,2011,2011-05-13,133
+623,4424,Tanana River nr Manley Hot Springs,2011,2011-05-08,128
+624,4426,Tanana River at Nenana,2011,2011-05-04,124
+625,4430,Chisana River at Northway,2011,2011-04-29,119
+626,6457,Yukon River at Galena,2011,2011-05-16,136
+627,6460,Koyukuk River at Huslia,2011,2011-05-15,135
+628,6461,Yukon River at Ruby,2011,2011-05-13,133
+629,6464,Yukon River at Circle,2011,2011-05-15,135
+630,6465,Yukon River at Eagle,2011,2011-05-07,127
+631,6466,Yukon River at Fort Yukon,2011,2011-05-13,133
+632,6467,Yukon River at Stevens Village,2011,2011-05-14,134
+633,6468,Yukon River at Tanana,2011,2011-05-13,133
+634,6469,Yukon River at Anvik,2011,2011-05-17,137
+635,6470,Yukon River at Russian Mission,2011,2011-05-19,139
+636,6471,Yukon River nr Emmonak,2011,2011-05-22,142
+637,6472,Yukon River at Mountain Village,2011,2011-05-19,139
+638,6473,Yukon River at Holy Cross,2011,2011-05-19,139
+639,6474,Koyukuk River at Bettles,2011,2011-05-13,133
+640,6475,Koyukuk River at Allakaket,2011,2011-05-15,135
+641,6476,Koyukuk River at Hughes,2011,2011-05-14,134
+642,6477,Yukon River at Beaver,2011,2011-05-12,132
+643,6478,Yukon River at Nulato,2011,2011-05-16,136
+644,6479,Yukon River at Kaltag,2011,2011-05-16,136
+645,6481,Yukon River at Marshall,2011,2011-05-17,137
+646,6482,Yukon River at Pilot Station,2011,2011-05-17,137
+647,6483,Yukon River at Alakanuk,2011,2011-05-22,142
+648,6709,Yukon River at Dawson,2011,2011-05-07,127
+649,1043,Kobuk River at Kobuk,2010,2010-05-12,132
+650,1044,Kobuk River at Shungnak,2010,2010-05-15,135
+651,1046,Kobuk River at Ambler,2010,2010-05-16,136
+652,1047,Colville River at Colville Village,2010,2010-06-07,158
+653,1048,Buckland River at Buckland,2010,2010-05-19,139
+654,1049,Noatak River at Noatak,2010,2010-05-19,139
+655,1435,Gakona River at Gakona,2010,2010-05-04,124
+656,1436,Gulkana River nr Gakona,2010,2010-05-04,124
+657,2249,Susitna River at Sunshine,2010,2010-04-29,119
+658,2251,Yentna River at Lake Creek,2010,2010-05-03,123
+659,2255,Skwentna River at Skwentna,2010,2010-05-02,122
+660,2256,Little Susitna River nr Palmer,2010,2010-05-08,128
+661,3621,Kuskokwim River at Nikolai,2010,2010-04-25,115
+662,3622,Kuskokwim River at McGrath,2010,2010-05-03,123
+663,3624,Kuskokwim River at Red Devil,2010,2010-05-09,129
+664,3625,Kuskokwim River at Stony River,2010,2010-05-07,127
+665,3627,Kuskokwim River at Sleetmute,2010,2010-05-08,128
+666,3628,Kuskokwim River at Crooked Creek,2010,2010-05-11,131
+667,3629,Kuskokwim River at Aniak,2010,2010-05-11,131
+668,3631,Kuskokwim River at Kalskag,2010,2010-05-12,132
+669,3632,Kuskokwim River at Tuluksak,2010,2010-05-15,135
+670,3633,Kuskokwim River at Akiak,2010,2010-05-15,135
+671,3634,Kuskokwim River at Bethel,2010,2010-05-17,137
+672,3636,Kuskokwim River at Napakiak,2010,2010-05-18,138
+673,4413,Chisana River at Northway,2010,2010-04-26,116
+674,4415,Chena River at Fairbanks,2010,2010-04-24,114
+675,4416,Tanana River at Fairbanks D-S of Chena R,2010,2010-04-29,119
+676,4417,Tanana River at Nenana,2010,2010-04-29,119
+677,4419,Tanana River nr Manley Hot Springs,2010,2010-05-01,121
+678,6406,Yukon River at Dawson,2010,2010-04-29,119
+679,6429,Yukon River at Eagle,2010,2010-04-29,119
+680,6431,Koyukuk River at Bettles,2010,2010-04-30,120
+681,6432,Yukon River at Beaver,2010,2010-05-04,124
+682,6433,Koyukuk River at Hughes,2010,2010-05-02,122
+683,6434,Yukon River at Stevens Village,2010,2010-05-04,124
+684,6435,Yukon River at Fort Yukon,2010,2010-05-04,124
+685,6436,Koyukuk River at Allakaket,2010,2010-05-01,121
+686,6437,Yukon River at Rampart,2010,2010-05-05,125
+687,6438,Yukon River at Tanana,2010,2010-05-06,126
+688,6439,Yukon River at Koyukuk,2010,2010-05-09,129
+689,6440,Yukon River at Kaltag,2010,2010-05-12,132
+690,6441,Yukon River at Anvik,2010,2010-05-13,133
+691,6442,Yukon River at Marshall,2010,2010-05-17,137
+692,6444,Yukon River at Holy Cross,2010,2010-05-15,135
+693,6445,Yukon River at Russian Mission,2010,2010-05-15,135
+694,6447,Yukon River at Ruby,2010,2010-05-08,128
+695,6449,Yukon River at Galena,2010,2010-05-11,131
+696,6450,Koyukuk River at Huslia,2010,2010-05-05,125
+697,6451,Yukon River at Circle,2010,2010-05-06,126
+698,6453,Yukon River at Nulato,2010,2010-05-10,130
+699,6454,Yukon River at Pilot Station,2010,2010-05-19,139
+700,6455,Yukon River at Mountain Village,2010,2010-05-20,140
+701,6456,Yukon River at Alakanuk,2010,2010-05-24,144
+702,1036,Buckland River at Buckland,2009,2009-05-13,133
+703,1037,Kobuk River at Kobuk,2009,2009-05-13,133
+704,1038,Kobuk River at Shungnak,2009,2009-05-13,133
+705,1039,Kobuk River at Ambler,2009,2009-05-16,136
+706,1040,Noatak River at Noatak,2009,2009-05-18,138
+707,1041,Colville River at Umiat,2009,2009-05-18,138
+708,1042,Colville River at Colville Village,2009,2009-05-27,147
+709,1430,Gakona River at Gakona,2009,2009-04-30,120
+710,1431,Gulkana River nr Gakona,2009,2009-04-30,120
+711,2243,Skwentna River at Skwentna,2009,2009-04-30,120
+712,2244,Little Susitna River nr Palmer,2009,2009-04-15,105
+713,2245,Susitna River at Sunshine,2009,2009-05-04,124
+714,2246,Yentna River at Lake Creek,2009,2009-04-30,120
+715,3607,Kuskokwim River at Nikolai,2009,2009-04-25,115
+716,3608,Kuskokwim River at McGrath,2009,2009-05-04,124
+717,3609,Kuskokwim River at Stony River,2009,2009-05-02,122
+718,3610,Kuskokwim River at Sleetmute,2009,2009-05-02,122
+719,3611,Kuskokwim River at Red Devil,2009,2009-05-03,123
+720,3612,Kuskokwim River at Crooked Creek,2009,2009-05-03,123
+721,3613,Kuskokwim River at Aniak,2009,2009-05-03,123
+722,3614,Kuskokwim River at Kalskag,2009,2009-05-07,127
+723,3615,Kuskokwim River at Tuluksak,2009,2009-05-06,126
+724,3616,Kuskokwim River at Akiak,2009,2009-05-08,128
+725,3617,Kuskokwim River at Bethel,2009,2009-05-09,129
+726,3618,Kuskokwim River at Napakiak,2009,2009-05-11,131
+727,4370,Chisana River at Northway,2009,2009-04-27,117
+728,4406,Tanana River nr Manley Hot Springs,2009,2009-05-03,123
+729,4409,Chena River at Fairbanks,2009,2009-04-30,120
+730,4410,Tanana River at Fairbanks D-S of Chena R,2009,2009-05-02,122
+731,4411,Tanana River at Nenana,2009,2009-05-01,121
+732,6403,Yukon River at Eagle,2009,2009-05-03,123
+733,6405,Yukon River at Ruby,2009,2009-05-06,126
+734,6409,Yukon River at Nulato,2009,2009-05-08,128
+735,6410,Yukon River at Beaver,2009,2009-05-08,128
+736,6411,Koyukuk River at Bettles,2009,2009-05-03,123
+737,6412,Yukon River at Fort Yukon,2009,2009-05-06,126
+738,6413,Yukon River at Dawson,2009,2009-05-04,124
+739,6414,Yukon River at Circle,2009,2009-05-06,126
+740,6415,Yukon River at Stevens Village,2009,2009-05-09,129
+741,6416,Yukon River at Rampart,2009,2009-05-10,130
+742,6417,Yukon River at Tanana,2009,2009-05-10,130
+743,6418,Yukon River at Galena,2009,2009-05-11,131
+744,6419,Yukon River at Kaltag,2009,2009-05-12,132
+745,6420,Yukon River at Anvik,2009,2009-05-13,133
+746,6421,Yukon River at Holy Cross,2009,2009-05-13,133
+747,6422,Yukon River at Russian Mission,2009,2009-05-17,137
+748,6423,Yukon River at Pilot Station,2009,2009-05-17,137
+749,6424,Yukon River at Mountain Village,2009,2009-05-22,142
+750,6425,Yukon River at Alakanuk,2009,2009-05-23,143
+751,6426,Yukon River nr Emmonak,2009,2009-05-23,143
+752,6427,Koyukuk River at Allakaket,2009,2009-05-03,123
+753,6428,Koyukuk River at Hughes,2009,2009-05-04,124
+754,6446,Yukon River at Marshall,2009,2009-05-20,140
+755,990,Kobuk River at Ambler,2008,2008-05-11,132
+756,1027,Colville River at Umiat,2008,2008-05-25,146
+757,1030,Noatak River at Noatak,2008,2008-05-14,135
+758,1031,Buckland River at Buckland,2008,2008-05-13,134
+759,1032,Kobuk River at Kobuk,2008,2008-05-12,133
+760,1033,Kobuk River at Shungnak,2008,2008-05-13,134
+761,1035,Colville River at Colville Village,2008,2008-06-05,157
+762,1424,Gulkana River nr Gakona,2008,2008-05-06,127
+763,1425,Gakona River at Gakona,2008,2008-05-06,127
+764,2233,Skwentna River at Skwentna,2008,2008-05-03,124
+765,2234,Susitna River at Sunshine,2008,2008-05-08,129
+766,2240,Little Susitna River nr Palmer,2008,2008-04-25,116
+767,2241,Yentna River at Lake Creek,2008,2008-05-05,126
+768,3594,Kuskokwim River at McGrath,2008,2008-05-10,131
+769,3595,Kuskokwim River at Crooked Creek,2008,2008-05-09,130
+770,3596,Kuskokwim River at Nikolai,2008,2008-04-26,117
+771,3597,Kuskokwim River at Stony River,2008,2008-05-06,127
+772,3598,Kuskokwim River at Sleetmute,2008,2008-05-09,130
+773,3599,Kuskokwim River at Red Devil,2008,2008-05-08,129
+774,3600,Kuskokwim River at Aniak,2008,2008-05-10,131
+775,3601,Kuskokwim River at Kalskag,2008,2008-05-11,132
+776,3602,Kuskokwim River at Tuluksak,2008,2008-05-12,133
+777,3603,Kuskokwim River at Akiak,2008,2008-05-13,134
+778,3604,Kuskokwim River at Bethel,2008,2008-05-13,134
+779,3605,Kuskokwim River at Napakiak,2008,2008-05-14,135
+780,4395,Chena River at Fairbanks,2008,2008-04-29,120
+781,4396,Tanana River at Nenana,2008,2008-05-06,127
+782,4398,Tanana River at Fairbanks D-S of Chena R,2008,2008-05-07,128
+783,4402,Chisana River at Northway,2008,2008-04-26,117
+784,4405,Tanana River nr Manley Hot Springs,2008,2008-05-09,130
+785,6375,Yukon River at Dawson,2008,2008-05-04,125
+786,6376,Yukon River at Rampart,2008,2008-05-10,131
+787,6377,Yukon River at Stevens Village,2008,2008-05-10,131
+788,6378,Yukon River at Tanana,2008,2008-05-11,132
+789,6379,Yukon River at Kaltag,2008,2008-05-13,134
+790,6380,Yukon River at Anvik,2008,2008-05-17,138
+791,6381,Yukon River at Holy Cross,2008,2008-05-18,139
+792,6382,Yukon River at Russian Mission,2008,2008-05-18,139
+793,6383,Yukon River at Pilot Station,2008,2008-05-19,140
+794,6384,Koyukuk River at Allakaket,2008,2008-05-10,131
+795,6385,Yukon River at Eagle,2008,2008-05-03,124
+796,6389,Yukon River at Ruby,2008,2008-05-11,132
+797,6391,Yukon River at Nulato,2008,2008-05-12,133
+798,6392,Yukon River at Mountain Village,2008,2008-05-19,140
+799,6393,Yukon River at Alakanuk,2008,2008-05-23,144
+800,6394,Yukon River nr Emmonak,2008,2008-05-23,144
+801,6395,Koyukuk River at Bettles,2008,2008-05-10,131
+802,6396,Koyukuk River at Hughes,2008,2008-05-10,131
+803,6399,Yukon River at Fort Yukon,2008,2008-05-07,128
+804,6400,Yukon River at Galena,2008,2008-05-13,134
+805,6401,Yukon River at Beaver,2008,2008-05-09,130
+806,6402,Yukon River at Circle,2008,2008-05-08,129
+807,1017,Kobuk River at Kobuk,2007,2007-05-04,124
+808,1018,Buckland River at Buckland,2007,2007-05-22,142
+809,1020,Kobuk River at Shungnak,2007,2007-05-17,137
+810,1021,Kobuk River at Ambler,2007,2007-05-19,139
+811,1022,Noatak River at Noatak,2007,2007-05-21,141
+812,1023,Colville River at Colville Village,2007,2007-06-06,157
+813,1024,Colville River at Umiat,2007,2007-05-30,150
+814,1415,Gulkana River nr Gakona,2007,2007-05-05,125
+815,2228,Skwentna River at Skwentna,2007,2007-04-30,120
+816,2230,Susitna River at Sunshine,2007,2007-05-03,123
+817,2231,Yentna River at Lake Creek,2007,2007-04-30,120
+818,2232,Gakona River at Gakona,2007,2007-04-30,120
+819,3579,Kuskokwim River at Nikolai,2007,2007-04-21,111
+820,3580,Kuskokwim River at McGrath,2007,2007-04-30,120
+821,3581,Kuskokwim River at Stony River,2007,2007-04-29,119
+822,3582,Kuskokwim River at Sleetmute,2007,2007-04-30,120
+823,3583,Kuskokwim River at Red Devil,2007,2007-04-30,120
+824,3584,Kuskokwim River at Crooked Creek,2007,2007-04-29,119
+825,3585,Kuskokwim River at Aniak,2007,2007-04-29,119
+826,3586,Kuskokwim River at Kalskag,2007,2007-04-30,120
+827,3587,Kuskokwim River at Bethel,2007,2007-05-03,123
+828,3588,Kuskokwim River at Napakiak,2007,2007-05-03,123
+829,3589,Kuskokwim River at Akiak,2007,2007-04-29,119
+830,3590,Kuskokwim River at Tuluksak,2007,2007-05-01,121
+831,4386,Tanana River nr Manley Hot Springs,2007,2007-04-26,116
+832,4388,Tanana River at Nenana,2007,2007-04-27,117
+833,4389,Chena River at Fairbanks,2007,2007-04-24,114
+834,4390,Chisana River at Northway,2007,2007-04-26,116
+835,4391,Tanana River at Fairbanks D-S of Chena R,2007,2007-04-24,114
+836,6330,Yukon River at Nulato,2007,2007-05-04,124
+837,6331,Koyukuk River at Bettles,2007,2007-05-05,125
+838,6332,Koyukuk River at Allakaket,2007,2007-05-02,122
+839,6333,Koyukuk River at Hughes,2007,2007-05-02,122
+840,6334,Yukon River at Eagle,2007,2007-04-30,120
+841,6335,Yukon River at Circle,2007,2007-05-05,125
+842,6336,Yukon River at Fort Yukon,2007,2007-05-07,127
+843,6337,Yukon River at Beaver,2007,2007-05-07,127
+844,6338,Yukon River at Stevens Village,2007,2007-05-08,128
+845,6339,Yukon River at Rampart,2007,2007-05-09,129
+846,6340,Yukon River at Dawson,2007,2007-05-04,124
+847,6341,Yukon River at Tanana,2007,2007-04-30,120
+848,6342,Yukon River at Ruby,2007,2007-05-05,125
+849,6343,Yukon River at Galena,2007,2007-05-10,130
+850,6345,Yukon River at Kaltag,2007,2007-05-08,128
+851,6346,Yukon River at Anvik,2007,2007-05-11,131
+852,6347,Yukon River at Holy Cross,2007,2007-05-10,130
+853,6348,Yukon River at Russian Mission,2007,2007-05-10,130
+854,6349,Yukon River at Pilot Station,2007,2007-05-11,131
+855,6350,Yukon River at Mountain Village,2007,2007-05-13,133
+856,6351,Yukon River nr Emmonak,2007,2007-05-18,138
+857,6352,Yukon River at Alakanuk,2007,2007-05-18,138
+858,1008,Buckland River at Buckland,2006,2006-05-23,143
+859,1010,Kobuk River at Shungnak,2006,2006-05-21,141
+860,1011,Kobuk River at Ambler,2006,2006-05-22,142
+861,1012,Noatak River at Noatak,2006,2006-05-22,142
+862,1014,Kobuk River at Kobuk,2006,2006-05-17,137
+863,1016,Colville River at Colville Village,2006,2006-06-04,155
+864,1406,Gulkana River nr Gakona,2006,2006-05-08,128
+865,1407,Gakona River at Gakona,2006,2006-05-07,127
+866,2215,Skwentna River at Skwentna,2006,2006-05-07,127
+867,2219,Susitna River at Sunshine,2006,2006-05-07,127
+868,2220,Yentna River at Lake Creek,2006,2006-05-08,128
+869,2226,Anchor River at Anchor Point,2006,2006-04-13,103
+870,3552,Kuskokwim River at McGrath,2006,2006-05-12,132
+871,3563,Kuskokwim River at Crooked Creek,2006,2006-05-12,132
+872,3564,Kuskokwim River at Nikolai,2006,2006-04-25,115
+873,3565,Kuskokwim River at Stony River,2006,2006-05-11,131
+874,3566,Kuskokwim River at Sleetmute,2006,2006-05-14,134
+875,3567,Kuskokwim River at Red Devil,2006,2006-05-14,134
+876,3568,Kuskokwim River at Aniak,2006,2006-05-14,134
+877,3569,Kuskokwim River at Kalskag,2006,2006-05-19,139
+878,3570,Kuskokwim River at Tuluksak,2006,2006-05-21,141
+879,3571,Kuskokwim River at Akiak,2006,2006-05-21,141
+880,3573,Kuskokwim River at Bethel,2006,2006-05-23,143
+881,3574,Kuskokwim River at Napakiak,2006,2006-05-24,144
+882,4375,Chena River at Fairbanks,2006,2006-05-01,121
+883,4376,Chisana River at Northway,2006,2006-04-27,117
+884,4377,Tanana River at Fairbanks D-S of Chena R,2006,2006-05-06,126
+885,4378,Tanana River at Nenana,2006,2006-05-07,127
+886,4380,Tanana River nr Manley Hot Springs,2006,2006-05-08,128
+887,6291,Yukon River at Eagle,2006,2006-05-08,128
+888,6292,Yukon River at Circle,2006,2006-05-10,130
+889,6294,Yukon River at Beaver,2006,2006-05-13,133
+890,6295,Yukon River at Rampart,2006,2006-05-14,134
+891,6296,Yukon River at Stevens Village,2006,2006-05-14,134
+892,6297,Yukon River at Tanana,2006,2006-05-15,135
+893,6298,Yukon River at Ruby,2006,2006-05-16,136
+894,6300,Yukon River at Koyukuk,2006,2006-05-16,136
+895,6303,Yukon River at Kaltag,2006,2006-05-19,139
+896,6304,Yukon River at Anvik,2006,2006-05-22,142
+897,6305,Yukon River at Holy Cross,2006,2006-05-22,142
+898,6306,Yukon River at Russian Mission,2006,2006-05-22,142
+899,6307,Yukon River at Pilot Station,2006,2006-05-25,145
+900,6308,Yukon River at Marshall,2006,2006-05-23,143
+901,6310,Yukon River at Mountain Village,2006,2006-05-25,145
+902,6311,Yukon River nr Emmonak,2006,2006-05-28,148
+903,6312,Yukon River at Alakanuk,2006,2006-05-28,148
+904,6316,Koyukuk River at Hughes,2006,2006-05-13,133
+905,6317,Koyukuk River at Huslia,2006,2006-05-19,139
+906,6318,Yukon River at Nulato,2006,2006-05-16,136
+907,6319,Koyukuk River at Bettles,2006,2006-05-11,131
+908,6320,Koyukuk River at Allakaket,2006,2006-05-12,132
+909,6323,Yukon River at Galena,2006,2006-05-16,136
+910,6324,Yukon River at Fort Yukon,2006,2006-05-12,132
+911,6328,Yukon River at Dawson,2006,2006-05-11,131
+912,1001,Colville River at Colville Village,2005,2005-06-06,157
+913,1002,Noatak River at Noatak,2005,2005-05-13,133
+914,1025,Buckland River at Buckland,2005,2005-05-08,128
+915,1026,Kobuk River at Kobuk,2005,2005-05-08,128
+916,1028,Kobuk River at Ambler,2005,2005-05-12,132
+917,1029,Kobuk River at Shungnak,2005,2005-05-10,130
+918,1402,Gakona River at Gakona,2005,2005-04-28,118
+919,1403,Gulkana River nr Gakona,2005,2005-04-25,115
+920,2174,Yentna River at Lake Creek,2005,2005-04-28,118
+921,2177,Anchor River at Anchor Point,2005,2005-03-27,86
+922,2179,Susitna River at Sunshine,2005,2005-04-29,119
+923,2180,Skwentna River at Skwentna,2005,2005-04-27,117
+924,3522,Kuskokwim River at Nikolai,2005,2005-04-15,105
+925,3523,Kuskokwim River at McGrath,2005,2005-05-03,123
+926,3536,Kuskokwim River at Bethel,2005,2005-05-09,129
+927,3537,Kuskokwim River at Crooked Creek,2005,2005-05-01,121
+928,3554,Kuskokwim River at Stony River,2005,2005-05-02,122
+929,3556,Kuskokwim River at Sleetmute,2005,2005-05-01,121
+930,3557,Kuskokwim River at Red Devil,2005,2005-05-01,121
+931,3558,Kuskokwim River at Aniak,2005,2005-05-03,123
+932,3559,Kuskokwim River at Kalskag,2005,2005-05-04,124
+933,3560,Kuskokwim River at Tuluksak,2005,2005-05-07,127
+934,3561,Kuskokwim River at Akiak,2005,2005-05-08,128
+935,3562,Kuskokwim River at Napakiak,2005,2005-05-10,130
+936,4362,Tanana River nr Manley Hot Springs,2005,2005-04-30,120
+937,4365,Chena River at Fairbanks,2005,2005-04-27,117
+938,4369,Tanana River at Nenana,2005,2005-04-28,118
+939,4392,Chisana River at Northway,2005,2005-04-24,114
+940,4394,Tanana River at Fairbanks D-S of Chena R,2005,2005-04-28,118
+941,6257,Koyukuk River at Bettles,2005,2005-05-04,124
+942,6258,Koyukuk River at Allakaket,2005,2005-05-05,125
+943,6259,Yukon River at Beaver,2005,2005-05-02,122
+944,6260,Yukon River at Fort Yukon,2005,2005-05-01,121
+945,6261,Yukon River at Ruby,2005,2005-05-03,123
+946,6262,Yukon River at Eagle,2005,2005-04-28,118
+947,6263,Yukon River at Galena,2005,2005-05-05,125
+948,6264,Yukon River at Dawson,2005,2005-04-29,119
+949,6354,Yukon River at Circle,2005,2005-04-30,120
+950,6355,Yukon River at Stevens Village,2005,2005-05-04,124
+951,6358,Yukon River at Rampart,2005,2005-05-04,124
+952,6359,Yukon River at Tanana,2005,2005-05-01,121
+953,6360,Yukon River at Nulato,2005,2005-05-05,125
+954,6361,Yukon River at Koyukuk,2005,2005-05-05,125
+955,6364,Yukon River at Kaltag,2005,2005-05-06,126
+956,6365,Yukon River at Anvik,2005,2005-05-07,127
+957,6368,Yukon River at Holy Cross,2005,2005-05-08,128
+958,6369,Yukon River at Russian Mission,2005,2005-05-09,129
+959,6370,Yukon River at Pilot Station,2005,2005-05-11,131
+960,6371,Yukon River at Mountain Village,2005,2005-05-12,132
+961,6373,Yukon River nr Emmonak,2005,2005-05-14,134
+962,6374,Yukon River at Alakanuk,2005,2005-05-16,136
+963,991,Colville River at Colville Village,2004,2004-06-04,156
+964,993,Kobuk River at Shungnak,2004,2004-05-11,132
+965,996,Kobuk River at Ambler,2004,2004-05-17,138
+966,1416,Gulkana River nr Gakona,2004,2004-05-04,125
+967,2188,Skwentna River at Skwentna,2004,2004-04-29,120
+968,2191,Yentna River at Lake Creek,2004,2004-04-29,120
+969,2194,Anchor River at Anchor Point,2004,2004-04-23,114
+970,2197,Susitna River at Sunshine,2004,2004-04-23,114
+971,2198,Gakona River at Gakona,2004,2004-05-05,126
+972,3495,Kuskokwim River at Red Devil,2004,2004-04-30,121
+973,3496,Kuskokwim River at Nikolai,2004,2004-04-18,109
+974,3497,Kuskokwim River at Stony River,2004,2004-04-30,121
+975,3500,Kuskokwim River at Bethel,2004,2004-05-02,123
+976,3501,Kuskokwim River at Crooked Creek,2004,2004-05-03,124
+977,3502,Kuskokwim River at McGrath,2004,2004-04-25,116
+978,3503,Kuskokwim River at Aniak,2004,2004-05-05,126
+979,3504,Kuskokwim River at Kalskag,2004,2004-05-02,123
+980,3505,Kuskokwim River at Akiak,2004,2004-05-01,122
+981,3576,Kuskokwim River at Sleetmute,2004,2004-04-30,121
+982,3578,Kuskokwim River at Tuluksak,2004,2004-05-02,123
+983,4341,Chisana River at Northway,2004,2004-04-23,114
+984,4343,Tanana River at Fairbanks D-S of Chena R,2004,2004-04-23,114
+985,4360,Tanana River nr Manley Hot Springs,2004,2004-04-28,119
+986,4368,Tanana River at Nenana,2004,2004-04-24,115
+987,4371,Chena River at Fairbanks,2004,2004-04-22,113
+988,6214,Yukon River at Nulato,2004,2004-05-04,125
+989,6215,Yukon River at Eagle,2004,2004-05-03,124
+990,6216,Yukon River at Ruby,2004,2004-05-03,124
+991,6217,Yukon River at Fort Yukon,2004,2004-05-10,131
+992,6219,Yukon River at Beaver,2004,2004-05-06,127
+993,6220,Koyukuk River at Bettles,2004,2004-05-05,126
+994,6224,Koyukuk River at Allakaket,2004,2004-05-05,126
+995,6225,Koyukuk River at Hughes,2004,2004-05-04,125
+996,6226,Koyukuk River at Huslia,2004,2004-05-08,129
+997,6227,Yukon River at Dawson,2004,2004-05-04,125
+998,6228,Yukon River at Circle,2004,2004-05-06,127
+999,6229,Yukon River at Stevens Village,2004,2004-05-10,131
+1000,6230,Yukon River at Rampart,2004,2004-05-10,131
+1001,6231,Yukon River at Tanana,2004,2004-05-10,131
+1002,6232,Yukon River at Galena,2004,2004-05-06,127
+1003,6233,Yukon River at Kaltag,2004,2004-05-04,125
+1004,6235,Yukon River at Holy Cross,2004,2004-05-03,124
+1005,6236,Yukon River at Russian Mission,2004,2004-05-03,124
+1006,6237,Yukon River at Pilot Station,2004,2004-05-03,124
+1007,6238,Yukon River at Mountain Village,2004,2004-05-02,123
+1008,6239,Yukon River nr Emmonak,2004,2004-05-08,129
+1009,6240,Yukon River at Alakanuk,2004,2004-05-08,129
+1010,6362,Yukon River at Koyukuk,2004,2004-05-03,124
+1011,6366,Yukon River at Anvik,2004,2004-05-05,126
+1012,994,Kobuk River at Ambler,2003,2003-05-18,138
+1013,997,Kobuk River at Kobuk,2003,2003-05-12,132
+1014,998,Kobuk River at Shungnak,2003,2003-05-11,131
+1015,1000,Buckland River at Buckland,2003,2003-05-11,131
+1016,1392,Gulkana River nr Gakona,2003,2003-03-29,88
+1017,1393,Gakona River at Gakona,2003,2003-03-20,79
+1018,2185,Skwentna River at Skwentna,2003,2003-04-24,114
+1019,2186,Yentna River at Lake Creek,2003,2003-04-26,116
+1020,3499,Kuskokwim River at Crooked Creek,2003,2003-04-27,117
+1021,3511,Kuskokwim River at Nikolai,2003,2003-04-21,111
+1022,3512,Kuskokwim River at McGrath,2003,2003-05-04,124
+1023,3513,Kuskokwim River at Stony River,2003,2003-05-02,122
+1024,3514,Kuskokwim River at Red Devil,2003,2003-04-24,114
+1025,3515,Kuskokwim River at Aniak,2003,2003-05-01,121
+1026,3516,Kuskokwim River at Kalskag,2003,2003-05-02,122
+1027,3517,Kuskokwim River at Tuluksak,2003,2003-05-02,122
+1028,3518,Kuskokwim River at Akiak,2003,2003-05-02,122
+1029,3519,Kuskokwim River at Bethel,2003,2003-05-02,122
+1030,3856,Chena River at Fairbanks,2003,2003-04-27,117
+1031,4346,Chisana River at Northway,2003,2003-04-24,114
+1032,4350,Tanana River at Nenana,2003,2003-04-29,119
+1033,4351,Tanana River nr Manley Hot Springs,2003,2003-05-03,123
+1034,6206,Yukon River at Fort Yukon,2003,2003-05-09,129
+1035,6207,Yukon River at Beaver,2003,2003-05-08,128
+1036,6208,Yukon River at Eagle,2003,2003-04-27,117
+1037,6209,Yukon River at Ruby,2003,2003-05-08,128
+1038,6210,Yukon River at Nulato,2003,2003-05-10,130
+1039,6211,Koyukuk River at Bettles,2003,2003-05-12,132
+1040,6241,Koyukuk River at Hughes,2003,2003-05-13,133
+1041,6242,Koyukuk River at Huslia,2003,2003-05-14,134
+1042,6243,Yukon River at Dawson,2003,2003-05-01,121
+1043,6244,Yukon River at Circle,2003,2003-05-08,128
+1044,6246,Yukon River at Tanana,2003,2003-05-07,127
+1045,6247,Yukon River at Galena,2003,2003-05-11,131
+1046,6248,Yukon River at Kaltag,2003,2003-05-12,132
+1047,6249,Yukon River at Anvik,2003,2003-05-13,133
+1048,6250,Yukon River at Russian Mission,2003,2003-05-16,136
+1049,6251,Yukon River at Pilot Station,2003,2003-05-15,135
+1050,6252,Yukon River nr Emmonak,2003,2003-05-17,137
+1051,6253,Yukon River at Alakanuk,2003,2003-05-18,138
+1052,6356,Yukon River at Stevens Village,2003,2003-05-07,127
+1053,6357,Yukon River at Rampart,2003,2003-05-08,128
+1054,6363,Yukon River at Koyukuk,2003,2003-05-07,127
+1055,6367,Yukon River at Holy Cross,2003,2003-05-12,132
+1056,6372,Yukon River at Mountain Village,2003,2003-05-10,130
+1057,265,Colville River at Colville Village,2002,2002-05-26,146
+1058,381,Kobuk River at Ambler,2002,2002-05-14,134
+1059,473,Kobuk River at Kobuk,2002,2002-05-18,138
+1060,542,Kobuk River at Shungnak,2002,2002-05-18,138
+1061,694,Noatak River at Noatak,2002,2002-05-21,141
+1062,1389,Gulkana River nr Gakona,2002,2002-05-10,130
+1063,1390,Gakona River at Gakona,2002,2002-05-10,130
+1064,1820,Little Susitna River nr Palmer,2002,2002-04-29,119
+1065,1962,Skwentna River at Skwentna,2002,2002-05-12,132
+1066,2011,Susitna River at Sunshine,2002,2002-05-14,134
+1067,2164,Yentna River at Lake Creek,2002,2002-05-11,131
+1068,2214,Yentna River at Fish Creek,2002,2002-05-13,133
+1069,2735,Kuskokwim River at Akiak,2002,2002-05-16,136
+1070,2776,Kuskokwim River at Aniak,2002,2002-05-12,132
+1071,2853,Kuskokwim River at Bethel,2002,2002-05-14,134
+1072,2912,Kuskokwim River at Crooked Creek,2002,2002-05-12,132
+1073,2955,Kuskokwim River at Kalskag,2002,2002-05-16,136
+1074,3017,Kuskokwim River at McGrath,2002,2002-05-12,132
+1075,3090,Kuskokwim River at Nikolai,2002,2002-05-01,121
+1076,3119,Kuskokwim River at Red Devil,2002,2002-05-10,130
+1077,3160,Kuskokwim River at Sleetmute,2002,2002-05-10,130
+1078,3191,Kuskokwim River at Stony River,2002,2002-05-07,127
+1079,3209,Kuskokwim River at Tuluksak,2002,2002-05-16,136
+1080,3902,Chisana River at Northway,2002,2002-05-02,122
+1081,4141,Tanana River nr Manley Hot Springs,2002,2002-05-10,130
+1082,4244,Tanana River at Nenana,2002,2002-05-07,127
+1083,4718,Koyukuk River at Allakaket,2002,2002-05-13,133
+1084,4778,Koyukuk River at Bettles,2002,2002-05-16,136
+1085,5011,Yukon River at Alakanuk,2002,2002-05-21,141
+1086,5066,Yukon River at Anvik,2002,2002-05-20,140
+1087,5102,Yukon River at Beaver,2002,2002-05-15,135
+1088,5156,Yukon River at Circle,2002,2002-05-15,135
+1089,5352,Yukon River at Eagle,2002,2002-05-18,138
+1090,5376,Yukon River nr Emmonak,2002,2002-05-21,141
+1091,5458,Yukon River at Fort Yukon,2002,2002-05-16,136
+1092,5513,Yukon River at Galena,2002,2002-05-16,136
+1093,5655,Yukon River at Holy Cross,2002,2002-05-17,137
+1094,5703,Yukon River at Kaltag,2002,2002-05-17,137
+1095,5732,Yukon River at Koyukuk,2002,2002-05-16,136
+1096,5826,Yukon River at Mountain Village,2002,2002-05-19,139
+1097,5873,Yukon River at Nulato,2002,2002-05-16,136
+1098,5899,Yukon River at Pilot Station,2002,2002-05-18,138
+1099,5968,Yukon River at Rampart,2002,2002-05-16,136
+1100,6020,Yukon River at Ruby,2002,2002-05-13,133
+1101,6062,Yukon River at Russian Mission,2002,2002-05-18,138
+1102,6096,Yukon River at Stevens Village,2002,2002-05-17,137
+1103,6185,Yukon River at Tanana,2002,2002-05-10,130
+1104,6265,Yukon River at Dawson,2002,2002-05-12,132
+1105,222,Buckland River at Buckland,2001,2001-06-04,155
+1106,264,Colville River at Colville Village,2001,2001-06-04,155
+1107,380,Kobuk River at Ambler,2001,2001-06-01,152
+1108,472,Kobuk River at Kobuk,2001,2001-05-29,149
+1109,541,Kobuk River at Shungnak,2001,2001-05-29,149
+1110,693,Noatak River at Noatak,2001,2001-06-03,154
+1111,1246,Gakona River at Gakona,2001,2001-04-28,118
+1112,1277,Gulkana River nr Gakona,2001,2001-04-28,118
+1113,1961,Skwentna River at Skwentna,2001,2001-04-27,117
+1114,2163,Yentna River at Lake Creek,2001,2001-05-01,121
+1115,2213,Yentna River at Fish Creek,2001,2001-04-30,120
+1116,2734,Kuskokwim River at Akiak,2001,2001-05-17,137
+1117,2775,Kuskokwim River at Aniak,2001,2001-05-17,137
+1118,2852,Kuskokwim River at Bethel,2001,2001-05-16,136
+1119,2911,Kuskokwim River at Crooked Creek,2001,2001-05-14,134
+1120,2954,Kuskokwim River at Kalskag,2001,2001-05-14,134
+1121,3016,Kuskokwim River at McGrath,2001,2001-05-16,136
+1122,3089,Kuskokwim River at Nikolai,2001,2001-04-23,113
+1123,3118,Kuskokwim River at Red Devil,2001,2001-05-14,134
+1124,3190,Kuskokwim River at Stony River,2001,2001-05-11,131
+1125,3208,Kuskokwim River at Tuluksak,2001,2001-05-17,137
+1126,4243,Tanana River at Nenana,2001,2001-05-08,128
+1127,4717,Koyukuk River at Allakaket,2001,2001-05-23,143
+1128,4777,Koyukuk River at Bettles,2001,2001-05-23,143
+1129,4822,Koyukuk River at Hughes,2001,2001-05-22,142
+1130,4943,Yukon River at Fort Yukon,2001,2001-05-20,140
+1131,5010,Yukon River at Alakanuk,2001,2001-06-04,155
+1132,5065,Yukon River at Anvik,2001,2001-05-30,150
+1133,5101,Yukon River at Beaver,2001,2001-05-20,140
+1134,5155,Yukon River at Circle,2001,2001-05-19,139
+1135,5351,Yukon River at Eagle,2001,2001-05-12,132
+1136,5375,Yukon River nr Emmonak,2001,2001-06-04,155
+1137,5512,Yukon River at Galena,2001,2001-05-22,142
+1138,5654,Yukon River at Holy Cross,2001,2001-05-24,144
+1139,5702,Yukon River at Kaltag,2001,2001-05-30,150
+1140,5731,Yukon River at Koyukuk,2001,2001-05-29,149
+1141,5825,Yukon River at Mountain Village,2001,2001-05-31,151
+1142,5872,Yukon River at Nulato,2001,2001-05-24,144
+1143,5898,Yukon River at Pilot Station,2001,2001-05-29,149
+1144,5967,Yukon River at Rampart,2001,2001-05-21,141
+1145,6019,Yukon River at Ruby,2001,2001-05-21,141
+1146,6061,Yukon River at Russian Mission,2001,2001-05-23,143
+1147,6095,Yukon River at Stevens Village,2001,2001-05-21,141
+1148,6184,Yukon River at Tanana,2001,2001-05-18,138
+1149,6266,Yukon River at Dawson,2001,2001-05-08,128
+1150,263,Colville River at Colville Village,2000,2000-06-12,164
+1151,379,Kobuk River at Ambler,2000,2000-06-01,153
+1152,471,Kobuk River at Kobuk,2000,2000-05-27,148
+1153,540,Kobuk River at Shungnak,2000,2000-05-29,150
+1154,1245,Gakona River at Gakona,2000,2000-05-05,126
+1155,1276,Gulkana River nr Gakona,2000,2000-04-28,119
+1156,1819,Little Susitna River nr Palmer,2000,2000-04-18,109
+1157,2162,Yentna River at Lake Creek,2000,2000-05-02,123
+1158,2212,Yentna River at Fish Creek,2000,2000-05-01,122
+1159,2733,Kuskokwim River at Akiak,2000,2000-05-10,131
+1160,2774,Kuskokwim River at Aniak,2000,2000-05-05,126
+1161,2851,Kuskokwim River at Bethel,2000,2000-05-10,131
+1162,2910,Kuskokwim River at Crooked Creek,2000,2000-05-01,122
+1163,2953,Kuskokwim River at Kalskag,2000,2000-05-06,127
+1164,3015,Kuskokwim River at McGrath,2000,2000-05-08,129
+1165,3052,Kuskokwim River at Napakiak,2000,2000-05-16,137
+1166,3088,Kuskokwim River at Nikolai,2000,2000-04-21,112
+1167,3207,Kuskokwim River at Tuluksak,2000,2000-05-07,128
+1168,4242,Tanana River at Nenana,2000,2000-05-01,122
+1169,4716,Koyukuk River at Allakaket,2000,2000-05-20,141
+1170,4776,Koyukuk River at Bettles,2000,2000-05-20,141
+1171,4821,Koyukuk River at Hughes,2000,2000-05-21,142
+1172,4942,Yukon River at Fort Yukon,2000,2000-05-10,131
+1173,5009,Yukon River at Alakanuk,2000,2000-05-28,149
+1174,5064,Yukon River at Anvik,2000,2000-05-20,141
+1175,5100,Yukon River at Beaver,2000,2000-05-11,132
+1176,5154,Yukon River at Circle,2000,2000-05-09,130
+1177,5350,Yukon River at Eagle,2000,2000-05-06,127
+1178,5374,Yukon River nr Emmonak,2000,2000-05-28,149
+1179,5511,Yukon River at Galena,2000,2000-05-12,133
+1180,5653,Yukon River at Holy Cross,2000,2000-05-18,139
+1181,5701,Yukon River at Kaltag,2000,2000-05-17,138
+1182,5781,Yukon River at Marshall,2000,2000-05-16,137
+1183,5824,Yukon River at Mountain Village,2000,2000-05-26,147
+1184,5871,Yukon River at Nulato,2000,2000-05-24,145
+1185,5966,Yukon River at Rampart,2000,2000-05-13,134
+1186,6018,Yukon River at Ruby,2000,2000-05-13,134
+1187,6060,Yukon River at Russian Mission,2000,2000-05-18,139
+1188,6267,Yukon River at Dawson,2000,2000-05-05,126
+1189,221,Buckland River at Buckland,1999,1999-05-22,142
+1190,378,Kobuk River at Ambler,1999,1999-05-21,141
+1191,470,Kobuk River at Kobuk,1999,1999-05-18,138
+1192,539,Kobuk River at Shungnak,1999,1999-05-21,141
+1193,692,Noatak River at Noatak,1999,1999-05-18,138
+1194,1007,Colville River at Colville Village,1999,1999-06-03,154
+1195,1818,Little Susitna River nr Palmer,1999,1999-04-10,100
+1196,2211,Yentna River at Fish Creek,1999,1999-05-07,127
+1197,2732,Kuskokwim River at Akiak,1999,1999-05-16,136
+1198,2773,Kuskokwim River at Aniak,1999,1999-05-16,136
+1199,2850,Kuskokwim River at Bethel,1999,1999-05-18,138
+1200,2909,Kuskokwim River at Crooked Creek,1999,1999-05-15,135
+1201,2952,Kuskokwim River at Kalskag,1999,1999-05-16,136
+1202,3014,Kuskokwim River at McGrath,1999,1999-05-13,133
+1203,3087,Kuskokwim River at Nikolai,1999,1999-04-24,114
+1204,3117,Kuskokwim River at Red Devil,1999,1999-05-15,135
+1205,3159,Kuskokwim River at Sleetmute,1999,1999-05-15,135
+1206,3189,Kuskokwim River at Stony River,1999,1999-05-13,133
+1207,3206,Kuskokwim River at Tuluksak,1999,1999-05-18,138
+1208,4138,Tanana River nr Manley Hot Springs,1999,1999-05-07,127
+1209,4339,Tanana River at Nenana,1999,1999-04-29,119
+1210,4715,Koyukuk River at Allakaket,1999,1999-05-13,133
+1211,4775,Koyukuk River at Bettles,1999,1999-05-12,132
+1212,4820,Koyukuk River at Hughes,1999,1999-05-14,134
+1213,5008,Yukon River at Alakanuk,1999,1999-05-29,149
+1214,5063,Yukon River at Anvik,1999,1999-05-20,140
+1215,5099,Yukon River at Beaver,1999,1999-05-14,134
+1216,5153,Yukon River at Circle,1999,1999-05-12,132
+1217,5349,Yukon River at Eagle,1999,1999-05-11,131
+1218,5373,Yukon River nr Emmonak,1999,1999-05-29,149
+1219,5455,Yukon River at Fort Yukon,1999,1999-05-13,133
+1220,5510,Yukon River at Galena,1999,1999-05-17,137
+1221,5652,Yukon River at Holy Cross,1999,1999-05-18,138
+1222,5700,Yukon River at Kaltag,1999,1999-05-18,138
+1223,5780,Yukon River at Marshall,1999,1999-05-20,140
+1224,5823,Yukon River at Mountain Village,1999,1999-05-25,145
+1225,5870,Yukon River at Nulato,1999,1999-05-17,137
+1226,5965,Yukon River at Rampart,1999,1999-05-16,136
+1227,6017,Yukon River at Ruby,1999,1999-05-14,134
+1228,6059,Yukon River at Russian Mission,1999,1999-05-18,138
+1229,6268,Yukon River at Dawson,1999,1999-05-08,128
+1230,220,Buckland River at Buckland,1998,1998-05-22,142
+1231,261,Colville River at Colville Village,1998,1998-05-31,151
+1232,377,Kobuk River at Ambler,1998,1998-05-18,138
+1233,469,Kobuk River at Kobuk,1998,1998-05-18,138
+1234,691,Noatak River at Noatak,1998,1998-05-19,139
+1235,1243,Gakona River at Gakona,1998,1998-04-27,117
+1236,1817,Little Susitna River nr Palmer,1998,1998-04-04,94
+1237,2010,Susitna River at Sunshine,1998,1998-04-23,113
+1238,2210,Yentna River at Fish Creek,1998,1998-04-24,114
+1239,2731,Kuskokwim River at Akiak,1998,1998-05-02,122
+1240,2772,Kuskokwim River at Aniak,1998,1998-04-24,114
+1241,2849,Kuskokwim River at Bethel,1998,1998-05-06,126
+1242,2951,Kuskokwim River at Kalskag,1998,1998-04-26,116
+1243,3013,Kuskokwim River at McGrath,1998,1998-04-25,115
+1244,3086,Kuskokwim River at Nikolai,1998,1998-04-10,100
+1245,3188,Kuskokwim River at Stony River,1998,1998-04-28,118
+1246,3205,Kuskokwim River at Tuluksak,1998,1998-04-30,120
+1247,3577,Kuskokwim River at Sleetmute,1998,1998-04-20,110
+1248,3854,Chena River at Fairbanks,1998,1998-04-20,110
+1249,3898,Chisana River at Northway,1998,1998-04-18,108
+1250,4137,Tanana River nr Manley Hot Springs,1998,1998-04-22,112
+1251,4240,Tanana River at Nenana,1998,1998-04-20,110
+1252,4714,Koyukuk River at Allakaket,1998,1998-05-11,131
+1253,4774,Koyukuk River at Bettles,1998,1998-05-11,131
+1254,4819,Koyukuk River at Hughes,1998,1998-05-12,132
+1255,5007,Yukon River at Alakanuk,1998,1998-05-20,140
+1256,5098,Yukon River at Beaver,1998,1998-05-10,130
+1257,5152,Yukon River at Circle,1998,1998-05-12,132
+1258,5348,Yukon River at Eagle,1998,1998-04-29,119
+1259,5372,Yukon River nr Emmonak,1998,1998-05-20,140
+1260,5454,Yukon River at Fort Yukon,1998,1998-05-13,133
+1261,5509,Yukon River at Galena,1998,1998-05-08,128
+1262,5651,Yukon River at Holy Cross,1998,1998-05-16,136
+1263,5699,Yukon River at Kaltag,1998,1998-05-12,132
+1264,5779,Yukon River at Marshall,1998,1998-05-12,132
+1265,5822,Yukon River at Mountain Village,1998,1998-05-19,139
+1266,5869,Yukon River at Nulato,1998,1998-05-09,129
+1267,6016,Yukon River at Ruby,1998,1998-05-07,127
+1268,6094,Yukon River at Stevens Village,1998,1998-05-09,129
+1269,6182,Yukon River at Tanana,1998,1998-04-30,120
+1270,6269,Yukon River at Dawson,1998,1998-05-04,124
+1271,219,Buckland River at Buckland,1997,1997-05-05,125
+1272,376,Kobuk River at Ambler,1997,1997-05-10,130
+1273,690,Noatak River at Noatak,1997,1997-05-11,131
+1274,992,Colville River at Colville Village,1997,1997-05-16,136
+1275,1242,Gakona River at Gakona,1997,1997-05-15,135
+1276,1273,Gulkana River nr Gakona,1997,1997-05-02,122
+1277,2009,Susitna River at Sunshine,1997,1997-05-03,123
+1278,2209,Yentna River at Fish Creek,1997,1997-05-02,122
+1279,2730,Kuskokwim River at Akiak,1997,1997-05-01,121
+1280,2771,Kuskokwim River at Aniak,1997,1997-05-01,121
+1281,2848,Kuskokwim River at Bethel,1997,1997-05-02,122
+1282,2950,Kuskokwim River at Kalskag,1997,1997-04-30,120
+1283,3012,Kuskokwim River at McGrath,1997,1997-05-02,122
+1284,3051,Kuskokwim River at Napakiak,1997,1997-05-02,122
+1285,3085,Kuskokwim River at Nikolai,1997,1997-04-23,113
+1286,3116,Kuskokwim River at Red Devil,1997,1997-05-02,122
+1287,3158,Kuskokwim River at Sleetmute,1997,1997-05-01,121
+1288,3187,Kuskokwim River at Stony River,1997,1997-04-30,120
+1289,3853,Chena River at Fairbanks,1997,1997-05-01,121
+1290,3897,Chisana River at Northway,1997,1997-04-27,117
+1291,4092,Tanana River at Fairbanks D-S of Chena R,1997,1997-05-01,121
+1292,4239,Tanana River at Nenana,1997,1997-04-30,120
+1293,4713,Koyukuk River at Allakaket,1997,1997-05-03,123
+1294,4773,Koyukuk River at Bettles,1997,1997-05-02,122
+1295,5006,Yukon River at Alakanuk,1997,1997-05-14,134
+1296,5097,Yukon River at Beaver,1997,1997-05-07,127
+1297,5347,Yukon River at Eagle,1997,1997-05-04,124
+1298,5371,Yukon River nr Emmonak,1997,1997-05-14,134
+1299,5508,Yukon River at Galena,1997,1997-05-07,127
+1300,5698,Yukon River at Kaltag,1997,1997-05-06,126
+1301,5868,Yukon River at Nulato,1997,1997-05-06,126
+1302,5964,Yukon River at Rampart,1997,1997-05-09,129
+1303,6015,Yukon River at Ruby,1997,1997-05-05,125
+1304,6270,Yukon River at Dawson,1997,1997-05-04,124
+1305,218,Buckland River at Buckland,1996,1996-05-14,135
+1306,259,Colville River at Colville Village,1996,1996-05-13,134
+1307,375,Kobuk River at Ambler,1996,1996-05-13,134
+1308,467,Kobuk River at Kobuk,1996,1996-05-13,134
+1309,537,Kobuk River at Shungnak,1996,1996-05-13,134
+1310,689,Noatak River at Noatak,1996,1996-05-13,134
+1311,1241,Gakona River at Gakona,1996,1996-04-24,115
+1312,1272,Gulkana River nr Gakona,1996,1996-04-24,115
+1313,1469,Anchor River at Anchor Point,1996,1996-04-20,111
+1314,1959,Skwentna River at Skwentna,1996,1996-05-01,122
+1315,2008,Susitna River at Sunshine,1996,1996-05-03,124
+1316,2161,Yentna River at Lake Creek,1996,1996-05-05,126
+1317,2208,Yentna River at Fish Creek,1996,1996-05-02,123
+1318,2729,Kuskokwim River at Akiak,1996,1996-05-09,130
+1319,2770,Kuskokwim River at Aniak,1996,1996-05-10,131
+1320,2847,Kuskokwim River at Bethel,1996,1996-05-09,130
+1321,2907,Kuskokwim River at Crooked Creek,1996,1996-05-03,124
+1322,3011,Kuskokwim River at McGrath,1996,1996-05-10,131
+1323,3050,Kuskokwim River at Napakiak,1996,1996-05-10,131
+1324,3084,Kuskokwim River at Nikolai,1996,1996-04-30,121
+1325,3115,Kuskokwim River at Red Devil,1996,1996-05-06,127
+1326,3157,Kuskokwim River at Sleetmute,1996,1996-05-06,127
+1327,3186,Kuskokwim River at Stony River,1996,1996-05-06,127
+1328,3199,Kuskokwim River at Tuluksak,1996,1996-05-09,130
+1329,3852,Chena River at Fairbanks,1996,1996-04-25,116
+1330,4238,Tanana River at Nenana,1996,1996-05-06,127
+1331,4712,Koyukuk River at Allakaket,1996,1996-05-12,133
+1332,4772,Koyukuk River at Bettles,1996,1996-05-12,133
+1333,4818,Koyukuk River at Hughes,1996,1996-05-11,132
+1334,4842,Koyukuk River at Huslia,1996,1996-05-16,137
+1335,5005,Yukon River at Alakanuk,1996,1996-05-17,138
+1336,5151,Yukon River at Circle,1996,1996-05-16,137
+1337,5264,Yukon River at Dawson,1996,1996-05-07,128
+1338,5346,Yukon River at Eagle,1996,1996-05-08,129
+1339,5370,Yukon River nr Emmonak,1996,1996-05-18,139
+1340,5453,Yukon River at Fort Yukon,1996,1996-05-17,138
+1341,5507,Yukon River at Galena,1996,1996-05-16,137
+1342,5778,Yukon River at Marshall,1996,1996-05-14,135
+1343,5963,Yukon River at Rampart,1996,1996-05-18,139
+1344,6181,Yukon River at Tanana,1996,1996-05-18,139
+1345,217,Buckland River at Buckland,1995,1995-05-04,124
+1346,258,Colville River at Umiat,1995,1995-05-10,130
+1347,374,Kobuk River at Ambler,1995,1995-05-08,128
+1348,466,Kobuk River at Kobuk,1995,1995-05-03,123
+1349,536,Kobuk River at Shungnak,1995,1995-05-07,127
+1350,688,Noatak River at Noatak,1995,1995-05-07,127
+1351,1240,Gakona River at Gakona,1995,1995-04-29,119
+1352,1271,Gulkana River nr Gakona,1995,1995-04-29,119
+1353,1468,Anchor River at Anchor Point,1995,1995-04-27,117
+1354,1958,Skwentna River at Skwentna,1995,1995-04-28,118
+1355,2207,Yentna River at Fish Creek,1995,1995-05-01,121
+1356,2728,Kuskokwim River at Akiak,1995,1995-05-05,125
+1357,2769,Kuskokwim River at Aniak,1995,1995-05-03,123
+1358,2846,Kuskokwim River at Bethel,1995,1995-05-06,126
+1359,2906,Kuskokwim River at Crooked Creek,1995,1995-04-28,118
+1360,2948,Kuskokwim River at Kalskag,1995,1995-05-03,123
+1361,3010,Kuskokwim River at McGrath,1995,1995-04-30,120
+1362,3083,Kuskokwim River at Nikolai,1995,1995-04-17,107
+1363,3114,Kuskokwim River at Red Devil,1995,1995-04-27,117
+1364,3156,Kuskokwim River at Sleetmute,1995,1995-04-27,117
+1365,3198,Kuskokwim River at Tuluksak,1995,1995-05-04,124
+1366,3851,Chena River at Fairbanks,1995,1995-04-22,112
+1367,4237,Tanana River at Nenana,1995,1995-04-26,116
+1368,4771,Koyukuk River at Bettles,1995,1995-04-28,118
+1369,4817,Koyukuk River at Hughes,1995,1995-05-03,123
+1370,4841,Koyukuk River at Huslia,1995,1995-05-06,126
+1371,5004,Yukon River at Alakanuk,1995,1995-05-15,135
+1372,5061,Yukon River at Anvik,1995,1995-05-08,128
+1373,5150,Yukon River at Circle,1995,1995-05-02,122
+1374,5263,Yukon River at Dawson,1995,1995-05-02,122
+1375,5345,Yukon River at Eagle,1995,1995-04-29,119
+1376,5369,Yukon River nr Emmonak,1995,1995-05-15,135
+1377,5452,Yukon River at Fort Yukon,1995,1995-05-03,123
+1378,5506,Yukon River at Galena,1995,1995-05-03,123
+1379,5649,Yukon River at Holy Cross,1995,1995-05-08,128
+1380,5697,Yukon River at Kaltag,1995,1995-05-06,126
+1381,5777,Yukon River at Marshall,1995,1995-05-08,128
+1382,5821,Yukon River at Mountain Village,1995,1995-05-13,133
+1383,5897,Yukon River at Pilot Station,1995,1995-05-09,129
+1384,6057,Yukon River at Russian Mission,1995,1995-05-07,127
+1385,373,Kobuk River at Ambler,1994,1994-05-18,138
+1386,465,Kobuk River at Kobuk,1994,1994-05-12,132
+1387,1239,Gakona River at Gakona,1994,1994-04-26,116
+1388,1270,Gulkana River nr Gakona,1994,1994-04-26,116
+1389,1467,Anchor River at Anchor Point,1994,1994-04-13,103
+1390,1957,Skwentna River at Skwentna,1994,1994-04-29,119
+1391,2007,Susitna River at Sunshine,1994,1994-05-01,121
+1392,2206,Yentna River at Fish Creek,1994,1994-04-30,120
+1393,2727,Kuskokwim River at Akiak,1994,1994-05-05,125
+1394,2768,Kuskokwim River at Aniak,1994,1994-05-02,122
+1395,2845,Kuskokwim River at Bethel,1994,1994-05-07,127
+1396,2947,Kuskokwim River at Kalskag,1994,1994-05-04,124
+1397,3009,Kuskokwim River at McGrath,1994,1994-05-01,121
+1398,3049,Kuskokwim River at Napakiak,1994,1994-05-08,128
+1399,3082,Kuskokwim River at Nikolai,1994,1994-04-22,112
+1400,3113,Kuskokwim River at Red Devil,1994,1994-04-30,120
+1401,3155,Kuskokwim River at Sleetmute,1994,1994-05-02,122
+1402,3197,Kuskokwim River at Tuluksak,1994,1994-05-07,127
+1403,3894,Chisana River at Northway,1994,1994-04-20,110
+1404,4133,Tanana River nr Manley Hot Springs,1994,1994-05-01,121
+1405,4236,Tanana River at Nenana,1994,1994-04-29,119
+1406,4711,Koyukuk River at Allakaket,1994,1994-05-03,123
+1407,4770,Koyukuk River at Bettles,1994,1994-05-02,122
+1408,4816,Koyukuk River at Hughes,1994,1994-05-03,123
+1409,5003,Yukon River at Alakanuk,1994,1994-05-19,139
+1410,5060,Yukon River at Anvik,1994,1994-05-11,131
+1411,5149,Yukon River at Circle,1994,1994-05-03,123
+1412,5262,Yukon River at Dawson,1994,1994-05-01,121
+1413,5344,Yukon River at Eagle,1994,1994-04-29,119
+1414,5368,Yukon River nr Emmonak,1994,1994-05-19,139
+1415,5451,Yukon River at Fort Yukon,1994,1994-05-05,125
+1416,5505,Yukon River at Galena,1994,1994-05-07,127
+1417,5648,Yukon River at Holy Cross,1994,1994-05-11,131
+1418,5776,Yukon River at Marshall,1994,1994-05-11,131
+1419,5820,Yukon River at Mountain Village,1994,1994-05-14,134
+1420,6056,Yukon River at Russian Mission,1994,1994-05-09,129
+1421,6179,Yukon River at Tanana,1994,1994-05-07,127
+1422,216,Buckland River at Buckland,1993,1993-05-16,136
+1423,257,Colville River at Umiat,1993,1993-05-23,143
+1424,372,Kobuk River at Ambler,1993,1993-05-19,139
+1425,464,Kobuk River at Kobuk,1993,1993-05-15,135
+1426,535,Kobuk River at Shungnak,1993,1993-05-17,137
+1427,687,Noatak River at Noatak,1993,1993-05-19,139
+1428,1238,Gakona River at Gakona,1993,1993-04-19,109
+1429,1269,Gulkana River nr Gakona,1993,1993-04-28,118
+1430,1811,Little Susitna River nr Palmer,1993,1993-04-19,109
+1431,1956,Skwentna River at Skwentna,1993,1993-05-03,123
+1432,2006,Susitna River at Sunshine,1993,1993-05-04,124
+1433,2152,Yentna River at Fish Creek,1993,1993-04-30,120
+1434,2160,Yentna River at Lake Creek,1993,1993-05-01,121
+1435,2726,Kuskokwim River at Akiak,1993,1993-05-03,123
+1436,2767,Kuskokwim River at Aniak,1993,1993-04-28,118
+1437,2844,Kuskokwim River at Bethel,1993,1993-05-02,122
+1438,2904,Kuskokwim River at Crooked Creek,1993,1993-04-26,116
+1439,2946,Kuskokwim River at Kalskag,1993,1993-04-28,118
+1440,3008,Kuskokwim River at McGrath,1993,1993-04-30,120
+1441,3048,Kuskokwim River at Napakiak,1993,1993-05-04,124
+1442,3081,Kuskokwim River at Nikolai,1993,1993-04-13,103
+1443,3112,Kuskokwim River at Red Devil,1993,1993-04-28,118
+1444,3154,Kuskokwim River at Sleetmute,1993,1993-04-27,117
+1445,3850,Chena River at Fairbanks,1993,1993-03-31,90
+1446,3893,Chisana River at Northway,1993,1993-04-19,109
+1447,4089,Tanana River at Fairbanks D-S of Chena R,1993,1993-04-25,115
+1448,4132,Tanana River nr Manley Hot Springs,1993,1993-04-26,116
+1449,4235,Tanana River at Nenana,1993,1993-04-24,114
+1450,4710,Koyukuk River at Allakaket,1993,1993-05-10,130
+1451,4769,Koyukuk River at Bettles,1993,1993-05-10,130
+1452,5002,Yukon River at Alakanuk,1993,1993-05-19,139
+1453,5059,Yukon River at Anvik,1993,1993-05-11,131
+1454,5148,Yukon River at Circle,1993,1993-05-03,123
+1455,5261,Yukon River at Dawson,1993,1993-04-29,119
+1456,5343,Yukon River at Eagle,1993,1993-04-29,119
+1457,5367,Yukon River nr Emmonak,1993,1993-05-20,140
+1458,5450,Yukon River at Fort Yukon,1993,1993-05-04,124
+1459,5504,Yukon River at Galena,1993,1993-05-06,126
+1460,5696,Yukon River at Kaltag,1993,1993-05-10,130
+1461,5819,Yukon River at Mountain Village,1993,1993-05-11,131
+1462,6011,Yukon River at Ruby,1993,1993-05-03,123
+1463,6055,Yukon River at Russian Mission,1993,1993-05-07,127
+1464,6178,Yukon River at Tanana,1993,1993-05-08,128
+1465,215,Buckland River at Buckland,1992,1992-05-28,149
+1466,256,Colville River at Umiat,1992,1992-05-25,146
+1467,371,Kobuk River at Ambler,1992,1992-06-02,154
+1468,463,Kobuk River at Kobuk,1992,1992-05-28,149
+1469,534,Kobuk River at Shungnak,1992,1992-05-31,152
+1470,686,Noatak River at Noatak,1992,1992-05-31,152
+1471,1237,Gakona River at Gakona,1992,1992-04-27,118
+1472,1268,Gulkana River nr Gakona,1992,1992-05-12,133
+1473,1466,Anchor River at Anchor Point,1992,1992-04-17,108
+1474,1810,Little Susitna River nr Palmer,1992,1992-04-26,117
+1475,2151,Yentna River at Fish Creek,1992,1992-05-06,127
+1476,2159,Yentna River at Lake Creek,1992,1992-05-07,128
+1477,2725,Kuskokwim River at Akiak,1992,1992-05-24,145
+1478,2766,Kuskokwim River at Aniak,1992,1992-05-20,141
+1479,2843,Kuskokwim River at Bethel,1992,1992-05-24,145
+1480,2903,Kuskokwim River at Crooked Creek,1992,1992-05-16,137
+1481,3007,Kuskokwim River at McGrath,1992,1992-05-20,141
+1482,3047,Kuskokwim River at Napakiak,1992,1992-05-24,145
+1483,3080,Kuskokwim River at Nikolai,1992,1992-04-24,115
+1484,3111,Kuskokwim River at Red Devil,1992,1992-05-14,135
+1485,3153,Kuskokwim River at Sleetmute,1992,1992-05-14,135
+1486,3185,Kuskokwim River at Stony River,1992,1992-05-14,135
+1487,3892,Chisana River at Northway,1992,1992-04-25,116
+1488,4131,Tanana River nr Manley Hot Springs,1992,1992-05-19,140
+1489,4234,Tanana River at Nenana,1992,1992-05-14,135
+1490,4709,Koyukuk River at Allakaket,1992,1992-05-25,146
+1491,4768,Koyukuk River at Bettles,1992,1992-05-24,145
+1492,4815,Koyukuk River at Hughes,1992,1992-05-25,146
+1493,4840,Koyukuk River at Huslia,1992,1992-05-28,149
+1494,5001,Yukon River at Alakanuk,1992,1992-06-03,155
+1495,5058,Yukon River at Anvik,1992,1992-05-27,148
+1496,5147,Yukon River at Circle,1992,1992-05-24,145
+1497,5260,Yukon River at Dawson,1992,1992-05-08,129
+1498,5342,Yukon River at Eagle,1992,1992-05-12,133
+1499,5366,Yukon River nr Emmonak,1992,1992-06-03,155
+1500,5449,Yukon River at Fort Yukon,1992,1992-05-23,144
+1501,5503,Yukon River at Galena,1992,1992-05-25,146
+1502,5647,Yukon River at Holy Cross,1992,1992-05-25,146
+1503,5695,Yukon River at Kaltag,1992,1992-05-26,147
+1504,5775,Yukon River at Marshall,1992,1992-05-27,148
+1505,6010,Yukon River at Ruby,1992,1992-05-25,146
+1506,6054,Yukon River at Russian Mission,1992,1992-05-24,145
+1507,6177,Yukon River at Tanana,1992,1992-05-20,141
+1508,462,Kobuk River at Kobuk,1991,1991-05-14,134
+1509,1236,Gakona River at Gakona,1991,1991-04-24,114
+1510,1267,Gulkana River nr Gakona,1991,1991-04-10,100
+1511,1809,Little Susitna River nr Palmer,1991,1991-04-30,120
+1512,1955,Skwentna River at Skwentna,1991,1991-05-03,123
+1513,2004,Susitna River at Sunshine,1991,1991-05-04,124
+1514,2150,Yentna River at Fish Creek,1991,1991-05-06,126
+1515,2158,Yentna River at Lake Creek,1991,1991-05-03,123
+1516,2765,Kuskokwim River at Aniak,1991,1991-05-08,128
+1517,2842,Kuskokwim River at Bethel,1991,1991-05-08,128
+1518,2902,Kuskokwim River at Crooked Creek,1991,1991-05-04,124
+1519,2945,Kuskokwim River at Kalskag,1991,1991-05-09,129
+1520,3006,Kuskokwim River at McGrath,1991,1991-05-05,125
+1521,3046,Kuskokwim River at Napakiak,1991,1991-05-09,129
+1522,3079,Kuskokwim River at Nikolai,1991,1991-04-24,114
+1523,3110,Kuskokwim River at Red Devil,1991,1991-05-04,124
+1524,3152,Kuskokwim River at Sleetmute,1991,1991-05-02,122
+1525,3184,Kuskokwim River at Stony River,1991,1991-05-02,122
+1526,3849,Chena River at Fairbanks,1991,1991-04-21,111
+1527,4087,Tanana River at Fairbanks D-S of Chena R,1991,1991-04-27,117
+1528,4233,Tanana River at Nenana,1991,1991-05-01,121
+1529,4708,Koyukuk River at Allakaket,1991,1991-05-03,123
+1530,4767,Koyukuk River at Bettles,1991,1991-05-04,124
+1531,4814,Koyukuk River at Hughes,1991,1991-05-02,122
+1532,4839,Koyukuk River at Huslia,1991,1991-05-07,127
+1533,5057,Yukon River at Anvik,1991,1991-05-10,130
+1534,5146,Yukon River at Circle,1991,1991-05-08,128
+1535,5259,Yukon River at Dawson,1991,1991-05-01,121
+1536,5341,Yukon River at Eagle,1991,1991-04-28,118
+1537,5365,Yukon River nr Emmonak,1991,1991-05-21,141
+1538,5448,Yukon River at Fort Yukon,1991,1991-05-05,125
+1539,5502,Yukon River at Galena,1991,1991-05-08,128
+1540,5646,Yukon River at Holy Cross,1991,1991-05-10,130
+1541,5694,Yukon River at Kaltag,1991,1991-05-08,128
+1542,5774,Yukon River at Marshall,1991,1991-05-09,129
+1543,5818,Yukon River at Mountain Village,1991,1991-05-16,136
+1544,6053,Yukon River at Russian Mission,1991,1991-05-10,130
+1545,6176,Yukon River at Tanana,1991,1991-05-07,127
+1546,461,Kobuk River at Kobuk,1990,1990-05-14,134
+1547,1813,Little Susitna River nr Palmer,1990,1990-04-14,104
+1548,2003,Susitna River at Sunshine,1990,1990-05-03,123
+1549,2149,Yentna River at Fish Creek,1990,1990-04-26,116
+1550,2157,Yentna River at Lake Creek,1990,1990-04-27,117
+1551,2723,Kuskokwim River at Akiak,1990,1990-05-04,124
+1552,2764,Kuskokwim River at Aniak,1990,1990-05-02,122
+1553,2841,Kuskokwim River at Bethel,1990,1990-05-06,126
+1554,2944,Kuskokwim River at Kalskag,1990,1990-05-02,122
+1555,3005,Kuskokwim River at McGrath,1990,1990-05-02,122
+1556,3045,Kuskokwim River at Napakiak,1990,1990-05-08,128
+1557,3078,Kuskokwim River at Nikolai,1990,1990-04-12,102
+1558,3109,Kuskokwim River at Red Devil,1990,1990-04-30,120
+1559,3151,Kuskokwim River at Sleetmute,1990,1990-04-30,120
+1560,3183,Kuskokwim River at Stony River,1990,1990-04-30,120
+1561,3204,Kuskokwim River at Tuluksak,1990,1990-05-02,122
+1562,3848,Chena River at Fairbanks,1990,1990-04-19,109
+1563,3890,Chisana River at Northway,1990,1990-04-19,109
+1564,4129,Tanana River nr Manley Hot Springs,1990,1990-04-16,106
+1565,4232,Tanana River at Nenana,1990,1990-04-24,114
+1566,4707,Koyukuk River at Allakaket,1990,1990-05-11,131
+1567,4766,Koyukuk River at Bettles,1990,1990-05-10,130
+1568,5056,Yukon River at Anvik,1990,1990-05-09,129
+1569,5145,Yukon River at Circle,1990,1990-05-04,124
+1570,5340,Yukon River at Eagle,1990,1990-04-25,115
+1571,5447,Yukon River at Fort Yukon,1990,1990-05-02,122
+1572,5501,Yukon River at Galena,1990,1990-05-08,128
+1573,5645,Yukon River at Holy Cross,1990,1990-05-12,132
+1574,5773,Yukon River at Marshall,1990,1990-05-11,131
+1575,5817,Yukon River at Mountain Village,1990,1990-05-14,134
+1576,5896,Yukon River at Pilot Station,1990,1990-05-14,134
+1577,6008,Yukon River at Ruby,1990,1990-05-07,127
+1578,6052,Yukon River at Russian Mission,1990,1990-05-18,138
+1579,6175,Yukon River at Tanana,1990,1990-05-03,123
+1580,6271,Yukon River at Dawson,1990,1990-04-30,120
+1581,214,Buckland River at Buckland,1989,1989-05-29,149
+1582,255,Colville River at Umiat,1989,1989-05-27,147
+1583,370,Kobuk River at Ambler,1989,1989-05-24,144
+1584,460,Kobuk River at Kobuk,1989,1989-05-24,144
+1585,1235,Gakona River at Gakona,1989,1989-04-28,118
+1586,1266,Gulkana River nr Gakona,1989,1989-04-28,118
+1587,1807,Little Susitna River nr Palmer,1989,1989-04-12,102
+1588,1954,Skwentna River at Skwentna,1989,1989-04-29,119
+1589,2002,Susitna River at Sunshine,1989,1989-05-02,122
+1590,2148,Yentna River at Fish Creek,1989,1989-04-30,120
+1591,2156,Yentna River at Lake Creek,1989,1989-04-30,120
+1592,2722,Kuskokwim River at Akiak,1989,1989-05-09,129
+1593,2763,Kuskokwim River at Aniak,1989,1989-05-09,129
+1594,2840,Kuskokwim River at Bethel,1989,1989-05-11,131
+1595,2900,Kuskokwim River at Crooked Creek,1989,1989-05-02,122
+1596,2943,Kuskokwim River at Kalskag,1989,1989-05-09,129
+1597,3004,Kuskokwim River at McGrath,1989,1989-05-05,125
+1598,3044,Kuskokwim River at Napakiak,1989,1989-05-14,134
+1599,3108,Kuskokwim River at Red Devil,1989,1989-05-05,125
+1600,3182,Kuskokwim River at Stony River,1989,1989-05-02,122
+1601,3847,Chena River at Fairbanks,1989,1989-04-29,119
+1602,3889,Chisana River at Northway,1989,1989-04-21,111
+1603,4085,Tanana River at Fairbanks D-S of Chena R,1989,1989-04-30,120
+1604,4128,Tanana River nr Manley Hot Springs,1989,1989-05-04,124
+1605,4231,Tanana River at Nenana,1989,1989-05-01,121
+1606,4706,Koyukuk River at Allakaket,1989,1989-05-09,129
+1607,4765,Koyukuk River at Bettles,1989,1989-05-09,129
+1608,4813,Koyukuk River at Hughes,1989,1989-05-09,129
+1609,4837,Koyukuk River at Huslia,1989,1989-05-10,130
+1610,5000,Yukon River at Alakanuk,1989,1989-05-29,149
+1611,5055,Yukon River at Anvik,1989,1989-05-15,135
+1612,5144,Yukon River at Circle,1989,1989-05-02,122
+1613,5339,Yukon River at Eagle,1989,1989-04-29,119
+1614,5363,Yukon River nr Emmonak,1989,1989-05-29,149
+1615,5446,Yukon River at Fort Yukon,1989,1989-05-04,124
+1616,5500,Yukon River at Galena,1989,1989-05-07,127
+1617,5644,Yukon River at Holy Cross,1989,1989-05-15,135
+1618,5693,Yukon River at Kaltag,1989,1989-05-14,134
+1619,5772,Yukon River at Marshall,1989,1989-05-15,135
+1620,5816,Yukon River at Mountain Village,1989,1989-05-27,147
+1621,6007,Yukon River at Ruby,1989,1989-05-07,127
+1622,6051,Yukon River at Russian Mission,1989,1989-05-14,134
+1623,6174,Yukon River at Tanana,1989,1989-05-08,128
+1624,6272,Yukon River at Dawson,1989,1989-04-29,119
+1625,213,Buckland River at Buckland,1988,1988-05-05,126
+1626,254,Colville River at Umiat,1988,1988-05-15,136
+1627,369,Kobuk River at Ambler,1988,1988-05-10,131
+1628,459,Kobuk River at Kobuk,1988,1988-05-05,126
+1629,532,Kobuk River at Shungnak,1988,1988-05-05,126
+1630,1234,Gakona River at Gakona,1988,1988-04-30,121
+1631,1265,Gulkana River nr Gakona,1988,1988-04-25,116
+1632,1806,Little Susitna River nr Palmer,1988,1988-04-12,103
+1633,1953,Skwentna River at Skwentna,1988,1988-04-24,115
+1634,2001,Susitna River at Sunshine,1988,1988-04-26,117
+1635,2147,Yentna River at Fish Creek,1988,1988-04-30,121
+1636,2155,Yentna River at Lake Creek,1988,1988-05-01,122
+1637,2762,Kuskokwim River at Aniak,1988,1988-05-03,124
+1638,2839,Kuskokwim River at Bethel,1988,1988-05-11,132
+1639,2899,Kuskokwim River at Crooked Creek,1988,1988-05-06,127
+1640,3003,Kuskokwim River at McGrath,1988,1988-05-04,125
+1641,3077,Kuskokwim River at Nikolai,1988,1988-04-26,117
+1642,3107,Kuskokwim River at Red Devil,1988,1988-05-06,127
+1643,3150,Kuskokwim River at Sleetmute,1988,1988-05-06,127
+1644,3181,Kuskokwim River at Stony River,1988,1988-05-05,126
+1645,3846,Chena River at Fairbanks,1988,1988-04-25,116
+1646,4084,Tanana River at Fairbanks D-S of Chena R,1988,1988-04-26,117
+1647,4127,Tanana River nr Manley Hot Springs,1988,1988-05-02,123
+1648,4230,Tanana River at Nenana,1988,1988-04-27,118
+1649,4764,Koyukuk River at Bettles,1988,1988-05-04,125
+1650,4812,Koyukuk River at Hughes,1988,1988-05-01,122
+1651,4999,Yukon River at Alakanuk,1988,1988-05-16,137
+1652,5143,Yukon River at Circle,1988,1988-05-05,126
+1653,5257,Yukon River at Dawson,1988,1988-05-01,122
+1654,5338,Yukon River at Eagle,1988,1988-05-02,123
+1655,5362,Yukon River nr Emmonak,1988,1988-05-16,137
+1656,5445,Yukon River at Fort Yukon,1988,1988-05-05,126
+1657,5499,Yukon River at Galena,1988,1988-05-07,128
+1658,5643,Yukon River at Holy Cross,1988,1988-05-12,133
+1659,5692,Yukon River at Kaltag,1988,1988-05-10,131
+1660,5771,Yukon River at Marshall,1988,1988-05-12,133
+1661,5815,Yukon River at Mountain Village,1988,1988-05-13,134
+1662,6050,Yukon River at Russian Mission,1988,1988-05-12,133
+1663,6173,Yukon River at Tanana,1988,1988-05-04,125
+1664,212,Buckland River at Buckland,1987,1987-05-22,142
+1665,253,Colville River at Umiat,1987,1987-05-24,144
+1666,368,Kobuk River at Ambler,1987,1987-05-19,139
+1667,458,Kobuk River at Kobuk,1987,1987-05-18,138
+1668,531,Kobuk River at Shungnak,1987,1987-05-17,137
+1669,1233,Gakona River at Gakona,1987,1987-05-04,124
+1670,1264,Gulkana River nr Gakona,1987,1987-05-05,125
+1671,2000,Susitna River at Sunshine,1987,1987-04-27,117
+1672,2146,Yentna River at Fish Creek,1987,1987-05-02,122
+1673,2154,Yentna River at Lake Creek,1987,1987-05-02,122
+1674,2720,Kuskokwim River at Akiak,1987,1987-05-15,135
+1675,2761,Kuskokwim River at Aniak,1987,1987-05-09,129
+1676,2838,Kuskokwim River at Bethel,1987,1987-05-18,138
+1677,2898,Kuskokwim River at Crooked Creek,1987,1987-05-09,129
+1678,2941,Kuskokwim River at Kalskag,1987,1987-05-16,136
+1679,3002,Kuskokwim River at McGrath,1987,1987-05-08,128
+1680,3043,Kuskokwim River at Napakiak,1987,1987-05-19,139
+1681,3149,Kuskokwim River at Sleetmute,1987,1987-05-07,127
+1682,3180,Kuskokwim River at Stony River,1987,1987-05-07,127
+1683,3887,Chisana River at Northway,1987,1987-04-27,117
+1684,4126,Tanana River nr Manley Hot Springs,1987,1987-05-07,127
+1685,4229,Tanana River at Nenana,1987,1987-05-05,125
+1686,4704,Koyukuk River at Allakaket,1987,1987-05-09,129
+1687,4763,Koyukuk River at Bettles,1987,1987-05-09,129
+1688,4811,Koyukuk River at Hughes,1987,1987-05-10,130
+1689,4835,Koyukuk River at Huslia,1987,1987-05-13,133
+1690,4998,Yukon River at Alakanuk,1987,1987-05-28,148
+1691,5053,Yukon River at Anvik,1987,1987-05-24,144
+1692,5142,Yukon River at Circle,1987,1987-05-13,133
+1693,5337,Yukon River at Eagle,1987,1987-05-09,129
+1694,5361,Yukon River nr Emmonak,1987,1987-05-28,148
+1695,5444,Yukon River at Fort Yukon,1987,1987-05-14,134
+1696,5498,Yukon River at Galena,1987,1987-05-16,136
+1697,5642,Yukon River at Holy Cross,1987,1987-05-19,139
+1698,5770,Yukon River at Marshall,1987,1987-05-16,136
+1699,5814,Yukon River at Mountain Village,1987,1987-05-21,141
+1700,6005,Yukon River at Ruby,1987,1987-05-15,135
+1701,6049,Yukon River at Russian Mission,1987,1987-05-17,137
+1702,6172,Yukon River at Tanana,1987,1987-05-16,136
+1703,6273,Yukon River at Dawson,1987,1987-05-09,129
+1704,211,Buckland River at Buckland,1986,1986-05-30,150
+1705,252,Colville River at Umiat,1986,1986-06-04,155
+1706,367,Kobuk River at Ambler,1986,1986-05-16,136
+1707,457,Kobuk River at Kobuk,1986,1986-05-23,143
+1708,530,Kobuk River at Shungnak,1986,1986-05-24,144
+1709,685,Noatak River at Noatak,1986,1986-06-02,153
+1710,1232,Gakona River at Gakona,1986,1986-05-09,129
+1711,1263,Gulkana River nr Gakona,1986,1986-05-07,127
+1712,1465,Anchor River at Anchor Point,1986,1986-04-21,111
+1713,1805,Little Susitna River nr Palmer,1986,1986-05-08,128
+1714,1999,Susitna River at Sunshine,1986,1986-05-06,126
+1715,2145,Yentna River at Fish Creek,1986,1986-05-02,122
+1716,2153,Yentna River at Lake Creek,1986,1986-05-02,122
+1717,2719,Kuskokwim River at Akiak,1986,1986-05-15,135
+1718,2837,Kuskokwim River at Bethel,1986,1986-05-14,134
+1719,2897,Kuskokwim River at Crooked Creek,1986,1986-05-13,133
+1720,2940,Kuskokwim River at Kalskag,1986,1986-05-20,140
+1721,3001,Kuskokwim River at McGrath,1986,1986-05-12,132
+1722,3042,Kuskokwim River at Napakiak,1986,1986-05-17,137
+1723,3076,Kuskokwim River at Nikolai,1986,1986-05-05,125
+1724,3105,Kuskokwim River at Red Devil,1986,1986-05-13,133
+1725,3148,Kuskokwim River at Sleetmute,1986,1986-05-14,134
+1726,3179,Kuskokwim River at Stony River,1986,1986-05-14,134
+1727,3203,Kuskokwim River at Tuluksak,1986,1986-05-16,136
+1728,3845,Chena River at Fairbanks,1986,1986-05-08,128
+1729,3886,Chisana River at Northway,1986,1986-05-03,123
+1730,4083,Tanana River at Fairbanks D-S of Chena R,1986,1986-05-08,128
+1731,4228,Tanana River at Nenana,1986,1986-05-08,128
+1732,4703,Koyukuk River at Allakaket,1986,1986-05-12,132
+1733,4762,Koyukuk River at Bettles,1986,1986-05-11,131
+1734,4810,Koyukuk River at Hughes,1986,1986-05-12,132
+1735,4834,Koyukuk River at Huslia,1986,1986-05-15,135
+1736,4997,Yukon River at Alakanuk,1986,1986-05-31,151
+1737,5052,Yukon River at Anvik,1986,1986-05-25,145
+1738,5141,Yukon River at Circle,1986,1986-05-13,133
+1739,5256,Yukon River at Dawson,1986,1986-05-12,132
+1740,5336,Yukon River at Eagle,1986,1986-05-11,131
+1741,5360,Yukon River nr Emmonak,1986,1986-05-29,149
+1742,5443,Yukon River at Fort Yukon,1986,1986-05-17,137
+1743,5497,Yukon River at Galena,1986,1986-05-20,140
+1744,5641,Yukon River at Holy Cross,1986,1986-05-25,145
+1745,5690,Yukon River at Kaltag,1986,1986-05-22,142
+1746,5769,Yukon River at Marshall,1986,1986-05-14,134
+1747,5813,Yukon River at Mountain Village,1986,1986-05-25,145
+1748,5867,Yukon River at Nulato,1986,1986-05-17,137
+1749,6004,Yukon River at Ruby,1986,1986-05-18,138
+1750,6048,Yukon River at Russian Mission,1986,1986-05-23,143
+1751,6093,Yukon River at Stevens Village,1986,1986-05-15,135
+1752,6171,Yukon River at Tanana,1986,1986-05-14,134
+1753,366,Kobuk River at Ambler,1985,1985-05-26,146
+1754,1066,Colville River at Umiat,1985,1985-05-25,145
+1755,1067,Buckland River at Buckland,1985,1985-05-26,146
+1756,1231,Gakona River at Gakona,1985,1985-05-18,138
+1757,1464,Anchor River at Anchor Point,1985,1985-05-02,122
+1758,1804,Little Susitna River nr Palmer,1985,1985-05-22,142
+1759,1998,Susitna River at Sunshine,1985,1985-05-16,136
+1760,2144,Yentna River at Fish Creek,1985,1985-05-18,138
+1761,2718,Kuskokwim River at Akiak,1985,1985-05-23,143
+1762,2759,Kuskokwim River at Aniak,1985,1985-05-21,141
+1763,2836,Kuskokwim River at Bethel,1985,1985-05-25,145
+1764,2896,Kuskokwim River at Crooked Creek,1985,1985-05-20,140
+1765,3000,Kuskokwim River at McGrath,1985,1985-05-22,142
+1766,3104,Kuskokwim River at Red Devil,1985,1985-05-20,140
+1767,3178,Kuskokwim River at Stony River,1985,1985-05-20,140
+1768,3672,Kuskokwim River at Nikolai,1985,1985-05-09,129
+1769,3844,Chena River at Fairbanks,1985,1985-05-08,128
+1770,3885,Chisana River at Northway,1985,1985-05-04,124
+1771,4125,Tanana River nr Manley Hot Springs,1985,1985-05-15,135
+1772,4227,Tanana River at Nenana,1985,1985-05-11,131
+1773,4702,Koyukuk River at Allakaket,1985,1985-05-20,140
+1774,4761,Koyukuk River at Bettles,1985,1985-05-20,140
+1775,4809,Koyukuk River at Hughes,1985,1985-05-21,141
+1776,4996,Yukon River at Alakanuk,1985,1985-06-04,155
+1777,5051,Yukon River at Anvik,1985,1985-05-26,146
+1778,5096,Yukon River at Beaver,1985,1985-05-19,139
+1779,5140,Yukon River at Circle,1985,1985-05-17,137
+1780,5255,Yukon River at Dawson,1985,1985-05-16,136
+1781,5335,Yukon River at Eagle,1985,1985-05-16,136
+1782,5442,Yukon River at Fort Yukon,1985,1985-05-18,138
+1783,5496,Yukon River at Galena,1985,1985-05-23,143
+1784,5640,Yukon River at Holy Cross,1985,1985-05-26,146
+1785,5689,Yukon River at Kaltag,1985,1985-05-23,143
+1786,5768,Yukon River at Marshall,1985,1985-05-30,150
+1787,5812,Yukon River at Mountain Village,1985,1985-05-29,149
+1788,5894,Yukon River at Pilot Station,1985,1985-06-03,154
+1789,6003,Yukon River at Ruby,1985,1985-05-21,141
+1790,6047,Yukon River at Russian Mission,1985,1985-05-26,146
+1791,6092,Yukon River at Stevens Village,1985,1985-05-21,141
+1792,6170,Yukon River at Tanana,1985,1985-05-20,140
+1793,210,Buckland River at Buckland,1984,1984-05-23,144
+1794,251,Colville River at Umiat,1984,1984-05-25,146
+1795,456,Kobuk River at Kobuk,1984,1984-05-22,143
+1796,529,Kobuk River at Shungnak,1984,1984-05-24,145
+1797,1997,Susitna River at Sunshine,1984,1984-05-03,124
+1798,2143,Yentna River at Fish Creek,1984,1984-05-02,123
+1799,2758,Kuskokwim River at Aniak,1984,1984-05-13,134
+1800,2835,Kuskokwim River at Bethel,1984,1984-05-13,134
+1801,2895,Kuskokwim River at Crooked Creek,1984,1984-05-15,136
+1802,2999,Kuskokwim River at McGrath,1984,1984-05-16,137
+1803,3075,Kuskokwim River at Nikolai,1984,1984-05-03,124
+1804,3103,Kuskokwim River at Red Devil,1984,1984-05-13,134
+1805,3147,Kuskokwim River at Sleetmute,1984,1984-05-14,135
+1806,3177,Kuskokwim River at Stony River,1984,1984-05-14,135
+1807,3202,Kuskokwim River at Tuluksak,1984,1984-05-18,139
+1808,4226,Tanana River at Nenana,1984,1984-05-09,130
+1809,4760,Koyukuk River at Bettles,1984,1984-05-18,139
+1810,4995,Yukon River at Alakanuk,1984,1984-05-25,146
+1811,5050,Yukon River at Anvik,1984,1984-05-20,141
+1812,5139,Yukon River at Circle,1984,1984-05-18,139
+1813,5254,Yukon River at Dawson,1984,1984-05-08,129
+1814,5334,Yukon River at Eagle,1984,1984-05-09,130
+1815,5359,Yukon River nr Emmonak,1984,1984-05-25,146
+1816,5441,Yukon River at Fort Yukon,1984,1984-05-19,140
+1817,5495,Yukon River at Galena,1984,1984-05-19,140
+1818,5767,Yukon River at Marshall,1984,1984-05-20,141
+1819,6002,Yukon River at Ruby,1984,1984-05-18,139
+1820,6046,Yukon River at Russian Mission,1984,1984-05-20,141
+1821,209,Buckland River at Buckland,1983,1983-05-12,132
+1822,250,Colville River at Umiat,1983,1983-05-31,151
+1823,365,Kobuk River at Ambler,1983,1983-05-12,132
+1824,2142,Yentna River at Fish Creek,1983,1983-05-03,123
+1825,2278,Susitna River at Sunshine,1983,1983-05-03,123
+1826,2717,Kuskokwim River at Akiak,1983,1983-05-11,131
+1827,2757,Kuskokwim River at Aniak,1983,1983-05-09,129
+1828,2834,Kuskokwim River at Bethel,1983,1983-05-11,131
+1829,2894,Kuskokwim River at Crooked Creek,1983,1983-05-06,126
+1830,2998,Kuskokwim River at McGrath,1983,1983-05-05,125
+1831,3102,Kuskokwim River at Red Devil,1983,1983-05-03,123
+1832,4225,Tanana River at Nenana,1983,1983-04-29,119
+1833,4441,Chisana River at Northway,1983,1983-04-22,112
+1834,4442,Chena River at Fairbanks,1983,1983-04-28,118
+1835,4994,Yukon River at Alakanuk,1983,1983-05-16,136
+1836,5049,Yukon River at Anvik,1983,1983-05-14,134
+1837,5138,Yukon River at Circle,1983,1983-05-03,123
+1838,5253,Yukon River at Dawson,1983,1983-05-01,121
+1839,5333,Yukon River at Eagle,1983,1983-05-02,122
+1840,5358,Yukon River nr Emmonak,1983,1983-05-16,136
+1841,5440,Yukon River at Fort Yukon,1983,1983-05-05,125
+1842,5494,Yukon River at Galena,1983,1983-05-10,130
+1843,5639,Yukon River at Holy Cross,1983,1983-05-14,134
+1844,5688,Yukon River at Kaltag,1983,1983-05-12,132
+1845,5811,Yukon River at Mountain Village,1983,1983-05-14,134
+1846,5893,Yukon River at Pilot Station,1983,1983-05-13,133
+1847,5962,Yukon River at Rampart,1983,1983-05-10,130
+1848,6001,Yukon River at Ruby,1983,1983-05-09,129
+1849,6168,Yukon River at Tanana,1983,1983-05-08,128
+1850,6530,Koyukuk River at Bettles,1983,1983-05-02,122
+1851,6531,Koyukuk River at Allakaket,1983,1983-05-02,122
+1852,6538,Koyukuk River at Hughes,1983,1983-05-11,131
+1853,455,Kobuk River at Kobuk,1982,1982-05-24,144
+1854,528,Kobuk River at Shungnak,1982,1982-05-21,141
+1855,1413,Gakona River at Gakona,1982,1982-05-12,132
+1856,2141,Yentna River at Fish Creek,1982,1982-05-10,130
+1857,2833,Kuskokwim River at Bethel,1982,1982-05-18,138
+1858,2997,Kuskokwim River at McGrath,1982,1982-05-14,134
+1859,3670,Kuskokwim River at Aniak,1982,1982-05-15,135
+1860,3882,Chisana River at Northway,1982,1982-04-20,110
+1861,4224,Tanana River at Nenana,1982,1982-05-10,130
+1862,4808,Koyukuk River at Hughes,1982,1982-05-19,139
+1863,5332,Yukon River at Eagle,1982,1982-05-14,134
+1864,5357,Yukon River nr Emmonak,1982,1982-05-31,151
+1865,5687,Yukon River at Kaltag,1982,1982-05-19,139
+1866,5961,Yukon River at Rampart,1982,1982-05-19,139
+1867,6000,Yukon River at Ruby,1982,1982-05-17,137
+1868,6167,Yukon River at Tanana,1982,1982-05-16,136
+1869,6274,Yukon River at Dawson,1982,1982-05-13,133
+1870,6522,Yukon River at Galena,1982,1982-05-20,140
+1871,454,Kobuk River at Kobuk,1981,1981-05-14,134
+1872,1065,Kobuk River at Ambler,1981,1981-05-17,137
+1873,1230,Gakona River at Gakona,1981,1981-05-07,127
+1874,1262,Gulkana River nr Gakona,1981,1981-05-07,127
+1875,1463,Anchor River at Anchor Point,1981,1981-02-28,59
+1876,1802,Little Susitna River nr Palmer,1981,1981-05-24,144
+1877,2140,Yentna River at Fish Creek,1981,1981-05-05,125
+1878,2277,Susitna River at Sunshine,1981,1981-05-06,126
+1879,2832,Kuskokwim River at Bethel,1981,1981-05-08,128
+1880,2892,Kuskokwim River at Crooked Creek,1981,1981-05-03,123
+1881,2996,Kuskokwim River at McGrath,1981,1981-05-03,123
+1882,4223,Tanana River at Nenana,1981,1981-04-30,120
+1883,4444,Tanana River nr Manley Hot Springs,1981,1981-05-06,126
+1884,4447,Chisana River at Northway,1981,1981-05-03,123
+1885,4700,Koyukuk River at Allakaket,1981,1981-05-08,128
+1886,4758,Koyukuk River at Bettles,1981,1981-05-07,127
+1887,4807,Koyukuk River at Hughes,1981,1981-05-08,128
+1888,4832,Koyukuk River at Huslia,1981,1981-05-11,131
+1889,5331,Yukon River at Eagle,1981,1981-05-07,127
+1890,5765,Yukon River at Marshall,1981,1981-05-10,130
+1891,5960,Yukon River at Rampart,1981,1981-05-11,131
+1892,6044,Yukon River at Russian Mission,1981,1981-05-09,129
+1893,6090,Yukon River at Stevens Village,1981,1981-05-11,131
+1894,6166,Yukon River at Tanana,1981,1981-05-11,131
+1895,6275,Yukon River at Dawson,1981,1981-05-08,128
+1896,364,Kobuk River at Ambler,1980,1980-05-13,134
+1897,453,Kobuk River at Kobuk,1980,1980-05-08,129
+1898,2139,Yentna River at Fish Creek,1980,1980-04-28,119
+1899,2276,Susitna River at Sunshine,1980,1980-05-01,122
+1900,2831,Kuskokwim River at Bethel,1980,1980-05-08,129
+1901,2995,Kuskokwim River at McGrath,1980,1980-04-27,118
+1902,4222,Tanana River at Nenana,1980,1980-04-29,120
+1903,4443,Tanana River nr Manley Hot Springs,1980,1980-04-29,120
+1904,4446,Chisana River at Northway,1980,1980-04-29,120
+1905,5330,Yukon River at Eagle,1980,1980-05-03,124
+1906,5686,Yukon River at Kaltag,1980,1980-05-09,130
+1907,5998,Yukon River at Ruby,1980,1980-05-07,128
+1908,6165,Yukon River at Tanana,1980,1980-05-03,124
+1909,6276,Yukon River at Dawson,1980,1980-05-06,127
+1910,6521,Yukon River at Galena,1980,1980-05-10,131
+1911,6856,Chena River at Fairbanks,1959,2017-05-01,121

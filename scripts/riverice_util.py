@@ -19,8 +19,9 @@ DD_CONFIG = {
         "deltaT": 25
     },
 }
+
 PROJPATH = Path().resolve().parent
-BREAKUPPTH = PROJPATH / "data/breakupdata/derived/breakupDate_cleaned.csv"
+BREAKUPPTH = PROJPATH / "data/breakupdata/derived/breakupDate_cleaned_selected_redux.csv"
 CLIMPTH = PROJPATH / "data/weatherstations/ACIS/TDD/all_cumul_clim1991_2020.csv"
 STATIONDATA = PROJPATH / "data/weatherstations/ACIS/TDD/tdd_cumul_bystation"
 COLNAMES = ["Tmax_f", "Tmin_F", "Tavg_F", "sd_m", "swe"]
