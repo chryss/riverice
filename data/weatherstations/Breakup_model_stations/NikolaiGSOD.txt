@@ -1,3 +1,0 @@
-PACD,0.2,https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/70316025624.csv,70316025624,55.2045,-162.7184
-PAMR,0.4,https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/70273526409.csv,70273526409,61.2167,-149.8333
-PAFB,0.4,https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/70261526498.csv,70261526498,64.8278,-147.6429

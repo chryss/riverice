@@ -20,17 +20,20 @@ PLOTS = True
 
 PROJPATH = Path().resolve().parent
 tdd_anomalycorr = PROJPATH / f"data/breakupdata/derived/{prefix}_anomaly_correlations.csv"
-breakup_stats = PROJPATH / f"data/breakupdata/derived/breakupdate_mean_std_1983_2022.csv"
+breakup_stats = PROJPATH / f"data/breakupdata/derived/breakupdate_mean_std_JD.csv"
 breakupdata = PROJPATH / 'data/breakupdata/'
-breakuppth = breakupdata / "derived/breakupDate_cleaned.csv"
+breakuppth = breakupdata / "derived/breakupDate_cleaned_selected.csv"
 stationfolder = PROJPATH / f"data/weatherstations/ACIS/{prefix}/dd_cumul_bystation"
 combinedpath = PROJPATH / 'data/weatherstations/ACIS_combined_DD'
-huctablepath = PROJPATH / "data/breakupdata/derived/breakupDate_mean_std_HUC_augmented.csv"
+# huctablepath = PROJPATH / "data/breakupdata/derived/breakupDate_mean_std_HUC_augmented.csv"
 outfolder = PROJPATH / f"data/DDforecast_2024"
 broken_up = "broken_up_2024.csv"
 
 def get_brokenup():
-    return set(pd.read_csv(outfolder / broken_up).location)
+    try:
+        return set(pd.read_csv(outfolder / broken_up).location)
+    except:
+        return set()
     
 
 def make_likelihood_DF(breakupDF):
@@ -59,23 +62,23 @@ def make_likelihood_DF(breakupDF):
     return likelihoodDF
 
 if __name__ == '__main__':
-    days_start = 31
-    days_end = 90
+    days_start = 75
+    days_end = 135
     if DAILY:
         today = dt.datetime.now().strftime('%Y-%m-%d')
         # we start and end the day before today b/c day with newest ACIS data
-        days_end = ru.datestr2dayssince(today)
-        days_start = ru.datestr2dayssince(today) - 1
+        days_end = ru.datestr2julianday(today)
+        days_start = ru.datestr2julianday(today) - 1
 
-    huctable = pd.read_csv(huctablepath)
+    breakupstats = pd.read_csv(breakup_stats)
     breakupDF = pd.read_csv(breakuppth, header=3, index_col=0)
-    breakupDF['days_since_march1'] = breakupDF.apply(
-        lambda row: ru.datestr2dayssince(row.breakup), axis=1)
+    breakupDF['JulianDay'] = breakupDF.apply(
+        lambda row: ru.datestr2julianday(row.breakup), axis=1)
     broken_upSet = get_brokenup()
-    print(broken_upSet)
+    # print(broken_upSet)
 
     results = {}
-    for _, item in huctable.iterrows():
+    for _, item in breakupstats.iterrows():
         location = item.siteID
         if location in broken_upSet:
             print(f"{location} has broken up")
@@ -188,6 +191,3 @@ if __name__ == '__main__':
         outfn = f"daily_report_{forecastdate}.csv"
         with open(outfolder / outfn, 'w') as dst:
             outdf.to_csv(dst, float_format='%.2f', index=False)
-            
-
-        

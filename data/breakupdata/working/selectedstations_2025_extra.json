@@ -1,0 +1,68 @@
+{
+  "Colville River at Colville Village": [
+    "NENANA_MUN_AP",
+    "BETHEL_AP",
+    "MCGRATH_AP",
+    "FAIRBANKS_INTL_AP"
+  ],
+  "Colville River at Umiat": [
+    "ANCHORAGE_MERRILL_FIELD",
+    "NORTH_POLE",
+    "NENANA_MUN_AP",
+    "BIG_DELTA_AP"
+  ],
+  "Koyukuk River at Huslia": [
+    "KOTZEBUE_AP",
+    "BETTLES_AP",
+    "NOME_AP",
+    "TANANA_AP"
+  ],
+  "Kuskokwim River at Napakiak": [
+    "NENANA_MUN_AP",
+    "BETHEL_AP",
+    "CHICKEN",
+    "NORTH_POLE"
+  ],
+  "Tanana River at Fairbanks D-S of Chena R": [
+    "NORTH_POLE",
+    "CHICKEN",
+    "BIG_DELTA_AP",
+    "MCKINLEY_PARK"
+  ],
+  "Yukon River at Beaver": [
+    "KENAI_AP",
+    "BETTLES_AP",
+    "CHICKEN",
+    "SITKA_AP"
+  ],
+  "Yukon River at Koyukuk": [
+    "SITKA_AP",
+    "TANANA_AP",
+    "TALKEETNA_AP",
+    "KOTZEBUE_AP"
+  ],
+  "Yukon River at Nulato": [
+    "EAGLE",
+    "NENANA_MUN_AP",
+    "FAIRBANKS_INTL_AP",
+    "BETTLES_AP"
+  ],
+  "Yukon River at Pilot Station": [
+    "NORTHWAY_AP",
+    "NOME_AP",
+    "BETHEL_AP",
+    "CHICKEN"
+  ],
+  "Yukon River at Rampart": [
+    "TALKEETNA_AP",
+    "FAIRBANKS_INTL_AP",
+    "CHICKEN",
+    "KENAI_AP"
+  ],
+  "Yukon River at Stevens Village": [
+    "TALKEETNA_AP",
+    "EAGLE",
+    "BETTLES_AP",
+    "KENAI_AP"
+  ]
+}

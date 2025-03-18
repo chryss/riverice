@@ -1,0 +1,49 @@
+# Number of valid data points for each breakup location 
+# Only sites with more than 20 data points since 1980 on selected Rivers
+# 
+,siteID,count
+0,Yukon River at Eagle,45
+1,Yukon River at Dawson,45
+2,Tanana River at Nenana,45
+3,Kuskokwim River at Bethel,45
+4,Kuskokwim River at McGrath,45
+5,Yukon River at Galena,44
+6,Koyukuk River at Bettles,43
+7,Kuskokwim River at Aniak,42
+8,Yukon River at Fort Yukon,41
+9,Kobuk River at Kobuk,41
+10,Yukon River at Circle,41
+11,Yukon River at Tanana,40
+12,Yukon River at Kaltag,39
+13,Kuskokwim River at Red Devil,39
+14,Kuskokwim River at Nikolai,39
+15,Yukon River nr Emmonak,39
+16,Kuskokwim River at Crooked Creek,39
+17,Kuskokwim River at Akiak,39
+18,Koyukuk River at Allakaket,39
+19,Kobuk River at Ambler,39
+20,Yukon River at Ruby,39
+21,Yukon River at Mountain Village,38
+22,Koyukuk River at Hughes,38
+23,Yukon River at Holy Cross,38
+24,Yukon River at Russian Mission,38
+25,Kuskokwim River at Stony River,37
+26,Yukon River at Alakanuk,37
+27,Kuskokwim River at Kalskag,36
+28,Kuskokwim River at Sleetmute,36
+29,Susitna River at Sunshine,36
+30,Yukon River at Anvik,36
+31,Buckland River at Buckland,35
+32,Tanana River nr Manley Hot Springs,33
+33,Yukon River at Marshall,33
+34,Kuskokwim River at Tuluksak,33
+35,Kobuk River at Shungnak,33
+36,Kuskokwim River at Napakiak,30
+37,Yukon River at Beaver,29
+38,Yukon River at Pilot Station,28
+39,Yukon River at Rampart,28
+40,Yukon River at Nulato,27
+41,Yukon River at Stevens Village,27
+42,Colville River at Colville Village,23
+43,Colville River at Umiat,22
+44,Tanana River at Fairbanks D-S of Chena R,22

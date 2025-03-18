@@ -1,0 +1,12 @@
+name: aprfc_breakup
+channels:
+  - conda-forge
+dependencies:
+  - python >= 3.11 
+  - geopandas
+  - seaborn
+  - scipy
+  - scikit-learn
+  - requests
+  - jupyter
+  - nb-clean
