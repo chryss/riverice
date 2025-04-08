@@ -15,7 +15,7 @@ prefix = "DD25"
 xs = np.arange(-101, 101)
 year = 2025
 for_ffmpeg = False
-DAILY = False
+DAILY = True
 PLOTS = True
 
 PROJPATH = Path().resolve().parent
