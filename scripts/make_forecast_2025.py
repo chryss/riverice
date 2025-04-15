@@ -15,7 +15,10 @@ prefix = "DD25"
 xs = np.arange(-101, 101)
 year = 2025
 for_ffmpeg = False
-DAILY = True
+DAILY = False
+# only if DAILY = False:
+start_date = '2025-04-08'
+end_date = None
 PLOTS = True
 
 PROJPATH = Path().resolve().parent
@@ -63,8 +66,12 @@ def make_likelihood_DF(breakupDF):
     return likelihoodDF
 
 if __name__ == '__main__':
-    days_start = 72
-    days_end = 90
+    days_start = ru.datestr2julianday(start_date)
+    if not end_date:
+        today = dt.datetime.now().strftime('%Y-%m-%d')
+        days_end = ru.datestr2julianday(today)
+    else:
+        days_end = ru.datestr2julianday(end_date)
     if DAILY:
         today = dt.datetime.now().strftime('%Y-%m-%d')
         # we start and end the day before today b/c day with newest ACIS data
