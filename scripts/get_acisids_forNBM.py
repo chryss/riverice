@@ -10,14 +10,13 @@ import geopandas as gp
 import numpy as np
 
 PROJPATH = Path(__file__).resolve().parent.parent
-DATADIR = PROJPATH / "data/weatherstations/Breakup_model_stations"
-OUTDIR = DATADIR / "primaryfiles"
+OUTDIR = PROJPATH / "data/weatherstations/NBM"
 ACISDIR = PROJPATH / "data/weatherstations/ACIS"
 REGENERATE_SUMMARY = False
 REGENERATE_ACISSTATIONS = True
 OVERWRITE = False
-SUMMARYFILE = "RFC_summary.csv"
-ACISSTATIONS = "ACIS_for_RFCmodel.csv"
+SUMMARYFILE = "ACIS_newmodel_forNBM.csv"
+ACISSTATIONS = "ACIS_stations_AK_fornewmodel.csv"
 
 def safelyget(alist, idx, default='N/A'):
     """Returns alist[idx] if exists, else default"""
@@ -54,12 +53,11 @@ def get_stationcodes(filelist):
     
 def get_acis_stationmeta(stationlist):
     sidsvalue = ','.join(stationlist)
-
+    print(sidsvalue)
     baseurl = 'http://data.rcc-acis.org/StnMeta'
     params = {
         'sids': sidsvalue,
         'meta': "name,uid,sids,ll,elev,valid_daterange",
-        'elems': "avgt,snow"
     }
     resp = requests.get(url=baseurl, params=params)
     return resp.json()['meta']
@@ -81,10 +79,10 @@ def postprocess_acis(stationdat):
             longitude=safelyget(safelyget(stat, 'll', []), 0, np.nan),
             latitude=safelyget(safelyget(stat, 'll', []), 1, np.nan),
             elev_ft=safelyget(stat, 'elev', np.nan), 
-            valid_avgT_start=safelyget(stat['valid_daterange'][0], 0, ''),
-            valid_avgT_end=safelyget(stat['valid_daterange'][0], 1, ''),
-            valid_snowdepth_start=safelyget(stat['valid_daterange'][1], 0, ''),
-            valid_snowdepth_end=safelyget(stat['valid_daterange'][1], 1, ''),
+            # valid_avgT_start=safelyget(stat['valid_daterange'][0], 0, ''),
+            # valid_avgT_end=safelyget(stat['valid_daterange'][0], 1, ''),
+            # valid_snowdepth_start=safelyget(stat['valid_daterange'][1], 0, ''),
+            # valid_snowdepth_end=safelyget(stat['valid_daterange'][1], 1, ''),
         )
         for stat in stationdat
     ]
@@ -92,27 +90,16 @@ def postprocess_acis(stationdat):
     return stationDF
 
 
-
 if __name__=='__main__':
     
-    if not (OUTDIR / SUMMARYFILE).exists():
-        print("Summary file missing, will regenerate.")
-        REGENERATE_SUMMARY = True
+
+    stations = pd.read_csv(ACISDIR / ACISSTATIONS)
     
-    stations = None
-    if REGENERATE_SUMMARY:
-        print("Extracting station codes...")
-        filelist = DATADIR.glob("*.txt")
-        stations = write_rfc_stations(filelist)
-
-    if (stations is None): 
-        stations = pd.read_csv(OUTDIR / SUMMARYFILE)
-        
-    icaocodes = sorted(list(set(stations['ICAO'])))
-    print(f"RFC model stations loaded. There are {len(icaocodes)} unique station codes.\n")
-
+    idcodes = sorted(map(str, list(set(stations['acisID']))))
+    print(f"RFC model stations loaded. There are {len(idcodes)} unique station codes.\n")
     print("Getting station info from ACIS")
-    stationdat = get_acis_stationmeta(icaocodes)
+
+    stationdat = get_acis_stationmeta(idcodes)
     print(f"There are {len(stationdat)} stations in ACIS")
     stationDF = postprocess_acis(stationdat)
-    stationDF.to_csv(ACISDIR / ACISSTATIONS, index=False)
+    # stationDF.to_csv(OUTDIR / SUMMARYFILE, index=False)
