@@ -15,9 +15,9 @@ prefix = "DD25"
 xs = np.arange(-101, 101)
 year = 2025
 for_ffmpeg = False
-DAILY = False
+DAILY = True
 # only if DAILY = False:
-start_date = '2025-04-08'
+start_date = '2025-04-22'
 end_date = None
 PLOTS = True
 
