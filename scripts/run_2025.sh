@@ -7,6 +7,7 @@ CLOUDDIR='/Users/christine/Library/CloudStorage/GoogleDrive-cwaigl@alaska.edu/.s
 
 SCRIPTDIR=`pwd`
 
+conda init
 conda activate aprfc_breakup
 
 # refresh ACIS data for model stations

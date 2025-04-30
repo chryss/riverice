@@ -128,7 +128,7 @@ if __name__ == '__main__':
             endidx = startidx + 6
             plusminus3daysprob = pdf[startidx:endidx+1].sum()
             print(f"Forecast on {forecastdate}")
-            print(mu_0, np.round(mu_0), sigma_0, prob_12, prob_37, prob_wk2, prob_wk3)
+            # print(mu_0, np.round(mu_0), sigma_0, prob_12, prob_37, prob_wk2, prob_wk3)
             if PLOTS:
                 fig, ax1 = plt.subplots()
                 ax1.plot(xs[:102], pdf[:102], linestyle='dashed', color='grey', linewidth=1)
