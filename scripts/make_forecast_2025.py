@@ -15,10 +15,10 @@ prefix = "DD25"
 xs = np.arange(-101, 101)
 year = 2025
 for_ffmpeg = False
-DAILY = False
+DAILY = True
 # only if DAILY = False:
 start_date = '2025-05-01'
-end_date = '2025-05-03'
+end_date = '2025-05-06'
 PLOTS = True
 
 PROJPATH = Path().resolve().parent
@@ -43,9 +43,9 @@ def make_likelihood_DF(breakupDF):
     """Generate a dataframe of breakup likelihoods from historical data"""
     possible_days = sorted(list(set(breakupDF['JulianDay'])))
     records = []
-    for jdays in range(72, 135):
+    for jdays in range(72, 149):
         days_from_now_possible = [item-jdays for item in possible_days]
-        print(days_from_now_possible)
+        # print(days_from_now_possible)
         if len(days_from_now_possible) != 0:
             for days in days_from_now_possible:
                 days_possible = days + jdays
@@ -124,7 +124,7 @@ if __name__ == '__main__':
             forecastdate = ru.julianday2date(ii + 1, year) # forecast is one day later than data
             mostlikely = int(np.round(mu_0))
             forecasteddate = ru.julianday2date(mostlikely+ii, year)
-            startidx = max(101, 100 + mostlikely-3)
+            startidx = max(100, 100 + mostlikely-3)
             endidx = startidx + 6
             plusminus3daysprob = pdf[startidx:endidx+1].sum()
             print(f"Forecast on {forecastdate}")
@@ -140,30 +140,36 @@ if __name__ == '__main__':
                 if  100 + mostlikely-3 < 101:
                     shiftflag = True
                 ax1.fill_between(xs[startidx+1:endidx+2], pdf[startidx+1:endidx+2], color='tab:purple', alpha=0.5)
-                ax1.text(139-ii, .36, f"Most likely breakup: ", color='tab:purple')
-                ax1.text(139-ii, .34, f"in {mostlikely} d on {forecasteddate}", 
+                ax1.text(mostlikely+10, .36, f"Most likely breakup: ", color='tab:purple')
+                ax1.text(mostlikely+10, .34, f"in {mostlikely} d on {forecasteddate}", 
                         color='tab:purple')
                 if shiftflag: 
                     textsnippet = "7d"
                 else:
                     textsnippet = "±3d"
-                ax1.text(139-ii, .32, f"P({textsnippet}) = {plusminus3daysprob*100:.1f} %", color='tab:purple')
-                ax1.text(139-ii, .29, f"P1-2 = {prob_12*100:.1f} %", color='black')
-                ax1.text(139-ii, .27, f"P3-7 = {prob_37*100:.1f} %", color='black')
-                ax1.text(139-ii, .25, f"P8-14 = {prob_wk2*100:.1f} %", color='black')
-                ax1.text(139-ii, .23, f"P15-21 = {prob_wk3*100:.1f} %", color='black')
+                # ax1.text(139-ii, .32, f"P({textsnippet}) = {plusminus3daysprob*100:.1f} %", color='tab:purple')
+                # ax1.text(139-ii, .29, f"P1-2 = {prob_12*100:.1f} %", color='black')
+                # ax1.text(139-ii, .27, f"P3-7 = {prob_37*100:.1f} %", color='black')
+                # ax1.text(139-ii, .25, f"P8-14 = {prob_wk2*100:.1f} %", color='black')
+                # ax1.text(139-ii, .23, f"P15-21 = {prob_wk3*100:.1f} %", color='black')
+                ax1.text(mostlikely+10, .32, f"P({textsnippet}) = {plusminus3daysprob*100:.1f} %", color='tab:purple')
+                ax1.text(mostlikely+10, .29, f"P1-2 = {prob_12*100:.1f} %", color='black')
+                ax1.text(mostlikely+10, .27, f"P3-7 = {prob_37*100:.1f} %", color='black')
+                ax1.text(mostlikely+10, .25, f"P8-14 = {prob_wk2*100:.1f} %", color='black')
+                ax1.text(mostlikely+10, .23, f"P15-21 = {prob_wk3*100:.1f} %", color='black')
                 ax1.set_ylim((0, 0.40))
                 ax1.set_ylabel('probability density')
                 ax1.set_xlabel("Days from forecastday")
                 ax2 = ax1.twinx()
                 color = 'tab:blue'
                 sns.scatterplot(data=DF, x='days_from_then', y='mean_DD', ax=ax2)
-                ax2.scatter(x=[mu_0], y=[mean_station.iloc[ii-1][f"{year}"]], c='r')
+                ax2.scatter(x=[mu_0], y=[mean_station.loc[ii-1][f"{year}"]], c='r')
                 ax2.set_ylabel('DD25', color=color)
                 ax2.tick_params(axis='y', labelcolor=color)
                 ax2.grid(visible=None)
                 plt.title(f"{locality} ({river}), prediction on {forecastdate}")
-                plt.xlim((110-ii, 155-ii))
+                #plt.xlim((110-ii, 155-ii))
+                plt.xlim(mostlikely-15, mostlikely+25)
                 loc = locality.upper().replace(' ', '_')
                 outdir = outfolder / f"{river.replace(' ', '_')}"
                 outdir.mkdir(parents=True, exist_ok=True)
