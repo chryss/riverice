@@ -17,8 +17,8 @@ year = 2025
 for_ffmpeg = False
 DAILY = True
 # only if DAILY = False:
-start_date = '2025-05-01'
-end_date = '2025-05-06'
+start_date = '2025-05-07'
+end_date = '2025-05-26'
 PLOTS = True
 
 PROJPATH = Path().resolve().parent
