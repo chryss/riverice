@@ -1,3 +1,4 @@
+import argparse
 from pathlib import Path
 import pandas as pd
 import datetime as dt 
@@ -15,10 +16,10 @@ prefix = "DD25"
 xs = np.arange(-101, 101)
 year = 2025
 for_ffmpeg = False
-DAILY = True
+DAILY = False
 # only if DAILY = False:
-start_date = '2025-05-07'
-end_date = '2025-05-26'
+START_DATE = '2025-05-07'
+END_DATE = None
 PLOTS = True
 
 PROJPATH = Path().resolve().parent
@@ -37,7 +38,33 @@ def get_brokenup():
         return set(pd.read_csv(outfolder / broken_up).location)
     except:
         return set()
-    
+
+def parse_arguments():
+    """Parse arguments"""
+    parser = argparse.ArgumentParser(description='Read command line arguments')
+    # parser.add_argument('-p', '--projpath',  
+    #     default=PROJPATH,
+    #     type=str,
+    #     help='directory where wrfout files are located')
+    # parser.add_argument('-o','--outdir',  
+    #     default=outfolder,
+    #     type=str,
+    #     help='directory to write output to')
+    parser.add_argument('-d', '--daily', 
+        help="switch on daily run: only previous date; overrides start/end date",
+        action="store_true")
+    parser.add_argument('--skip_broken', 
+        help="skip list of broken-up station and produce forecast for all days in range",
+        action="store_true")
+    parser.add_argument('-s', '--startdate', 
+        help='date to start start; format YYYY-MM-DD, for example 2025-05-01',
+        default=START_DATE,
+        type=str)
+    parser.add_argument('-e', '--enddate', 
+        help='date to start end; format YYYY-MM-DD, for example 2025-05-31',
+        default=END_DATE,
+        type=str)
+    return parser.parse_args()
 
 def make_likelihood_DF(breakupDF):
     """Generate a dataframe of breakup likelihoods from historical data"""
@@ -66,23 +93,28 @@ def make_likelihood_DF(breakupDF):
     return likelihoodDF
 
 if __name__ == '__main__':
-    days_start = ru.datestr2julianday(start_date)
-    if not end_date:
+    # parse arguments
+    args = parse_arguments()
+    days_start = ru.datestr2julianday(args.startdate)
+    if not args.enddate:
         today = dt.datetime.now().strftime('%Y-%m-%d')
         days_end = ru.datestr2julianday(today)
     else:
-        days_end = ru.datestr2julianday(end_date)
-    if DAILY:
-        today = dt.datetime.now().strftime('%Y-%m-%d')
-        # we start and end the day before today b/c day with newest ACIS data
-        days_end = ru.datestr2julianday(today)
-        days_start = ru.datestr2julianday(today) - 1
+        days_end = ru.datestr2julianday(args.enddate)
+    if DAILY or args.daily:
+        if not args.startdate:
+            today = dt.datetime.now().strftime('%Y-%m-%d')
+            # we start and end the day before today b/c day with newest ACIS data
+            days_start = ru.datestr2julianday(today) - 1
+        days_end = days_start + 1
 
     breakupstats = pd.read_csv(breakup_stats, skiprows=4, index_col=0)
     breakupDF = pd.read_csv(breakuppth, header=3, index_col=0)
     breakupDF['JulianDay'] = breakupDF.apply(
         lambda row: ru.datestr2julianday(row.breakup), axis=1)
-    broken_upSet = get_brokenup()
+    broken_upSet = set()
+    if not args.skip_broken:
+        broken_upSet = get_brokenup()
     # print(broken_upSet)
 
     results = {}
