@@ -1,0 +1,30 @@
+location,river,forecastdate,most likely breakup in (days),forecasted date,average breakup date,probability of breakup within ± 3 days around forecasted,probability of breakup within 1 or 2 days,probability of breakup within 3-7 days,probability of breakup within week 2 from now,probability of breakup within week 3 from now
+Buckland,Buckland River,2025-05-02,13,2025-05-14,2025-05-17,0.44,0.02,0.13,0.41,0.35
+Umiat,Colville River,2025-05-02,20,2025-05-21,2025-05-24,0.45,0.00,0.01,0.12,0.40
+Colville Village,Colville River,2025-05-02,30,2025-05-31,2025-06-01,0.37,0.00,0.00,0.01,0.07
+Kobuk,Kobuk River,2025-05-02,12,2025-05-13,2025-05-16,0.50,0.02,0.14,0.48,0.32
+Shungnak,Kobuk River,2025-05-02,11,2025-05-12,2025-05-17,0.53,0.01,0.13,0.53,0.30
+Ambler,Kobuk River,2025-05-02,14,2025-05-15,2025-05-18,0.46,0.01,0.09,0.39,0.40
+Allakaket,Koyukuk River,2025-05-02,7,2025-05-08,2025-05-10,0.55,0.08,0.36,0.46,0.09
+Bettles,Koyukuk River,2025-05-02,6,2025-05-07,2025-05-10,0.54,0.09,0.37,0.45,0.09
+Hughes,Koyukuk River,2025-05-02,8,2025-05-09,2025-05-11,0.54,0.05,0.30,0.51,0.13
+Napakiak,Kuskokwim River,2025-05-02,8,2025-05-09,2025-05-10,0.52,0.05,0.29,0.50,0.15
+Sunshine,Susitna River,2025-05-02,-1,2025-04-30,2025-05-02,1.20,0.47,0.49,0.04,0.00
+Fairbanks D-S of Chena R,Tanana River,2025-05-02,-4,2025-04-27,2025-04-30,1.83,0.80,0.20,0.00,0.00
+Manley Hot Springs,Tanana River,2025-05-02,2,2025-05-03,2025-05-04,0.87,0.26,0.57,0.16,0.00
+Tanana,Yukon River,2025-05-02,6,2025-05-07,2025-05-10,0.64,0.07,0.44,0.46,0.03
+Beaver,Yukon River,2025-05-02,6,2025-05-07,2025-05-11,0.72,0.07,0.51,0.41,0.01
+Ruby,Yukon River,2025-05-02,8,2025-05-09,2025-05-11,0.64,0.03,0.31,0.59,0.07
+Galena,Yukon River,2025-05-02,8,2025-05-09,2025-05-12,0.66,0.02,0.29,0.63,0.07
+Rampart,Yukon River,2025-05-02,8,2025-05-09,2025-05-12,0.64,0.02,0.28,0.62,0.08
+Stevens Village,Yukon River,2025-05-02,7,2025-05-08,2025-05-12,0.72,0.03,0.40,0.55,0.02
+Nulato,Yukon River,2025-05-02,9,2025-05-10,2025-05-13,0.59,0.03,0.26,0.58,0.13
+Holy Cross,Yukon River,2025-05-02,10,2025-05-11,2025-05-14,0.69,0.01,0.17,0.69,0.13
+Kaltag,Yukon River,2025-05-02,11,2025-05-12,2025-05-14,0.60,0.01,0.14,0.60,0.24
+Marshall,Yukon River,2025-05-02,12,2025-05-13,2025-05-15,0.71,0.00,0.05,0.65,0.30
+Pilot Station,Yukon River,2025-05-02,10,2025-05-11,2025-05-15,0.61,0.01,0.14,0.64,0.21
+Russian Mission,Yukon River,2025-05-02,10,2025-05-11,2025-05-15,0.60,0.02,0.20,0.61,0.17
+Anvik,Yukon River,2025-05-02,9,2025-05-10,2025-05-16,0.59,0.02,0.21,0.62,0.15
+Mountain Village,Yukon River,2025-05-02,12,2025-05-13,2025-05-17,0.56,0.01,0.11,0.53,0.32
+Emmonak,Yukon River,2025-05-02,18,2025-05-19,2025-05-21,0.56,0.00,0.01,0.17,0.56
+Alakanuk,Yukon River,2025-05-02,19,2025-05-20,2025-05-22,0.55,0.00,0.00,0.12,0.52
