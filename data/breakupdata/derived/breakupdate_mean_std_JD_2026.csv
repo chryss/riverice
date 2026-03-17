@@ -1,0 +1,50 @@
+# Data from NWS-APRFC_AK_BreakupDate.csv to 2025
+# Means and std of breakup day as Julian Day 
+# Only sites with more than 20 data points since 1980 on selected Rivers
+# 
+,siteID,mean,std,expected,lat,lon,river,locality
+0,Buckland River at Buckland,137.30556,7.97073,2026-05-17,65.97851,-161.12066,Buckland River,Buckland
+1,Colville River at Colville Village,152.04348,7.53464,2026-06-01,,,Colville River,Colville Village
+2,Colville River at Umiat,144.4,7.56086,2026-05-24,,,Colville River,Umiat
+3,Kobuk River at Ambler,137.925,6.68096,2026-05-18,67.08493,-157.85178,Kobuk River,Ambler
+4,Kobuk River at Kobuk,135.7619,6.73473,2026-05-16,66.90743,-156.88926,Kobuk River,Kobuk
+5,Kobuk River at Shungnak,137.11765,6.82138,2026-05-17,66.88657,-157.13284,Kobuk River,Shungnak
+6,Koyukuk River at Allakaket,130.325,6.45055,2026-05-10,66.56584,-152.65081,Koyukuk River,Allakaket
+7,Koyukuk River at Bettles,129.93182,6.51438,2026-05-10,66.92262,-151.51908,Koyukuk River,Bettles
+8,Koyukuk River at Hughes,130.82051,6.63671,2026-05-11,66.04771,-154.26336,Koyukuk River,Hughes
+9,Kuskokwim River at Akiak,129.1,7.73537,2026-05-09,60.91029,-161.21127,Kuskokwim River,Akiak
+10,Kuskokwim River at Aniak,126.7907,7.5579,2026-05-07,61.58648,-159.53978,Kuskokwim River,Aniak
+11,Kuskokwim River at Bethel,129.65217,8.48061,2026-05-10,60.7787,-161.74429,Kuskokwim River,Bethel
+12,Kuskokwim River at Crooked Creek,125.775,7.02555,2026-05-06,61.86406,-158.11988,Kuskokwim River,Crooked Creek
+13,Kuskokwim River at Kalskag,127.05405,7.23013,2026-05-07,61.52424,-160.34248,Kuskokwim River,Kalskag
+14,Kuskokwim River at McGrath,126.06522,6.97743,2026-05-06,62.95148,-155.58617,Kuskokwim River,McGrath
+15,Kuskokwim River at Napakiak,130.35484,9.32576,2026-05-10,,,Kuskokwim River,Napakiak
+16,Kuskokwim River at Nikolai,112.75,7.70864,2026-04-23,63.01058,-154.37684,Kuskokwim River,Nikolai
+17,Kuskokwim River at Red Devil,124.925,7.16254,2026-05-05,61.78454,-157.33266,Kuskokwim River,Red Devil
+18,Kuskokwim River at Sleetmute,123.94595,7.24548,2026-05-04,61.67797,-157.10957,Kuskokwim River,Sleetmute
+19,Kuskokwim River at Stony River,124.68421,6.54343,2026-05-05,61.78628,-156.59516,Kuskokwim River,Stony River
+20,Kuskokwim River at Tuluksak,128.38235,7.31547,2026-05-08,61.10722,-160.98498,Kuskokwim River,Tuluksak
+21,Susitna River at Sunshine,121.81081,5.9247,2026-05-02,62.17506,-150.17544,Susitna River,Sunshine
+22,Tanana River at Fairbanks D-S of Chena R,119.56522,6.50053,2026-04-30,,,Tanana River,Fairbanks D-S of Chena R
+23,Tanana River at Nenana,121.02174,6.63489,2026-05-01,64.56643,-149.09149,Tanana River,Nenana
+24,Tanana River nr Manley Hot Springs,123.81818,7.33764,2026-05-04,64.96994,-150.65286,Tanana River,Manley Hot Springs
+25,Yukon River at Alakanuk,141.76316,7.45594,2026-05-22,62.67076,-164.61051,Yukon River,Alakanuk
+26,Yukon River at Anvik,135.83784,6.72274,2026-05-16,62.65191,-160.17471,Yukon River,Anvik
+27,Yukon River at Beaver,130.93333,4.57077,2026-05-11,,,Yukon River,Beaver
+28,Yukon River at Circle,129.35714,5.7076,2026-05-09,65.83023,-144.0084,Yukon River,Circle
+29,Yukon River at Dawson,124.82609,4.98578,2026-05-05,64.06165,-139.44162,Yukon River,Dawson
+30,Yukon River at Eagle,125.0,5.80038,2026-05-05,64.78982,-141.19613,Yukon River,Eagle
+31,Yukon River at Fort Yukon,130.40476,5.6915,2026-05-10,66.55731,-145.28644,Yukon River,Fort Yukon
+32,Yukon River at Galena,132.17778,5.84764,2026-05-12,64.72862,-156.94702,Yukon River,Galena
+33,Yukon River at Holy Cross,134.35897,6.80745,2026-05-14,62.21456,-159.74381,Yukon River,Holy Cross
+34,Yukon River at Kaltag,133.55,6.45279,2026-05-14,64.32776,-158.71389,Yukon River,Kaltag
+35,Yukon River at Marshall,134.64706,7.0448,2026-05-15,61.8484,-162.12779,Yukon River,Marshall
+36,Yukon River at Mountain Village,136.82051,7.68071,2026-05-17,62.07799,-163.72554,Yukon River,Mountain Village
+37,Yukon River at Nulato,132.7037,6.426,2026-05-13,,,Yukon River,Nulato
+38,Yukon River at Pilot Station,134.93103,8.17195,2026-05-15,,,Yukon River,Pilot Station
+39,Yukon River at Rampart,132.31034,4.76673,2026-05-12,,,Yukon River,Rampart
+40,Yukon River at Ruby,131.025,6.02766,2026-05-11,64.74407,-155.49516,Yukon River,Ruby
+41,Yukon River at Russian Mission,134.51282,7.16303,2026-05-15,61.78651,-161.30902,Yukon River,Russian Mission
+42,Yukon River at Stevens Village,131.85714,4.82827,2026-05-12,,,Yukon River,Stevens Village
+43,Yukon River at Tanana,129.53659,5.84422,2026-05-10,65.16876,-152.1047,Yukon River,Tanana
+44,Yukon River nr Emmonak,140.70732,7.56387,2026-05-21,62.75342,-164.49791,Yukon River,Emmonak

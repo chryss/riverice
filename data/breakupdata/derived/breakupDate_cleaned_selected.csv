@@ -1,1645 +1,1690 @@
-# Data from NWS-APRFC_AK_BreakupDate.csv as of 2024
+# Data from NWS-APRFC_AK_BreakupDate.csv as of 2025
 # Only sites with more than 20 data points since 1980 on selected Rivers
 # 
 ,id,siteID,year,breakup,JulianDay
-1909,209,Buckland River at Buckland,1983,1983-05-12,132
-1908,210,Buckland River at Buckland,1984,1984-05-23,144
-1757,1067,Buckland River at Buckland,1985,1985-05-26,146
-1907,211,Buckland River at Buckland,1986,1986-05-30,150
-1906,212,Buckland River at Buckland,1987,1987-05-22,142
-1905,213,Buckland River at Buckland,1988,1988-05-05,126
-1904,214,Buckland River at Buckland,1989,1989-05-29,149
-1903,215,Buckland River at Buckland,1992,1992-05-28,149
-1902,216,Buckland River at Buckland,1993,1993-05-16,136
-1901,217,Buckland River at Buckland,1995,1995-05-04,124
-1900,218,Buckland River at Buckland,1996,1996-05-14,135
-1899,219,Buckland River at Buckland,1997,1997-05-05,125
-1898,220,Buckland River at Buckland,1998,1998-05-22,142
-1897,221,Buckland River at Buckland,1999,1999-05-22,142
-1896,222,Buckland River at Buckland,2001,2001-06-04,155
-1812,1000,Buckland River at Buckland,2003,2003-05-11,131
-1795,1025,Buckland River at Buckland,2005,2005-05-08,128
-1808,1008,Buckland River at Buckland,2006,2006-05-23,143
-1801,1018,Buckland River at Buckland,2007,2007-05-22,142
-1789,1031,Buckland River at Buckland,2008,2008-05-13,134
-1785,1036,Buckland River at Buckland,2009,2009-05-13,133
-1774,1048,Buckland River at Buckland,2010,2010-05-19,139
-1770,1052,Buckland River at Buckland,2011,2011-05-21,141
-1764,1059,Buckland River at Buckland,2012,2012-05-22,143
-1756,1084,Buckland River at Buckland,2013,2013-05-26,146
-485,6613,Buckland River at Buckland,2014,2014-05-04,124
-435,6699,Buckland River at Buckland,2015,2015-05-15,135
-335,6820,Buckland River at Buckland,2017,2017-05-14,134
-300,6898,Buckland River at Buckland,2018,2018-05-12,132
-257,6945,Buckland River at Buckland,2019,2019-05-05,125
-210,7015,Buckland River at Buckland,2020,2020-05-10,131
-162,7076,Buckland River at Buckland,2021,2021-05-12,132
-103,7172,Buckland River at Buckland,2022,2022-05-21,141
-60,7226,Buckland River at Buckland,2023,2023-05-19,139
-18,7288,Buckland River at Buckland,2024,2024-05-17,138
-1886,259,Colville River at Colville Village,1996,1996-05-13,134
-1818,992,Colville River at Colville Village,1997,1997-05-16,136
-1885,261,Colville River at Colville Village,1998,1998-05-31,151
-1809,1007,Colville River at Colville Village,1999,1999-06-03,154
-1884,263,Colville River at Colville Village,2000,2000-06-12,164
-1883,264,Colville River at Colville Village,2001,2001-06-04,155
-1882,265,Colville River at Colville Village,2002,2002-05-26,146
-1819,991,Colville River at Colville Village,2004,2004-06-04,156
-1811,1001,Colville River at Colville Village,2005,2005-06-06,157
-1803,1016,Colville River at Colville Village,2006,2006-06-04,155
-1797,1023,Colville River at Colville Village,2007,2007-06-06,157
-1786,1035,Colville River at Colville Village,2008,2008-06-05,157
-1779,1042,Colville River at Colville Village,2009,2009-05-27,147
-1775,1047,Colville River at Colville Village,2010,2010-06-07,158
-1772,1050,Colville River at Colville Village,2011,2011-05-30,150
-1765,1058,Colville River at Colville Village,2012,2012-06-04,156
-1751,1090,Colville River at Colville Village,2013,2013-06-09,160
-479,6619,Colville River at Colville Village,2014,2014-06-03,154
-429,6705,Colville River at Colville Village,2015,2015-05-22,142
-330,6826,Colville River at Colville Village,2017,2017-05-26,146
-281,6919,Colville River at Colville Village,2018,2018-06-05,156
-237,6970,Colville River at Colville Village,2019,2019-05-27,147
-0,7309,Colville River at Colville Village,2024,2023-06-08,159
+1894,209,Buckland River at Buckland,1983,1983-05-12,132
+1866,210,Buckland River at Buckland,1984,1984-05-23,144
+1829,1067,Buckland River at Buckland,1985,1985-05-26,146
+1780,211,Buckland River at Buckland,1986,1986-05-30,150
+1741,212,Buckland River at Buckland,1987,1987-05-22,142
+1702,213,Buckland River at Buckland,1988,1988-05-05,126
+1659,214,Buckland River at Buckland,1989,1989-05-29,149
+1544,215,Buckland River at Buckland,1992,1992-05-28,149
+1501,216,Buckland River at Buckland,1993,1993-05-16,136
+1424,217,Buckland River at Buckland,1995,1995-05-04,124
+1386,218,Buckland River at Buckland,1996,1996-05-14,135
+1351,219,Buckland River at Buckland,1997,1997-05-05,125
+1310,220,Buckland River at Buckland,1998,1998-05-22,142
+1269,221,Buckland River at Buckland,1999,1999-05-22,142
+1186,222,Buckland River at Buckland,2001,2001-06-04,155
+1099,1000,Buckland River at Buckland,2003,2003-05-11,131
+1003,1025,Buckland River at Buckland,2005,2005-05-08,128
+949,1008,Buckland River at Buckland,2006,2006-05-23,143
+898,1018,Buckland River at Buckland,2007,2007-05-22,142
+847,1031,Buckland River at Buckland,2008,2008-05-13,134
+790,1036,Buckland River at Buckland,2009,2009-05-13,133
+742,1048,Buckland River at Buckland,2010,2010-05-19,139
+693,1052,Buckland River at Buckland,2011,2011-05-21,141
+640,1059,Buckland River at Buckland,2012,2012-05-22,143
+585,1084,Buckland River at Buckland,2013,2013-05-26,146
+577,6613,Buckland River at Buckland,2014,2014-05-04,124
+526,6699,Buckland River at Buckland,2015,2015-05-15,135
+426,6820,Buckland River at Buckland,2017,2017-05-14,134
+360,6898,Buckland River at Buckland,2018,2018-05-12,132
+310,6945,Buckland River at Buckland,2019,2019-05-05,125
+268,7015,Buckland River at Buckland,2020,2020-05-10,131
+222,7076,Buckland River at Buckland,2021,2021-05-12,132
+186,7172,Buckland River at Buckland,2022,2022-05-21,141
+135,7226,Buckland River at Buckland,2023,2023-05-19,139
+78,7288,Buckland River at Buckland,2024,2024-05-17,138
+38,7367,Buckland River at Buckland,2025,2025-05-15,135
+1387,259,Colville River at Colville Village,1996,1996-05-13,134
+1354,992,Colville River at Colville Village,1997,1997-05-16,136
+1311,261,Colville River at Colville Village,1998,1998-05-31,151
+1274,1007,Colville River at Colville Village,1999,1999-06-03,154
+1230,263,Colville River at Colville Village,2000,2000-06-12,164
+1187,264,Colville River at Colville Village,2001,2001-06-04,155
+1139,265,Colville River at Colville Village,2002,2002-05-26,146
+1050,991,Colville River at Colville Village,2004,2004-06-04,156
+1001,1001,Colville River at Colville Village,2005,2005-06-06,157
+954,1016,Colville River at Colville Village,2006,2006-06-04,155
+902,1023,Colville River at Colville Village,2007,2007-06-06,157
+850,1035,Colville River at Colville Village,2008,2008-06-05,157
+796,1042,Colville River at Colville Village,2009,2009-05-27,147
+741,1047,Colville River at Colville Village,2010,2010-06-07,158
+691,1050,Colville River at Colville Village,2011,2011-05-30,150
+639,1058,Colville River at Colville Village,2012,2012-06-04,156
+590,1090,Colville River at Colville Village,2013,2013-06-09,160
+583,6619,Colville River at Colville Village,2014,2014-06-03,154
+532,6705,Colville River at Colville Village,2015,2015-05-22,142
+431,6826,Colville River at Colville Village,2017,2017-05-26,146
+379,6919,Colville River at Colville Village,2018,2018-06-05,156
+330,6970,Colville River at Colville Village,2019,2019-05-27,147
+97,7309,Colville River at Colville Village,2024,2023-06-08,159
+1982,7401,Colville River at Umiat,1980,1980-05-18,139
 1895,250,Colville River at Umiat,1983,1983-05-31,151
-1894,251,Colville River at Umiat,1984,1984-05-25,146
-1758,1066,Colville River at Umiat,1985,1985-05-25,145
-1893,252,Colville River at Umiat,1986,1986-06-04,155
-1892,253,Colville River at Umiat,1987,1987-05-24,144
-1891,254,Colville River at Umiat,1988,1988-05-15,136
-1890,255,Colville River at Umiat,1989,1989-05-27,147
-1889,256,Colville River at Umiat,1992,1992-05-25,146
-1888,257,Colville River at Umiat,1993,1993-05-23,143
-1887,258,Colville River at Umiat,1995,1995-05-10,130
-1796,1024,Colville River at Umiat,2007,2007-05-30,150
-1793,1027,Colville River at Umiat,2008,2008-05-25,146
-1780,1041,Colville River at Umiat,2009,2009-05-18,138
-1760,1063,Colville River at Umiat,2012,2012-05-23,144
-1750,1092,Colville River at Umiat,2013,2013-05-28,148
-480,6618,Colville River at Umiat,2014,2014-05-14,134
-430,6704,Colville River at Umiat,2015,2015-05-15,135
-331,6825,Colville River at Umiat,2017,2017-05-26,146
-238,6969,Colville River at Umiat,2019,2019-05-18,138
-144,7098,Colville River at Umiat,2021,2021-05-28,148
-57,7231,Colville River at Umiat,2023,2023-05-22,142
-1,7308,Colville River at Umiat,2024,2024-06-04,156
-1881,364,Kobuk River at Ambler,1980,1980-05-13,134
-1759,1065,Kobuk River at Ambler,1981,1981-05-17,137
-1880,365,Kobuk River at Ambler,1983,1983-05-12,132
-1879,366,Kobuk River at Ambler,1985,1985-05-26,146
-1878,367,Kobuk River at Ambler,1986,1986-05-16,136
-1877,368,Kobuk River at Ambler,1987,1987-05-19,139
-1876,369,Kobuk River at Ambler,1988,1988-05-10,131
-1875,370,Kobuk River at Ambler,1989,1989-05-24,144
-1874,371,Kobuk River at Ambler,1992,1992-06-02,154
-1873,372,Kobuk River at Ambler,1993,1993-05-19,139
-1872,373,Kobuk River at Ambler,1994,1994-05-18,138
-1871,374,Kobuk River at Ambler,1995,1995-05-08,128
-1870,375,Kobuk River at Ambler,1996,1996-05-13,134
-1869,376,Kobuk River at Ambler,1997,1997-05-10,130
-1868,377,Kobuk River at Ambler,1998,1998-05-18,138
-1867,378,Kobuk River at Ambler,1999,1999-05-21,141
-1866,379,Kobuk River at Ambler,2000,2000-06-01,153
-1865,380,Kobuk River at Ambler,2001,2001-06-01,152
-1864,381,Kobuk River at Ambler,2002,2002-05-14,134
-1816,994,Kobuk River at Ambler,2003,2003-05-18,138
-1815,996,Kobuk River at Ambler,2004,2004-05-17,138
-1792,1028,Kobuk River at Ambler,2005,2005-05-12,132
-1806,1011,Kobuk River at Ambler,2006,2006-05-22,142
-1799,1021,Kobuk River at Ambler,2007,2007-05-19,139
-1820,990,Kobuk River at Ambler,2008,2008-05-11,132
-1782,1039,Kobuk River at Ambler,2009,2009-05-16,136
-1776,1046,Kobuk River at Ambler,2010,2010-05-16,136
-1771,1051,Kobuk River at Ambler,2011,2011-05-23,143
-1766,1057,Kobuk River at Ambler,2012,2012-05-23,144
-1753,1087,Kobuk River at Ambler,2013,2013-05-30,150
-482,6616,Kobuk River at Ambler,2014,2014-05-11,131
-432,6702,Kobuk River at Ambler,2015,2015-05-13,133
-380,6767,Kobuk River at Ambler,2016,2016-05-03,124
-332,6823,Kobuk River at Ambler,2017,2017-05-13,133
-283,6916,Kobuk River at Ambler,2018,2018-05-16,136
-198,7028,Kobuk River at Ambler,2020,2020-05-15,136
-150,7089,Kobuk River at Ambler,2021,2021-05-13,133
-108,7167,Kobuk River at Ambler,2022,2022-05-20,140
-9,7299,Kobuk River at Ambler,2024,2024-05-18,139
-1863,453,Kobuk River at Kobuk,1980,1980-05-08,129
-1862,454,Kobuk River at Kobuk,1981,1981-05-14,134
-1861,455,Kobuk River at Kobuk,1982,1982-05-24,144
-1860,456,Kobuk River at Kobuk,1984,1984-05-22,143
-1859,457,Kobuk River at Kobuk,1986,1986-05-23,143
-1858,458,Kobuk River at Kobuk,1987,1987-05-18,138
-1857,459,Kobuk River at Kobuk,1988,1988-05-05,126
-1856,460,Kobuk River at Kobuk,1989,1989-05-24,144
-1855,461,Kobuk River at Kobuk,1990,1990-05-14,134
-1854,462,Kobuk River at Kobuk,1991,1991-05-14,134
-1853,463,Kobuk River at Kobuk,1992,1992-05-28,149
-1852,464,Kobuk River at Kobuk,1993,1993-05-15,135
-1851,465,Kobuk River at Kobuk,1994,1994-05-12,132
-1850,466,Kobuk River at Kobuk,1995,1995-05-03,123
-1849,467,Kobuk River at Kobuk,1996,1996-05-13,134
-1848,469,Kobuk River at Kobuk,1998,1998-05-18,138
-1847,470,Kobuk River at Kobuk,1999,1999-05-18,138
-1846,471,Kobuk River at Kobuk,2000,2000-05-27,148
-1845,472,Kobuk River at Kobuk,2001,2001-05-29,149
-1844,473,Kobuk River at Kobuk,2002,2002-05-18,138
-1814,997,Kobuk River at Kobuk,2003,2003-05-12,132
-1794,1026,Kobuk River at Kobuk,2005,2005-05-08,128
-1804,1014,Kobuk River at Kobuk,2006,2006-05-17,137
-1802,1017,Kobuk River at Kobuk,2007,2007-05-04,124
-1788,1032,Kobuk River at Kobuk,2008,2008-05-12,133
-1784,1037,Kobuk River at Kobuk,2009,2009-05-13,133
-1778,1043,Kobuk River at Kobuk,2010,2010-05-12,132
-1768,1054,Kobuk River at Kobuk,2011,2011-05-21,141
-1763,1060,Kobuk River at Kobuk,2012,2012-05-20,141
-1755,1085,Kobuk River at Kobuk,2013,2013-05-30,150
-484,6614,Kobuk River at Kobuk,2014,2014-05-10,130
-434,6700,Kobuk River at Kobuk,2015,2015-05-11,131
-382,6765,Kobuk River at Kobuk,2016,2016-05-04,125
-334,6821,Kobuk River at Kobuk,2017,2017-05-12,132
-285,6914,Kobuk River at Kobuk,2018,2018-05-11,131
-240,6967,Kobuk River at Kobuk,2019,2019-05-14,134
-203,7022,Kobuk River at Kobuk,2020,2020-05-12,133
-149,7091,Kobuk River at Kobuk,2021,2021-05-11,131
-110,7164,Kobuk River at Kobuk,2022,2022-05-17,137
-58,7230,Kobuk River at Kobuk,2023,2023-05-20,140
-11,7297,Kobuk River at Kobuk,2024,2024-05-17,138
-1843,528,Kobuk River at Shungnak,1982,1982-05-21,141
-1842,529,Kobuk River at Shungnak,1984,1984-05-24,145
-1841,530,Kobuk River at Shungnak,1986,1986-05-24,144
-1840,531,Kobuk River at Shungnak,1987,1987-05-17,137
-1839,532,Kobuk River at Shungnak,1988,1988-05-05,126
-1838,534,Kobuk River at Shungnak,1992,1992-05-31,152
-1837,535,Kobuk River at Shungnak,1993,1993-05-17,137
-1836,536,Kobuk River at Shungnak,1995,1995-05-07,127
-1835,537,Kobuk River at Shungnak,1996,1996-05-13,134
-1834,539,Kobuk River at Shungnak,1999,1999-05-21,141
-1833,540,Kobuk River at Shungnak,2000,2000-05-29,150
-1832,541,Kobuk River at Shungnak,2001,2001-05-29,149
-1831,542,Kobuk River at Shungnak,2002,2002-05-18,138
-1813,998,Kobuk River at Shungnak,2003,2003-05-11,131
-1817,993,Kobuk River at Shungnak,2004,2004-05-11,132
-1791,1029,Kobuk River at Shungnak,2005,2005-05-10,130
-1807,1010,Kobuk River at Shungnak,2006,2006-05-21,141
-1800,1020,Kobuk River at Shungnak,2007,2007-05-17,137
-1787,1033,Kobuk River at Shungnak,2008,2008-05-13,134
-1783,1038,Kobuk River at Shungnak,2009,2009-05-13,133
-1777,1044,Kobuk River at Shungnak,2010,2010-05-15,135
-1769,1053,Kobuk River at Shungnak,2011,2011-05-21,141
-1762,1061,Kobuk River at Shungnak,2012,2012-05-19,140
-1754,1086,Kobuk River at Shungnak,2013,2013-05-30,150
-483,6615,Kobuk River at Shungnak,2014,2014-05-10,130
-433,6701,Kobuk River at Shungnak,2015,2015-05-12,132
-381,6766,Kobuk River at Shungnak,2016,2016-05-04,125
-333,6822,Kobuk River at Shungnak,2017,2017-05-14,134
-284,6915,Kobuk River at Shungnak,2018,2018-05-16,136
-202,7024,Kobuk River at Shungnak,2020,2020-05-13,134
-148,7092,Kobuk River at Shungnak,2021,2021-05-12,132
-102,7173,Kobuk River at Shungnak,2022,2022-05-20,140
-10,7298,Kobuk River at Shungnak,2024,2024-05-17,138
-1137,4700,Koyukuk River at Allakaket,1981,1981-05-08,128
-552,6531,Koyukuk River at Allakaket,1983,1983-05-02,122
-1136,4702,Koyukuk River at Allakaket,1985,1985-05-20,140
-1135,4703,Koyukuk River at Allakaket,1986,1986-05-12,132
-1134,4704,Koyukuk River at Allakaket,1987,1987-05-09,129
-1133,4706,Koyukuk River at Allakaket,1989,1989-05-09,129
-1132,4707,Koyukuk River at Allakaket,1990,1990-05-11,131
-1131,4708,Koyukuk River at Allakaket,1991,1991-05-03,123
-1130,4709,Koyukuk River at Allakaket,1992,1992-05-25,146
-1129,4710,Koyukuk River at Allakaket,1993,1993-05-10,130
-1128,4711,Koyukuk River at Allakaket,1994,1994-05-03,123
-1127,4712,Koyukuk River at Allakaket,1996,1996-05-12,133
-1126,4713,Koyukuk River at Allakaket,1997,1997-05-03,123
-1125,4714,Koyukuk River at Allakaket,1998,1998-05-11,131
-1124,4715,Koyukuk River at Allakaket,1999,1999-05-13,133
-1123,4716,Koyukuk River at Allakaket,2000,2000-05-20,141
-1122,4717,Koyukuk River at Allakaket,2001,2001-05-23,143
-1121,4718,Koyukuk River at Allakaket,2002,2002-05-13,133
-775,6224,Koyukuk River at Allakaket,2004,2004-05-05,126
-748,6258,Koyukuk River at Allakaket,2005,2005-05-05,125
-710,6320,Koyukuk River at Allakaket,2006,2006-05-12,132
-704,6332,Koyukuk River at Allakaket,2007,2007-05-02,122
-657,6384,Koyukuk River at Allakaket,2008,2008-05-10,131
-623,6427,Koyukuk River at Allakaket,2009,2009-05-03,123
-615,6436,Koyukuk River at Allakaket,2010,2010-05-01,121
-586,6475,Koyukuk River at Allakaket,2011,2011-05-15,135
-557,6509,Koyukuk River at Allakaket,2012,2012-05-12,133
-530,6561,Koyukuk River at Allakaket,2013,2013-05-27,147
-487,6611,Koyukuk River at Allakaket,2014,2014-05-04,124
-437,6697,Koyukuk River at Allakaket,2015,2015-05-05,125
-383,6764,Koyukuk River at Allakaket,2016,2016-05-01,122
-337,6818,Koyukuk River at Allakaket,2017,2017-05-09,129
-299,6899,Koyukuk River at Allakaket,2018,2018-05-11,131
-97,7179,Koyukuk River at Allakaket,2019,2019-05-13,133
-211,7014,Koyukuk River at Allakaket,2020,2020-05-10,131
-160,7078,Koyukuk River at Allakaket,2021,2021-05-11,131
-132,7139,Koyukuk River at Allakaket,2022,2022-05-06,126
-80,7203,Koyukuk River at Allakaket,2023,2023-05-13,133
-3,7306,Koyukuk River at Allakaket,2024,2024-05-10,131
-1120,4758,Koyukuk River at Bettles,1981,1981-05-07,127
-553,6530,Koyukuk River at Bettles,1983,1983-05-02,122
-1119,4760,Koyukuk River at Bettles,1984,1984-05-18,139
-1118,4761,Koyukuk River at Bettles,1985,1985-05-20,140
-1117,4762,Koyukuk River at Bettles,1986,1986-05-11,131
-1116,4763,Koyukuk River at Bettles,1987,1987-05-09,129
-1115,4764,Koyukuk River at Bettles,1988,1988-05-04,125
-1114,4765,Koyukuk River at Bettles,1989,1989-05-09,129
-1113,4766,Koyukuk River at Bettles,1990,1990-05-10,130
-1112,4767,Koyukuk River at Bettles,1991,1991-05-04,124
-1111,4768,Koyukuk River at Bettles,1992,1992-05-24,145
-1110,4769,Koyukuk River at Bettles,1993,1993-05-10,130
-1109,4770,Koyukuk River at Bettles,1994,1994-05-02,122
-1108,4771,Koyukuk River at Bettles,1995,1995-04-28,118
-1107,4772,Koyukuk River at Bettles,1996,1996-05-12,133
-1106,4773,Koyukuk River at Bettles,1997,1997-05-02,122
-1105,4774,Koyukuk River at Bettles,1998,1998-05-11,131
-1104,4775,Koyukuk River at Bettles,1999,1999-05-12,132
-1103,4776,Koyukuk River at Bettles,2000,2000-05-20,141
-1102,4777,Koyukuk River at Bettles,2001,2001-05-23,143
-1101,4778,Koyukuk River at Bettles,2002,2002-05-16,136
-782,6211,Koyukuk River at Bettles,2003,2003-05-12,132
-776,6220,Koyukuk River at Bettles,2004,2004-05-05,126
-749,6257,Koyukuk River at Bettles,2005,2005-05-04,124
-711,6319,Koyukuk River at Bettles,2006,2006-05-11,131
-705,6331,Koyukuk River at Bettles,2007,2007-05-05,125
-650,6395,Koyukuk River at Bettles,2008,2008-05-10,131
-639,6411,Koyukuk River at Bettles,2009,2009-05-03,123
-620,6431,Koyukuk River at Bettles,2010,2010-04-30,120
-587,6474,Koyukuk River at Bettles,2011,2011-05-13,133
-577,6487,Koyukuk River at Bettles,2012,2012-05-10,131
-549,6541,Koyukuk River at Bettles,2013,2013-05-24,144
-488,6610,Koyukuk River at Bettles,2014,2014-05-03,123
-438,6696,Koyukuk River at Bettles,2015,2015-05-07,127
-384,6763,Koyukuk River at Bettles,2016,2016-04-30,121
-338,6817,Koyukuk River at Bettles,2017,2017-05-08,128
-304,6894,Koyukuk River at Bettles,2018,2018-05-11,131
-239,6968,Koyukuk River at Bettles,2019,2019-05-14,134
-212,7012,Koyukuk River at Bettles,2020,2020-05-09,130
-166,7070,Koyukuk River at Bettles,2021,2021-05-09,129
-100,7175,Koyukuk River at Bettles,2022,2022-05-05,125
-76,7207,Koyukuk River at Bettles,2023,2023-05-13,133
-4,7305,Koyukuk River at Bettles,2024,2024-05-10,131
-1100,4807,Koyukuk River at Hughes,1981,1981-05-08,128
-1099,4808,Koyukuk River at Hughes,1982,1982-05-19,139
-551,6538,Koyukuk River at Hughes,1983,1983-05-11,131
-1098,4809,Koyukuk River at Hughes,1985,1985-05-21,141
-1097,4810,Koyukuk River at Hughes,1986,1986-05-12,132
-1096,4811,Koyukuk River at Hughes,1987,1987-05-10,130
-1095,4812,Koyukuk River at Hughes,1988,1988-05-01,122
-1094,4813,Koyukuk River at Hughes,1989,1989-05-09,129
-1093,4814,Koyukuk River at Hughes,1991,1991-05-02,122
-1092,4815,Koyukuk River at Hughes,1992,1992-05-25,146
-1091,4816,Koyukuk River at Hughes,1994,1994-05-03,123
-1090,4817,Koyukuk River at Hughes,1995,1995-05-03,123
-1089,4818,Koyukuk River at Hughes,1996,1996-05-11,132
-1088,4819,Koyukuk River at Hughes,1998,1998-05-12,132
-1087,4820,Koyukuk River at Hughes,1999,1999-05-14,134
-1086,4821,Koyukuk River at Hughes,2000,2000-05-21,142
-1085,4822,Koyukuk River at Hughes,2001,2001-05-22,142
-760,6241,Koyukuk River at Hughes,2003,2003-05-13,133
-774,6225,Koyukuk River at Hughes,2004,2004-05-04,125
-713,6316,Koyukuk River at Hughes,2006,2006-05-13,133
-703,6333,Koyukuk River at Hughes,2007,2007-05-02,122
-649,6396,Koyukuk River at Hughes,2008,2008-05-10,131
-622,6428,Koyukuk River at Hughes,2009,2009-05-04,124
-618,6433,Koyukuk River at Hughes,2010,2010-05-02,122
-585,6476,Koyukuk River at Hughes,2011,2011-05-14,134
-556,6510,Koyukuk River at Hughes,2012,2012-05-12,133
-529,6562,Koyukuk River at Hughes,2013,2013-05-27,147
-486,6612,Koyukuk River at Hughes,2014,2014-05-05,125
-436,6698,Koyukuk River at Hughes,2015,2015-05-05,125
-402,6737,Koyukuk River at Hughes,2016,2016-04-30,121
-336,6819,Koyukuk River at Hughes,2017,2017-05-09,129
-295,6904,Koyukuk River at Hughes,2018,2018-05-11,131
-245,6962,Koyukuk River at Hughes,2019,2019-05-12,132
-209,7016,Koyukuk River at Hughes,2020,2020-05-10,131
-159,7079,Koyukuk River at Hughes,2021,2021-05-09,129
-131,7140,Koyukuk River at Hughes,2022,2022-05-08,128
-75,7208,Koyukuk River at Hughes,2023,2023-05-14,134
-2,7307,Koyukuk River at Hughes,2024,2024-05-11,132
-1587,2717,Kuskokwim River at Akiak,1983,1983-05-11,131
-1586,2718,Kuskokwim River at Akiak,1985,1985-05-23,143
-1585,2719,Kuskokwim River at Akiak,1986,1986-05-15,135
-1584,2720,Kuskokwim River at Akiak,1987,1987-05-15,135
-1583,2722,Kuskokwim River at Akiak,1989,1989-05-09,129
-1582,2723,Kuskokwim River at Akiak,1990,1990-05-04,124
-1581,2725,Kuskokwim River at Akiak,1992,1992-05-24,145
-1580,2726,Kuskokwim River at Akiak,1993,1993-05-03,123
-1579,2727,Kuskokwim River at Akiak,1994,1994-05-05,125
-1578,2728,Kuskokwim River at Akiak,1995,1995-05-05,125
-1577,2729,Kuskokwim River at Akiak,1996,1996-05-09,130
-1576,2730,Kuskokwim River at Akiak,1997,1997-05-01,121
-1575,2731,Kuskokwim River at Akiak,1998,1998-05-02,122
-1574,2732,Kuskokwim River at Akiak,1999,1999-05-16,136
-1573,2733,Kuskokwim River at Akiak,2000,2000-05-10,131
-1572,2734,Kuskokwim River at Akiak,2001,2001-05-17,137
-1571,2735,Kuskokwim River at Akiak,2002,2002-05-16,136
-1373,3518,Kuskokwim River at Akiak,2003,2003-05-02,122
-1381,3505,Kuskokwim River at Akiak,2004,2004-05-01,122
-1360,3561,Kuskokwim River at Akiak,2005,2005-05-08,128
-1350,3571,Kuskokwim River at Akiak,2006,2006-05-21,141
-1334,3589,Kuskokwim River at Akiak,2007,2007-04-29,119
-1323,3603,Kuskokwim River at Akiak,2008,2008-05-13,134
-1311,3616,Kuskokwim River at Akiak,2009,2009-05-08,128
-1299,3633,Kuskokwim River at Akiak,2010,2010-05-15,135
-1287,3648,Kuskokwim River at Akiak,2011,2011-05-12,132
-1275,3661,Kuskokwim River at Akiak,2012,2012-05-13,134
-1260,3683,Kuskokwim River at Akiak,2013,2013-05-27,147
-509,6587,Kuskokwim River at Akiak,2014,2014-05-04,124
-457,6675,Kuskokwim River at Akiak,2015,2015-05-06,126
-414,6723,Kuskokwim River at Akiak,2016,2016-04-21,112
-361,6792,Kuskokwim River at Akiak,2017,2017-05-07,127
-315,6882,Kuskokwim River at Akiak,2018,2018-05-04,124
-259,6943,Kuskokwim River at Akiak,2019,2019-04-26,116
-224,6993,Kuskokwim River at Akiak,2020,2020-05-04,125
-178,7057,Kuskokwim River at Akiak,2021,2021-05-05,125
-125,7147,Kuskokwim River at Akiak,2022,2022-05-05,125
-68,7215,Kuskokwim River at Akiak,2023,2023-05-18,138
-17,7291,Kuskokwim River at Akiak,2024,2024-05-04,125
-1272,3670,Kuskokwim River at Aniak,1982,1982-05-15,135
-1570,2757,Kuskokwim River at Aniak,1983,1983-05-09,129
-1569,2758,Kuskokwim River at Aniak,1984,1984-05-13,134
-1568,2759,Kuskokwim River at Aniak,1985,1985-05-21,141
-1567,2761,Kuskokwim River at Aniak,1987,1987-05-09,129
-1566,2762,Kuskokwim River at Aniak,1988,1988-05-03,124
-1565,2763,Kuskokwim River at Aniak,1989,1989-05-09,129
-1564,2764,Kuskokwim River at Aniak,1990,1990-05-02,122
-1563,2765,Kuskokwim River at Aniak,1991,1991-05-08,128
-1562,2766,Kuskokwim River at Aniak,1992,1992-05-20,141
-1561,2767,Kuskokwim River at Aniak,1993,1993-04-28,118
-1560,2768,Kuskokwim River at Aniak,1994,1994-05-02,122
-1559,2769,Kuskokwim River at Aniak,1995,1995-05-03,123
-1558,2770,Kuskokwim River at Aniak,1996,1996-05-10,131
-1557,2771,Kuskokwim River at Aniak,1997,1997-05-01,121
-1556,2772,Kuskokwim River at Aniak,1998,1998-04-24,114
-1555,2773,Kuskokwim River at Aniak,1999,1999-05-16,136
-1554,2774,Kuskokwim River at Aniak,2000,2000-05-05,126
-1553,2775,Kuskokwim River at Aniak,2001,2001-05-17,137
-1552,2776,Kuskokwim River at Aniak,2002,2002-05-12,132
-1376,3515,Kuskokwim River at Aniak,2003,2003-05-01,121
-1383,3503,Kuskokwim River at Aniak,2004,2004-05-05,126
-1363,3558,Kuskokwim River at Aniak,2005,2005-05-03,123
-1353,3568,Kuskokwim River at Aniak,2006,2006-05-14,134
-1338,3585,Kuskokwim River at Aniak,2007,2007-04-29,119
-1326,3600,Kuskokwim River at Aniak,2008,2008-05-10,131
-1314,3613,Kuskokwim River at Aniak,2009,2009-05-03,123
-1302,3629,Kuskokwim River at Aniak,2010,2010-05-11,131
-1295,3639,Kuskokwim River at Aniak,2011,2011-05-16,136
-1278,3658,Kuskokwim River at Aniak,2012,2012-05-06,127
-1263,3680,Kuskokwim River at Aniak,2013,2013-05-26,146
-512,6584,Kuskokwim River at Aniak,2014,2014-05-01,121
-463,6668,Kuskokwim River at Aniak,2015,2015-05-04,124
-417,6720,Kuskokwim River at Aniak,2016,2016-04-19,110
-364,6789,Kuskokwim River at Aniak,2017,2017-05-03,123
-322,6874,Kuskokwim River at Aniak,2018,2018-05-01,121
-264,6938,Kuskokwim River at Aniak,2019,2019-04-29,119
-222,6995,Kuskokwim River at Aniak,2020,2020-05-01,122
-181,7054,Kuskokwim River at Aniak,2021,2021-05-03,123
-137,7134,Kuskokwim River at Aniak,2022,2022-05-01,121
-72,7211,Kuskokwim River at Aniak,2023,2022-05-15,135
-39,7261,Kuskokwim River at Aniak,2024,2024-05-02,123
-1551,2831,Kuskokwim River at Bethel,1980,1980-05-08,129
-1550,2832,Kuskokwim River at Bethel,1981,1981-05-08,128
-1549,2833,Kuskokwim River at Bethel,1982,1982-05-18,138
-1548,2834,Kuskokwim River at Bethel,1983,1983-05-11,131
-1547,2835,Kuskokwim River at Bethel,1984,1984-05-13,134
-1546,2836,Kuskokwim River at Bethel,1985,1985-05-25,145
-1545,2837,Kuskokwim River at Bethel,1986,1986-05-14,134
-1544,2838,Kuskokwim River at Bethel,1987,1987-05-18,138
-1543,2839,Kuskokwim River at Bethel,1988,1988-05-11,132
-1542,2840,Kuskokwim River at Bethel,1989,1989-05-11,131
-1541,2841,Kuskokwim River at Bethel,1990,1990-05-06,126
-1540,2842,Kuskokwim River at Bethel,1991,1991-05-08,128
-1539,2843,Kuskokwim River at Bethel,1992,1992-05-24,145
-1538,2844,Kuskokwim River at Bethel,1993,1993-05-02,122
-1537,2845,Kuskokwim River at Bethel,1994,1994-05-07,127
-1536,2846,Kuskokwim River at Bethel,1995,1995-05-06,126
-1535,2847,Kuskokwim River at Bethel,1996,1996-05-09,130
-1534,2848,Kuskokwim River at Bethel,1997,1997-05-02,122
-1533,2849,Kuskokwim River at Bethel,1998,1998-05-06,126
-1532,2850,Kuskokwim River at Bethel,1999,1999-05-18,138
-1531,2851,Kuskokwim River at Bethel,2000,2000-05-10,131
-1530,2852,Kuskokwim River at Bethel,2001,2001-05-16,136
-1529,2853,Kuskokwim River at Bethel,2002,2002-05-14,134
-1372,3519,Kuskokwim River at Bethel,2003,2003-05-02,122
-1386,3500,Kuskokwim River at Bethel,2004,2004-05-02,123
-1369,3536,Kuskokwim River at Bethel,2005,2005-05-09,129
-1349,3573,Kuskokwim River at Bethel,2006,2006-05-23,143
-1336,3587,Kuskokwim River at Bethel,2007,2007-05-03,123
-1322,3604,Kuskokwim River at Bethel,2008,2008-05-13,134
-1310,3617,Kuskokwim River at Bethel,2009,2009-05-09,129
-1298,3634,Kuskokwim River at Bethel,2010,2010-05-17,137
-1286,3649,Kuskokwim River at Bethel,2011,2011-05-11,131
-1274,3664,Kuskokwim River at Bethel,2012,2012-05-15,136
-1269,3674,Kuskokwim River at Bethel,2013,2013-05-29,149
-508,6588,Kuskokwim River at Bethel,2014,2014-05-02,122
-465,6666,Kuskokwim River at Bethel,2015,2015-05-04,124
-413,6724,Kuskokwim River at Bethel,2016,2016-04-20,111
-360,6794,Kuskokwim River at Bethel,2017,2017-05-06,126
-320,6876,Kuskokwim River at Bethel,2018,2018-05-02,122
-276,6926,Kuskokwim River at Bethel,2019,2019-04-12,102
-221,6999,Kuskokwim River at Bethel,2020,2020-05-03,124
-173,7062,Kuskokwim River at Bethel,2021,2021-05-06,126
-139,7132,Kuskokwim River at Bethel,2022,2022-05-05,125
-65,7220,Kuskokwim River at Bethel,2023,2023-05-20,140
-32,7272,Kuskokwim River at Bethel,2024,2024-05-08,129
-1528,2892,Kuskokwim River at Crooked Creek,1981,1981-05-03,123
-1527,2894,Kuskokwim River at Crooked Creek,1983,1983-05-06,126
-1526,2895,Kuskokwim River at Crooked Creek,1984,1984-05-15,136
-1525,2896,Kuskokwim River at Crooked Creek,1985,1985-05-20,140
-1524,2897,Kuskokwim River at Crooked Creek,1986,1986-05-13,133
-1523,2898,Kuskokwim River at Crooked Creek,1987,1987-05-09,129
-1522,2899,Kuskokwim River at Crooked Creek,1988,1988-05-06,127
-1521,2900,Kuskokwim River at Crooked Creek,1989,1989-05-02,122
-1520,2902,Kuskokwim River at Crooked Creek,1991,1991-05-04,124
-1519,2903,Kuskokwim River at Crooked Creek,1992,1992-05-16,137
-1518,2904,Kuskokwim River at Crooked Creek,1993,1993-04-26,116
-1517,2906,Kuskokwim River at Crooked Creek,1995,1995-04-28,118
-1516,2907,Kuskokwim River at Crooked Creek,1996,1996-05-03,124
-1515,2909,Kuskokwim River at Crooked Creek,1999,1999-05-15,135
-1514,2910,Kuskokwim River at Crooked Creek,2000,2000-05-01,122
-1513,2911,Kuskokwim River at Crooked Creek,2001,2001-05-14,134
-1512,2912,Kuskokwim River at Crooked Creek,2002,2002-05-12,132
-1387,3499,Kuskokwim River at Crooked Creek,2003,2003-04-27,117
-1385,3501,Kuskokwim River at Crooked Creek,2004,2004-05-03,124
-1368,3537,Kuskokwim River at Crooked Creek,2005,2005-05-01,121
-1358,3563,Kuskokwim River at Crooked Creek,2006,2006-05-12,132
-1339,3584,Kuskokwim River at Crooked Creek,2007,2007-04-29,119
-1331,3595,Kuskokwim River at Crooked Creek,2008,2008-05-09,130
-1315,3612,Kuskokwim River at Crooked Creek,2009,2009-05-03,123
-1303,3628,Kuskokwim River at Crooked Creek,2010,2010-05-11,131
-1290,3645,Kuskokwim River at Crooked Creek,2011,2011-05-09,129
-1279,3656,Kuskokwim River at Crooked Creek,2012,2012-05-06,127
-1264,3679,Kuskokwim River at Crooked Creek,2013,2013-05-22,142
-513,6583,Kuskokwim River at Crooked Creek,2014,2014-05-02,122
-458,6674,Kuskokwim River at Crooked Creek,2015,2015-04-29,119
-418,6719,Kuskokwim River at Crooked Creek,2016,2016-04-21,112
-365,6788,Kuskokwim River at Crooked Creek,2017,2017-05-03,123
-323,6873,Kuskokwim River at Crooked Creek,2018,2018-04-29,119
-267,6935,Kuskokwim River at Crooked Creek,2019,2019-04-29,119
-228,6988,Kuskokwim River at Crooked Creek,2020,2020-04-29,120
-182,7052,Kuskokwim River at Crooked Creek,2021,2021-05-03,123
-122,7150,Kuskokwim River at Crooked Creek,2022,2022-05-08,128
-81,7201,Kuskokwim River at Crooked Creek,2023,2023-05-13,133
-44,7255,Kuskokwim River at Crooked Creek,2024,2024-05-01,122
-1511,2940,Kuskokwim River at Kalskag,1986,1986-05-20,140
-1510,2941,Kuskokwim River at Kalskag,1987,1987-05-16,136
-1509,2943,Kuskokwim River at Kalskag,1989,1989-05-09,129
-1508,2944,Kuskokwim River at Kalskag,1990,1990-05-02,122
-1507,2945,Kuskokwim River at Kalskag,1991,1991-05-09,129
-1506,2946,Kuskokwim River at Kalskag,1993,1993-04-28,118
-1505,2947,Kuskokwim River at Kalskag,1994,1994-05-04,124
-1504,2948,Kuskokwim River at Kalskag,1995,1995-05-03,123
-1503,2950,Kuskokwim River at Kalskag,1997,1997-04-30,120
-1502,2951,Kuskokwim River at Kalskag,1998,1998-04-26,116
-1501,2952,Kuskokwim River at Kalskag,1999,1999-05-16,136
-1500,2953,Kuskokwim River at Kalskag,2000,2000-05-06,127
-1499,2954,Kuskokwim River at Kalskag,2001,2001-05-14,134
-1498,2955,Kuskokwim River at Kalskag,2002,2002-05-16,136
-1375,3516,Kuskokwim River at Kalskag,2003,2003-05-02,122
-1382,3504,Kuskokwim River at Kalskag,2004,2004-05-02,123
-1362,3559,Kuskokwim River at Kalskag,2005,2005-05-04,124
-1352,3569,Kuskokwim River at Kalskag,2006,2006-05-19,139
-1337,3586,Kuskokwim River at Kalskag,2007,2007-04-30,120
-1325,3601,Kuskokwim River at Kalskag,2008,2008-05-11,132
-1313,3614,Kuskokwim River at Kalskag,2009,2009-05-07,127
-1301,3631,Kuskokwim River at Kalskag,2010,2010-05-12,132
-1289,3646,Kuskokwim River at Kalskag,2011,2011-05-12,132
-1277,3659,Kuskokwim River at Kalskag,2012,2012-05-07,128
-1262,3681,Kuskokwim River at Kalskag,2013,2013-05-25,145
-511,6585,Kuskokwim River at Kalskag,2014,2014-04-30,120
-456,6676,Kuskokwim River at Kalskag,2015,2015-05-05,125
-416,6721,Kuskokwim River at Kalskag,2016,2016-04-20,111
-363,6790,Kuskokwim River at Kalskag,2017,2017-05-04,124
-321,6875,Kuskokwim River at Kalskag,2018,2018-05-05,125
-263,6939,Kuskokwim River at Kalskag,2019,2019-04-29,119
-225,6992,Kuskokwim River at Kalskag,2020,2020-05-04,125
-174,7061,Kuskokwim River at Kalskag,2021,2021-05-06,126
-121,7151,Kuskokwim River at Kalskag,2022,2022-05-08,128
-70,7213,Kuskokwim River at Kalskag,2023,2023-05-15,135
-34,7269,Kuskokwim River at Kalskag,2024,2024-05-03,124
-1497,2995,Kuskokwim River at McGrath,1980,1980-04-27,118
-1496,2996,Kuskokwim River at McGrath,1981,1981-05-03,123
-1495,2997,Kuskokwim River at McGrath,1982,1982-05-14,134
-1494,2998,Kuskokwim River at McGrath,1983,1983-05-05,125
-1493,2999,Kuskokwim River at McGrath,1984,1984-05-16,137
-1492,3000,Kuskokwim River at McGrath,1985,1985-05-22,142
-1491,3001,Kuskokwim River at McGrath,1986,1986-05-12,132
-1490,3002,Kuskokwim River at McGrath,1987,1987-05-08,128
-1489,3003,Kuskokwim River at McGrath,1988,1988-05-04,125
-1488,3004,Kuskokwim River at McGrath,1989,1989-05-05,125
-1487,3005,Kuskokwim River at McGrath,1990,1990-05-02,122
-1486,3006,Kuskokwim River at McGrath,1991,1991-05-05,125
-1485,3007,Kuskokwim River at McGrath,1992,1992-05-20,141
-1484,3008,Kuskokwim River at McGrath,1993,1993-04-30,120
-1483,3009,Kuskokwim River at McGrath,1994,1994-05-01,121
-1482,3010,Kuskokwim River at McGrath,1995,1995-04-30,120
-1481,3011,Kuskokwim River at McGrath,1996,1996-05-10,131
-1480,3012,Kuskokwim River at McGrath,1997,1997-05-02,122
-1479,3013,Kuskokwim River at McGrath,1998,1998-04-25,115
-1478,3014,Kuskokwim River at McGrath,1999,1999-05-13,133
-1477,3015,Kuskokwim River at McGrath,2000,2000-05-08,129
-1476,3016,Kuskokwim River at McGrath,2001,2001-05-16,136
-1475,3017,Kuskokwim River at McGrath,2002,2002-05-12,132
-1379,3512,Kuskokwim River at McGrath,2003,2003-05-04,124
-1384,3502,Kuskokwim River at McGrath,2004,2004-04-25,116
-1370,3523,Kuskokwim River at McGrath,2005,2005-05-03,123
-1367,3552,Kuskokwim River at McGrath,2006,2006-05-12,132
-1343,3580,Kuskokwim River at McGrath,2007,2007-04-30,120
-1332,3594,Kuskokwim River at McGrath,2008,2008-05-10,131
-1319,3608,Kuskokwim River at McGrath,2009,2009-05-04,124
-1307,3622,Kuskokwim River at McGrath,2010,2010-05-03,123
-1294,3640,Kuskokwim River at McGrath,2011,2011-05-05,125
-1283,3652,Kuskokwim River at McGrath,2012,2012-04-30,121
-1270,3673,Kuskokwim River at McGrath,2013,2013-05-24,144
-517,6579,Kuskokwim River at McGrath,2014,2014-04-30,120
-468,6662,Kuskokwim River at McGrath,2015,2015-04-30,120
-409,6728,Kuskokwim River at McGrath,2016,2016-04-24,115
-368,6785,Kuskokwim River at McGrath,2017,2017-05-04,124
-308,6889,Kuskokwim River at McGrath,2018,2018-05-09,129
-269,6933,Kuskokwim River at McGrath,2019,2019-04-28,118
-227,6990,Kuskokwim River at McGrath,2020,2020-05-02,123
-179,7056,Kuskokwim River at McGrath,2021,2021-05-04,124
-127,7145,Kuskokwim River at McGrath,2022,2022-05-09,129
-83,7199,Kuskokwim River at McGrath,2023,2023-05-13,133
-42,7258,Kuskokwim River at McGrath,2024,2024-05-01,122
-1474,3042,Kuskokwim River at Napakiak,1986,1986-05-17,137
-1473,3043,Kuskokwim River at Napakiak,1987,1987-05-19,139
-1472,3044,Kuskokwim River at Napakiak,1989,1989-05-14,134
-1471,3045,Kuskokwim River at Napakiak,1990,1990-05-08,128
-1470,3046,Kuskokwim River at Napakiak,1991,1991-05-09,129
-1469,3047,Kuskokwim River at Napakiak,1992,1992-05-24,145
-1468,3048,Kuskokwim River at Napakiak,1993,1993-05-04,124
-1467,3049,Kuskokwim River at Napakiak,1994,1994-05-08,128
-1466,3050,Kuskokwim River at Napakiak,1996,1996-05-10,131
-1465,3051,Kuskokwim River at Napakiak,1997,1997-05-02,122
-1464,3052,Kuskokwim River at Napakiak,2000,2000-05-16,137
-1359,3562,Kuskokwim River at Napakiak,2005,2005-05-10,130
-1348,3574,Kuskokwim River at Napakiak,2006,2006-05-24,144
-1335,3588,Kuskokwim River at Napakiak,2007,2007-05-03,123
-1321,3605,Kuskokwim River at Napakiak,2008,2008-05-14,135
-1309,3618,Kuskokwim River at Napakiak,2009,2009-05-11,131
-1297,3636,Kuskokwim River at Napakiak,2010,2010-05-18,138
-1285,3650,Kuskokwim River at Napakiak,2011,2011-05-13,133
-1273,3665,Kuskokwim River at Napakiak,2012,2012-05-16,137
-1259,3685,Kuskokwim River at Napakiak,2013,2013-05-30,150
-462,6670,Kuskokwim River at Napakiak,2015,2015-05-03,123
-412,6725,Kuskokwim River at Napakiak,2016,2016-04-20,111
-359,6795,Kuskokwim River at Napakiak,2017,2017-05-08,128
-313,6884,Kuskokwim River at Napakiak,2018,2018-05-05,125
-274,6928,Kuskokwim River at Napakiak,2019,2019-04-14,104
-194,7032,Kuskokwim River at Napakiak,2020,2020-05-03,124
-171,7065,Kuskokwim River at Napakiak,2021,2021-05-08,128
-119,7154,Kuskokwim River at Napakiak,2022,2022-05-05,125
-59,7227,Kuskokwim River at Napakiak,2023,2023-05-20,140
-33,7271,Kuskokwim River at Napakiak,2024,2024-05-10,131
-1463,3075,Kuskokwim River at Nikolai,1984,1984-05-03,124
-1271,3672,Kuskokwim River at Nikolai,1985,1985-05-09,129
-1462,3076,Kuskokwim River at Nikolai,1986,1986-05-05,125
-1461,3077,Kuskokwim River at Nikolai,1988,1988-04-26,117
-1460,3078,Kuskokwim River at Nikolai,1990,1990-04-12,102
-1459,3079,Kuskokwim River at Nikolai,1991,1991-04-24,114
-1458,3080,Kuskokwim River at Nikolai,1992,1992-04-24,115
-1457,3081,Kuskokwim River at Nikolai,1993,1993-04-13,103
-1456,3082,Kuskokwim River at Nikolai,1994,1994-04-22,112
-1455,3083,Kuskokwim River at Nikolai,1995,1995-04-17,107
-1454,3084,Kuskokwim River at Nikolai,1996,1996-04-30,121
-1453,3085,Kuskokwim River at Nikolai,1997,1997-04-23,113
-1452,3086,Kuskokwim River at Nikolai,1998,1998-04-10,100
-1451,3087,Kuskokwim River at Nikolai,1999,1999-04-24,114
-1450,3088,Kuskokwim River at Nikolai,2000,2000-04-21,112
-1449,3089,Kuskokwim River at Nikolai,2001,2001-04-23,113
-1448,3090,Kuskokwim River at Nikolai,2002,2002-05-01,121
-1380,3511,Kuskokwim River at Nikolai,2003,2003-04-21,111
-1389,3496,Kuskokwim River at Nikolai,2004,2004-04-18,109
-1371,3522,Kuskokwim River at Nikolai,2005,2005-04-15,105
-1357,3564,Kuskokwim River at Nikolai,2006,2006-04-25,115
-1344,3579,Kuskokwim River at Nikolai,2007,2007-04-21,111
-1330,3596,Kuskokwim River at Nikolai,2008,2008-04-26,117
-1320,3607,Kuskokwim River at Nikolai,2009,2009-04-25,115
-1308,3621,Kuskokwim River at Nikolai,2010,2010-04-25,115
-1296,3638,Kuskokwim River at Nikolai,2011,2011-04-24,114
-1284,3651,Kuskokwim River at Nikolai,2012,2012-04-19,110
-1268,3675,Kuskokwim River at Nikolai,2013,2013-05-09,129
-518,6578,Kuskokwim River at Nikolai,2014,2014-04-22,112
-478,6649,Kuskokwim River at Nikolai,2015,2015-04-15,105
-421,6716,Kuskokwim River at Nikolai,2016,2016-04-11,102
-378,6772,Kuskokwim River at Nikolai,2017,2017-04-23,113
-327,6867,Kuskokwim River at Nikolai,2018,2018-04-24,114
-279,6921,Kuskokwim River at Nikolai,2019,2019-03-31,90
-236,6971,Kuskokwim River at Nikolai,2020,2020-04-21,112
-191,7039,Kuskokwim River at Nikolai,2021,2021-04-23,113
-143,7124,Kuskokwim River at Nikolai,2022,2022-04-25,115
-95,7186,Kuskokwim River at Nikolai,2023,2023-05-02,122
-49,7245,Kuskokwim River at Nikolai,2024,2024-04-16,107
-1447,3102,Kuskokwim River at Red Devil,1983,1983-05-03,123
-1446,3103,Kuskokwim River at Red Devil,1984,1984-05-13,134
-1445,3104,Kuskokwim River at Red Devil,1985,1985-05-20,140
-1444,3105,Kuskokwim River at Red Devil,1986,1986-05-13,133
-1443,3107,Kuskokwim River at Red Devil,1988,1988-05-06,127
-1442,3108,Kuskokwim River at Red Devil,1989,1989-05-05,125
-1441,3109,Kuskokwim River at Red Devil,1990,1990-04-30,120
-1440,3110,Kuskokwim River at Red Devil,1991,1991-05-04,124
-1439,3111,Kuskokwim River at Red Devil,1992,1992-05-14,135
-1438,3112,Kuskokwim River at Red Devil,1993,1993-04-28,118
-1437,3113,Kuskokwim River at Red Devil,1994,1994-04-30,120
-1436,3114,Kuskokwim River at Red Devil,1995,1995-04-27,117
-1435,3115,Kuskokwim River at Red Devil,1996,1996-05-06,127
-1434,3116,Kuskokwim River at Red Devil,1997,1997-05-02,122
-1433,3117,Kuskokwim River at Red Devil,1999,1999-05-15,135
-1432,3118,Kuskokwim River at Red Devil,2001,2001-05-14,134
-1431,3119,Kuskokwim River at Red Devil,2002,2002-05-10,130
-1377,3514,Kuskokwim River at Red Devil,2003,2003-04-24,114
-1390,3495,Kuskokwim River at Red Devil,2004,2004-04-30,121
-1364,3557,Kuskokwim River at Red Devil,2005,2005-05-01,121
-1354,3567,Kuskokwim River at Red Devil,2006,2006-05-14,134
-1340,3583,Kuskokwim River at Red Devil,2007,2007-04-30,120
-1327,3599,Kuskokwim River at Red Devil,2008,2008-05-08,129
-1316,3611,Kuskokwim River at Red Devil,2009,2009-05-03,123
-1306,3624,Kuskokwim River at Red Devil,2010,2010-05-09,129
-1291,3644,Kuskokwim River at Red Devil,2011,2011-05-08,128
-1280,3655,Kuskokwim River at Red Devil,2012,2012-05-05,126
-1265,3678,Kuskokwim River at Red Devil,2013,2013-05-21,141
-514,6582,Kuskokwim River at Red Devil,2014,2014-05-01,121
-471,6659,Kuskokwim River at Red Devil,2015,2015-04-30,120
-419,6718,Kuskokwim River at Red Devil,2016,2016-04-19,110
-366,6787,Kuskokwim River at Red Devil,2017,2017-04-28,118
-325,6871,Kuskokwim River at Red Devil,2018,2018-04-29,119
-266,6936,Kuskokwim River at Red Devil,2019,2019-04-29,119
-229,6987,Kuskokwim River at Red Devil,2020,2020-04-28,119
-183,7051,Kuskokwim River at Red Devil,2021,2021-04-30,120
-123,7149,Kuskokwim River at Red Devil,2022,2022-05-08,128
-82,7200,Kuskokwim River at Red Devil,2023,2023-05-13,133
-38,7262,Kuskokwim River at Red Devil,2024,2024-05-01,122
-1430,3147,Kuskokwim River at Sleetmute,1984,1984-05-14,135
-1429,3148,Kuskokwim River at Sleetmute,1986,1986-05-14,134
-1428,3149,Kuskokwim River at Sleetmute,1987,1987-05-07,127
-1427,3150,Kuskokwim River at Sleetmute,1988,1988-05-06,127
-1426,3151,Kuskokwim River at Sleetmute,1990,1990-04-30,120
-1425,3152,Kuskokwim River at Sleetmute,1991,1991-05-02,122
-1424,3153,Kuskokwim River at Sleetmute,1992,1992-05-14,135
-1423,3154,Kuskokwim River at Sleetmute,1993,1993-04-27,117
-1422,3155,Kuskokwim River at Sleetmute,1994,1994-05-02,122
-1421,3156,Kuskokwim River at Sleetmute,1995,1995-04-27,117
-1420,3157,Kuskokwim River at Sleetmute,1996,1996-05-06,127
-1419,3158,Kuskokwim River at Sleetmute,1997,1997-05-01,121
-1346,3577,Kuskokwim River at Sleetmute,1998,1998-04-20,110
-1418,3159,Kuskokwim River at Sleetmute,1999,1999-05-15,135
-1417,3160,Kuskokwim River at Sleetmute,2002,2002-05-10,130
-1347,3576,Kuskokwim River at Sleetmute,2004,2004-04-30,121
-1365,3556,Kuskokwim River at Sleetmute,2005,2005-05-01,121
-1355,3566,Kuskokwim River at Sleetmute,2006,2006-05-14,134
-1341,3582,Kuskokwim River at Sleetmute,2007,2007-04-30,120
-1328,3598,Kuskokwim River at Sleetmute,2008,2008-05-09,130
-1317,3610,Kuskokwim River at Sleetmute,2009,2009-05-02,122
-1304,3627,Kuskokwim River at Sleetmute,2010,2010-05-08,128
-1292,3643,Kuskokwim River at Sleetmute,2011,2011-05-07,127
-1281,3654,Kuskokwim River at Sleetmute,2012,2012-04-30,121
-1266,3677,Kuskokwim River at Sleetmute,2013,2013-05-21,141
-515,6581,Kuskokwim River at Sleetmute,2014,2014-05-01,121
-470,6660,Kuskokwim River at Sleetmute,2015,2015-04-30,120
-420,6717,Kuskokwim River at Sleetmute,2016,2016-04-18,109
-367,6786,Kuskokwim River at Sleetmute,2017,2017-04-27,117
-324,6872,Kuskokwim River at Sleetmute,2018,2018-04-29,119
-268,6934,Kuskokwim River at Sleetmute,2019,2019-04-28,118
-230,6986,Kuskokwim River at Sleetmute,2020,2020-04-28,119
-188,7045,Kuskokwim River at Sleetmute,2021,2021-04-29,119
-124,7148,Kuskokwim River at Sleetmute,2022,2022-05-08,128
-85,7197,Kuskokwim River at Sleetmute,2023,2023-05-12,132
-43,7257,Kuskokwim River at Sleetmute,2024,2024-05-02,123
-1416,3177,Kuskokwim River at Stony River,1984,1984-05-14,135
-1415,3178,Kuskokwim River at Stony River,1985,1985-05-20,140
-1414,3179,Kuskokwim River at Stony River,1986,1986-05-14,134
-1413,3180,Kuskokwim River at Stony River,1987,1987-05-07,127
-1412,3181,Kuskokwim River at Stony River,1988,1988-05-05,126
-1411,3182,Kuskokwim River at Stony River,1989,1989-05-02,122
-1410,3183,Kuskokwim River at Stony River,1990,1990-04-30,120
-1409,3184,Kuskokwim River at Stony River,1991,1991-05-02,122
-1408,3185,Kuskokwim River at Stony River,1992,1992-05-14,135
+1867,251,Colville River at Umiat,1984,1984-05-25,146
+1828,1066,Colville River at Umiat,1985,1985-05-25,145
+1781,252,Colville River at Umiat,1986,1986-06-04,155
+1742,253,Colville River at Umiat,1987,1987-05-24,144
+1703,254,Colville River at Umiat,1988,1988-05-15,136
+1660,255,Colville River at Umiat,1989,1989-05-27,147
+1545,256,Colville River at Umiat,1992,1992-05-25,146
+1502,257,Colville River at Umiat,1993,1993-05-23,143
+1500,7402,Colville River at Umiat,1994,1994-05-19,139
+1425,258,Colville River at Umiat,1995,1995-05-10,130
+903,1024,Colville River at Umiat,2007,2007-05-30,150
+845,1027,Colville River at Umiat,2008,2008-05-25,146
+795,1041,Colville River at Umiat,2009,2009-05-18,138
+644,1063,Colville River at Umiat,2012,2012-05-23,144
+591,1092,Colville River at Umiat,2013,2013-05-28,148
+582,6618,Colville River at Umiat,2014,2014-05-14,134
+531,6704,Colville River at Umiat,2015,2015-05-15,135
+430,6825,Colville River at Umiat,2017,2017-05-26,146
+329,6969,Colville River at Umiat,2019,2019-05-18,138
+240,7098,Colville River at Umiat,2021,2021-05-28,148
+138,7231,Colville River at Umiat,2023,2023-05-22,142
+96,7308,Colville River at Umiat,2024,2024-06-04,156
+46,7399,Colville River at Umiat,2025,2025-06-13,164
+1967,364,Kobuk River at Ambler,1980,1980-05-13,134
+1945,1065,Kobuk River at Ambler,1981,1981-05-17,137
+1896,365,Kobuk River at Ambler,1983,1983-05-12,132
+1827,366,Kobuk River at Ambler,1985,1985-05-26,146
+1782,367,Kobuk River at Ambler,1986,1986-05-16,136
+1743,368,Kobuk River at Ambler,1987,1987-05-19,139
+1704,369,Kobuk River at Ambler,1988,1988-05-10,131
+1661,370,Kobuk River at Ambler,1989,1989-05-24,144
+1546,371,Kobuk River at Ambler,1992,1992-06-02,154
+1503,372,Kobuk River at Ambler,1993,1993-05-19,139
+1463,373,Kobuk River at Ambler,1994,1994-05-18,138
+1426,374,Kobuk River at Ambler,1995,1995-05-08,128
+1388,375,Kobuk River at Ambler,1996,1996-05-13,134
+1352,376,Kobuk River at Ambler,1997,1997-05-10,130
+1312,377,Kobuk River at Ambler,1998,1998-05-18,138
+1270,378,Kobuk River at Ambler,1999,1999-05-21,141
+1231,379,Kobuk River at Ambler,2000,2000-06-01,153
+1188,380,Kobuk River at Ambler,2001,2001-06-01,152
+1140,381,Kobuk River at Ambler,2002,2002-05-14,134
+1096,994,Kobuk River at Ambler,2003,2003-05-18,138
+1052,996,Kobuk River at Ambler,2004,2004-05-17,138
+1005,1028,Kobuk River at Ambler,2005,2005-05-12,132
+951,1011,Kobuk River at Ambler,2006,2006-05-22,142
+900,1021,Kobuk River at Ambler,2007,2007-05-19,139
+844,990,Kobuk River at Ambler,2008,2008-05-11,132
+793,1039,Kobuk River at Ambler,2009,2009-05-16,136
+740,1046,Kobuk River at Ambler,2010,2010-05-16,136
+692,1051,Kobuk River at Ambler,2011,2011-05-23,143
+638,1057,Kobuk River at Ambler,2012,2012-05-23,144
+588,1087,Kobuk River at Ambler,2013,2013-05-30,150
+580,6616,Kobuk River at Ambler,2014,2014-05-11,131
+529,6702,Kobuk River at Ambler,2015,2015-05-13,133
+480,6767,Kobuk River at Ambler,2016,2016-05-03,124
+429,6823,Kobuk River at Ambler,2017,2017-05-13,133
+377,6916,Kobuk River at Ambler,2018,2018-05-16,136
+280,7028,Kobuk River at Ambler,2020,2020-05-15,136
+234,7089,Kobuk River at Ambler,2021,2021-05-13,133
+181,7167,Kobuk River at Ambler,2022,2022-05-20,140
+88,7299,Kobuk River at Ambler,2024,2024-05-18,139
+39,7368,Kobuk River at Ambler,2025,2025-05-22,142
+1968,453,Kobuk River at Kobuk,1980,1980-05-08,129
+1944,454,Kobuk River at Kobuk,1981,1981-05-14,134
+1926,455,Kobuk River at Kobuk,1982,1982-05-24,144
+1868,456,Kobuk River at Kobuk,1984,1984-05-22,143
+1783,457,Kobuk River at Kobuk,1986,1986-05-23,143
+1744,458,Kobuk River at Kobuk,1987,1987-05-18,138
+1705,459,Kobuk River at Kobuk,1988,1988-05-05,126
+1662,460,Kobuk River at Kobuk,1989,1989-05-24,144
+1623,461,Kobuk River at Kobuk,1990,1990-05-14,134
+1585,462,Kobuk River at Kobuk,1991,1991-05-14,134
+1547,463,Kobuk River at Kobuk,1992,1992-05-28,149
+1504,464,Kobuk River at Kobuk,1993,1993-05-15,135
+1464,465,Kobuk River at Kobuk,1994,1994-05-12,132
+1427,466,Kobuk River at Kobuk,1995,1995-05-03,123
+1389,467,Kobuk River at Kobuk,1996,1996-05-13,134
+1313,469,Kobuk River at Kobuk,1998,1998-05-18,138
+1271,470,Kobuk River at Kobuk,1999,1999-05-18,138
+1232,471,Kobuk River at Kobuk,2000,2000-05-27,148
+1189,472,Kobuk River at Kobuk,2001,2001-05-29,149
+1141,473,Kobuk River at Kobuk,2002,2002-05-18,138
+1097,997,Kobuk River at Kobuk,2003,2003-05-12,132
+1004,1026,Kobuk River at Kobuk,2005,2005-05-08,128
+953,1014,Kobuk River at Kobuk,2006,2006-05-17,137
+897,1017,Kobuk River at Kobuk,2007,2007-05-04,124
+848,1032,Kobuk River at Kobuk,2008,2008-05-12,133
+791,1037,Kobuk River at Kobuk,2009,2009-05-13,133
+738,1043,Kobuk River at Kobuk,2010,2010-05-12,132
+695,1054,Kobuk River at Kobuk,2011,2011-05-21,141
+641,1060,Kobuk River at Kobuk,2012,2012-05-20,141
+586,1085,Kobuk River at Kobuk,2013,2013-05-30,150
+578,6614,Kobuk River at Kobuk,2014,2014-05-10,130
+527,6700,Kobuk River at Kobuk,2015,2015-05-11,131
+478,6765,Kobuk River at Kobuk,2016,2016-05-04,125
+427,6821,Kobuk River at Kobuk,2017,2017-05-12,132
+375,6914,Kobuk River at Kobuk,2018,2018-05-11,131
+327,6967,Kobuk River at Kobuk,2019,2019-05-14,134
+275,7022,Kobuk River at Kobuk,2020,2020-05-12,133
+235,7091,Kobuk River at Kobuk,2021,2021-05-11,131
+179,7164,Kobuk River at Kobuk,2022,2022-05-17,137
+137,7230,Kobuk River at Kobuk,2023,2023-05-20,140
+86,7297,Kobuk River at Kobuk,2024,2024-05-17,138
+33,7362,Kobuk River at Kobuk,2025,2025-05-16,136
+1927,528,Kobuk River at Shungnak,1982,1982-05-21,141
+1869,529,Kobuk River at Shungnak,1984,1984-05-24,145
+1784,530,Kobuk River at Shungnak,1986,1986-05-24,144
+1745,531,Kobuk River at Shungnak,1987,1987-05-17,137
+1706,532,Kobuk River at Shungnak,1988,1988-05-05,126
+1548,534,Kobuk River at Shungnak,1992,1992-05-31,152
+1505,535,Kobuk River at Shungnak,1993,1993-05-17,137
+1428,536,Kobuk River at Shungnak,1995,1995-05-07,127
+1390,537,Kobuk River at Shungnak,1996,1996-05-13,134
+1272,539,Kobuk River at Shungnak,1999,1999-05-21,141
+1233,540,Kobuk River at Shungnak,2000,2000-05-29,150
+1190,541,Kobuk River at Shungnak,2001,2001-05-29,149
+1142,542,Kobuk River at Shungnak,2002,2002-05-18,138
+1098,998,Kobuk River at Shungnak,2003,2003-05-11,131
+1051,993,Kobuk River at Shungnak,2004,2004-05-11,132
+1006,1029,Kobuk River at Shungnak,2005,2005-05-10,130
+950,1010,Kobuk River at Shungnak,2006,2006-05-21,141
+899,1020,Kobuk River at Shungnak,2007,2007-05-17,137
+849,1033,Kobuk River at Shungnak,2008,2008-05-13,134
+792,1038,Kobuk River at Shungnak,2009,2009-05-13,133
+739,1044,Kobuk River at Shungnak,2010,2010-05-15,135
+694,1053,Kobuk River at Shungnak,2011,2011-05-21,141
+642,1061,Kobuk River at Shungnak,2012,2012-05-19,140
+587,1086,Kobuk River at Shungnak,2013,2013-05-30,150
+579,6615,Kobuk River at Shungnak,2014,2014-05-10,130
+528,6701,Kobuk River at Shungnak,2015,2015-05-12,132
+479,6766,Kobuk River at Shungnak,2016,2016-05-04,125
+428,6822,Kobuk River at Shungnak,2017,2017-05-14,134
+376,6915,Kobuk River at Shungnak,2018,2018-05-16,136
+276,7024,Kobuk River at Shungnak,2020,2020-05-13,134
+236,7092,Kobuk River at Shungnak,2021,2021-05-12,132
+187,7173,Kobuk River at Shungnak,2022,2022-05-20,140
+87,7298,Kobuk River at Shungnak,2024,2024-05-17,138
+36,7365,Kobuk River at Shungnak,2025,2025-05-16,136
+1957,4700,Koyukuk River at Allakaket,1981,1981-05-08,128
+1924,6531,Koyukuk River at Allakaket,1983,1983-05-02,122
+1846,4702,Koyukuk River at Allakaket,1985,1985-05-20,140
+1807,4703,Koyukuk River at Allakaket,1986,1986-05-12,132
+1763,4704,Koyukuk River at Allakaket,1987,1987-05-09,129
+1684,4706,Koyukuk River at Allakaket,1989,1989-05-09,129
+1643,4707,Koyukuk River at Allakaket,1990,1990-05-11,131
+1606,4708,Koyukuk River at Allakaket,1991,1991-05-03,123
+1568,4709,Koyukuk River at Allakaket,1992,1992-05-25,146
+1529,4710,Koyukuk River at Allakaket,1993,1993-05-10,130
+1483,4711,Koyukuk River at Allakaket,1994,1994-05-03,123
+1411,4712,Koyukuk River at Allakaket,1996,1996-05-12,133
+1373,4713,Koyukuk River at Allakaket,1997,1997-05-03,123
+1332,4714,Koyukuk River at Allakaket,1998,1998-05-11,131
+1290,4715,Koyukuk River at Allakaket,1999,1999-05-13,133
+1249,4716,Koyukuk River at Allakaket,2000,2000-05-20,141
+1208,4717,Koyukuk River at Allakaket,2001,2001-05-23,143
+1165,4718,Koyukuk River at Allakaket,2002,2002-05-13,133
+1080,6224,Koyukuk River at Allakaket,2004,2004-05-05,126
+1030,6258,Koyukuk River at Allakaket,2005,2005-05-05,125
+996,6320,Koyukuk River at Allakaket,2006,2006-05-12,132
+928,6332,Koyukuk River at Allakaket,2007,2007-05-02,122
+883,6384,Koyukuk River at Allakaket,2008,2008-05-10,131
+840,6427,Koyukuk River at Allakaket,2009,2009-05-03,123
+774,6436,Koyukuk River at Allakaket,2010,2010-05-01,121
+728,6475,Koyukuk River at Allakaket,2011,2011-05-15,135
+688,6509,Koyukuk River at Allakaket,2012,2012-05-12,133
+634,6561,Koyukuk River at Allakaket,2013,2013-05-27,147
+575,6611,Koyukuk River at Allakaket,2014,2014-05-04,124
+524,6697,Koyukuk River at Allakaket,2015,2015-05-05,125
+477,6764,Koyukuk River at Allakaket,2016,2016-05-01,122
+424,6818,Koyukuk River at Allakaket,2017,2017-05-09,129
+361,6899,Koyukuk River at Allakaket,2018,2018-05-11,131
+331,7179,Koyukuk River at Allakaket,2019,2019-05-13,133
+267,7014,Koyukuk River at Allakaket,2020,2020-05-10,131
+224,7078,Koyukuk River at Allakaket,2021,2021-05-11,131
+157,7139,Koyukuk River at Allakaket,2022,2022-05-06,126
+115,7203,Koyukuk River at Allakaket,2023,2023-05-13,133
+94,7306,Koyukuk River at Allakaket,2024,2024-05-10,131
+26,7353,Koyukuk River at Allakaket,2025,2025-05-12,132
+1958,4758,Koyukuk River at Bettles,1981,1981-05-07,127
+1923,6530,Koyukuk River at Bettles,1983,1983-05-02,122
+1882,4760,Koyukuk River at Bettles,1984,1984-05-18,139
+1847,4761,Koyukuk River at Bettles,1985,1985-05-20,140
+1808,4762,Koyukuk River at Bettles,1986,1986-05-11,131
+1764,4763,Koyukuk River at Bettles,1987,1987-05-09,129
+1726,4764,Koyukuk River at Bettles,1988,1988-05-04,125
+1685,4765,Koyukuk River at Bettles,1989,1989-05-09,129
+1644,4766,Koyukuk River at Bettles,1990,1990-05-10,130
+1607,4767,Koyukuk River at Bettles,1991,1991-05-04,124
+1569,4768,Koyukuk River at Bettles,1992,1992-05-24,145
+1530,4769,Koyukuk River at Bettles,1993,1993-05-10,130
+1484,4770,Koyukuk River at Bettles,1994,1994-05-02,122
+1446,4771,Koyukuk River at Bettles,1995,1995-04-28,118
+1412,4772,Koyukuk River at Bettles,1996,1996-05-12,133
+1374,4773,Koyukuk River at Bettles,1997,1997-05-02,122
+1333,4774,Koyukuk River at Bettles,1998,1998-05-11,131
+1291,4775,Koyukuk River at Bettles,1999,1999-05-12,132
+1250,4776,Koyukuk River at Bettles,2000,2000-05-20,141
+1209,4777,Koyukuk River at Bettles,2001,2001-05-23,143
+1166,4778,Koyukuk River at Bettles,2002,2002-05-16,136
+1123,6211,Koyukuk River at Bettles,2003,2003-05-12,132
+1079,6220,Koyukuk River at Bettles,2004,2004-05-05,126
+1029,6257,Koyukuk River at Bettles,2005,2005-05-04,124
+995,6319,Koyukuk River at Bettles,2006,2006-05-11,131
+927,6331,Koyukuk River at Bettles,2007,2007-05-05,125
+890,6395,Koyukuk River at Bettles,2008,2008-05-10,131
+824,6411,Koyukuk River at Bettles,2009,2009-05-03,123
+769,6431,Koyukuk River at Bettles,2010,2010-04-30,120
+727,6474,Koyukuk River at Bettles,2011,2011-05-13,133
+668,6487,Koyukuk River at Bettles,2012,2012-05-10,131
+615,6541,Koyukuk River at Bettles,2013,2013-05-24,144
+574,6610,Koyukuk River at Bettles,2014,2014-05-03,123
+523,6696,Koyukuk River at Bettles,2015,2015-05-07,127
+476,6763,Koyukuk River at Bettles,2016,2016-04-30,121
+423,6817,Koyukuk River at Bettles,2017,2017-05-08,128
+356,6894,Koyukuk River at Bettles,2018,2018-05-11,131
+328,6968,Koyukuk River at Bettles,2019,2019-05-14,134
+266,7012,Koyukuk River at Bettles,2020,2020-05-09,130
+218,7070,Koyukuk River at Bettles,2021,2021-05-09,129
+189,7175,Koyukuk River at Bettles,2022,2022-05-05,125
+119,7207,Koyukuk River at Bettles,2023,2023-05-13,133
+93,7305,Koyukuk River at Bettles,2024,2024-05-10,131
+37,7366,Koyukuk River at Bettles,2025,2025-05-16,136
+1959,4807,Koyukuk River at Hughes,1981,1981-05-08,128
+1935,4808,Koyukuk River at Hughes,1982,1982-05-19,139
+1925,6538,Koyukuk River at Hughes,1983,1983-05-11,131
+1848,4809,Koyukuk River at Hughes,1985,1985-05-21,141
+1809,4810,Koyukuk River at Hughes,1986,1986-05-12,132
+1765,4811,Koyukuk River at Hughes,1987,1987-05-10,130
+1727,4812,Koyukuk River at Hughes,1988,1988-05-01,122
+1686,4813,Koyukuk River at Hughes,1989,1989-05-09,129
+1608,4814,Koyukuk River at Hughes,1991,1991-05-02,122
+1570,4815,Koyukuk River at Hughes,1992,1992-05-25,146
+1485,4816,Koyukuk River at Hughes,1994,1994-05-03,123
+1447,4817,Koyukuk River at Hughes,1995,1995-05-03,123
+1413,4818,Koyukuk River at Hughes,1996,1996-05-11,132
+1334,4819,Koyukuk River at Hughes,1998,1998-05-12,132
+1292,4820,Koyukuk River at Hughes,1999,1999-05-14,134
+1251,4821,Koyukuk River at Hughes,2000,2000-05-21,142
+1210,4822,Koyukuk River at Hughes,2001,2001-05-22,142
+1124,6241,Koyukuk River at Hughes,2003,2003-05-13,133
+1081,6225,Koyukuk River at Hughes,2004,2004-05-04,125
+993,6316,Koyukuk River at Hughes,2006,2006-05-13,133
+929,6333,Koyukuk River at Hughes,2007,2007-05-02,122
+891,6396,Koyukuk River at Hughes,2008,2008-05-10,131
+841,6428,Koyukuk River at Hughes,2009,2009-05-04,124
+771,6433,Koyukuk River at Hughes,2010,2010-05-02,122
+729,6476,Koyukuk River at Hughes,2011,2011-05-14,134
+689,6510,Koyukuk River at Hughes,2012,2012-05-12,133
+635,6562,Koyukuk River at Hughes,2013,2013-05-27,147
+576,6612,Koyukuk River at Hughes,2014,2014-05-05,125
+525,6698,Koyukuk River at Hughes,2015,2015-05-05,125
+458,6737,Koyukuk River at Hughes,2016,2016-04-30,121
+425,6819,Koyukuk River at Hughes,2017,2017-05-09,129
+365,6904,Koyukuk River at Hughes,2018,2018-05-11,131
+322,6962,Koyukuk River at Hughes,2019,2019-05-12,132
+269,7016,Koyukuk River at Hughes,2020,2020-05-10,131
+225,7079,Koyukuk River at Hughes,2021,2021-05-09,129
+158,7140,Koyukuk River at Hughes,2022,2022-05-08,128
+120,7208,Koyukuk River at Hughes,2023,2023-05-14,134
+95,7307,Koyukuk River at Hughes,2024,2024-05-11,132
+25,7352,Koyukuk River at Hughes,2025,2025-05-13,133
+1899,2717,Kuskokwim River at Akiak,1983,1983-05-11,131
+1834,2718,Kuskokwim River at Akiak,1985,1985-05-23,143
+1792,2719,Kuskokwim River at Akiak,1986,1986-05-15,135
+1751,2720,Kuskokwim River at Akiak,1987,1987-05-15,135
+1670,2722,Kuskokwim River at Akiak,1989,1989-05-09,129
+1628,2723,Kuskokwim River at Akiak,1990,1990-05-04,124
+1555,2725,Kuskokwim River at Akiak,1992,1992-05-24,145
+1514,2726,Kuskokwim River at Akiak,1993,1993-05-03,123
+1470,2727,Kuskokwim River at Akiak,1994,1994-05-05,125
+1434,2728,Kuskokwim River at Akiak,1995,1995-05-05,125
+1398,2729,Kuskokwim River at Akiak,1996,1996-05-09,130
+1359,2730,Kuskokwim River at Akiak,1997,1997-05-01,121
+1319,2731,Kuskokwim River at Akiak,1998,1998-05-02,122
+1277,2732,Kuskokwim River at Akiak,1999,1999-05-16,136
+1239,2733,Kuskokwim River at Akiak,2000,2000-05-10,131
+1197,2734,Kuskokwim River at Akiak,2001,2001-05-17,137
+1151,2735,Kuskokwim River at Akiak,2002,2002-05-16,136
+1112,3518,Kuskokwim River at Akiak,2003,2003-05-02,122
+1066,3505,Kuskokwim River at Akiak,2004,2004-05-01,122
+1022,3561,Kuskokwim River at Akiak,2005,2005-05-08,128
+969,3571,Kuskokwim River at Akiak,2006,2006-05-21,141
+919,3589,Kuskokwim River at Akiak,2007,2007-04-29,119
+866,3603,Kuskokwim River at Akiak,2008,2008-05-13,134
+812,3616,Kuskokwim River at Akiak,2009,2009-05-08,128
+759,3633,Kuskokwim River at Akiak,2010,2010-05-15,135
+709,3648,Kuskokwim River at Akiak,2011,2011-05-12,132
+659,3661,Kuskokwim River at Akiak,2012,2012-05-13,134
+607,3683,Kuskokwim River at Akiak,2013,2013-05-27,147
+553,6587,Kuskokwim River at Akiak,2014,2014-05-04,124
+504,6675,Kuskokwim River at Akiak,2015,2015-05-06,126
+446,6723,Kuskokwim River at Akiak,2016,2016-04-21,112
+400,6792,Kuskokwim River at Akiak,2017,2017-05-07,127
+345,6882,Kuskokwim River at Akiak,2018,2018-05-04,124
+308,6943,Kuskokwim River at Akiak,2019,2019-04-26,116
+254,6993,Kuskokwim River at Akiak,2020,2020-05-04,125
+206,7057,Kuskokwim River at Akiak,2021,2021-05-05,125
+164,7147,Kuskokwim River at Akiak,2022,2022-05-05,125
+127,7215,Kuskokwim River at Akiak,2023,2023-05-18,138
+80,7291,Kuskokwim River at Akiak,2024,2024-05-04,125
+17,7334,Kuskokwim River at Akiak,2025,2025-05-07,127
+1932,3670,Kuskokwim River at Aniak,1982,1982-05-15,135
+1900,2757,Kuskokwim River at Aniak,1983,1983-05-09,129
+1872,2758,Kuskokwim River at Aniak,1984,1984-05-13,134
+1835,2759,Kuskokwim River at Aniak,1985,1985-05-21,141
+1752,2761,Kuskokwim River at Aniak,1987,1987-05-09,129
+1714,2762,Kuskokwim River at Aniak,1988,1988-05-03,124
+1671,2763,Kuskokwim River at Aniak,1989,1989-05-09,129
+1629,2764,Kuskokwim River at Aniak,1990,1990-05-02,122
+1593,2765,Kuskokwim River at Aniak,1991,1991-05-08,128
+1556,2766,Kuskokwim River at Aniak,1992,1992-05-20,141
+1515,2767,Kuskokwim River at Aniak,1993,1993-04-28,118
+1471,2768,Kuskokwim River at Aniak,1994,1994-05-02,122
+1435,2769,Kuskokwim River at Aniak,1995,1995-05-03,123
+1399,2770,Kuskokwim River at Aniak,1996,1996-05-10,131
+1360,2771,Kuskokwim River at Aniak,1997,1997-05-01,121
+1320,2772,Kuskokwim River at Aniak,1998,1998-04-24,114
+1278,2773,Kuskokwim River at Aniak,1999,1999-05-16,136
+1240,2774,Kuskokwim River at Aniak,2000,2000-05-05,126
+1198,2775,Kuskokwim River at Aniak,2001,2001-05-17,137
+1152,2776,Kuskokwim River at Aniak,2002,2002-05-12,132
+1109,3515,Kuskokwim River at Aniak,2003,2003-05-01,121
+1064,3503,Kuskokwim River at Aniak,2004,2004-05-05,126
+1019,3558,Kuskokwim River at Aniak,2005,2005-05-03,123
+966,3568,Kuskokwim River at Aniak,2006,2006-05-14,134
+915,3585,Kuskokwim River at Aniak,2007,2007-04-29,119
+863,3600,Kuskokwim River at Aniak,2008,2008-05-10,131
+809,3613,Kuskokwim River at Aniak,2009,2009-05-03,123
+756,3629,Kuskokwim River at Aniak,2010,2010-05-11,131
+701,3639,Kuskokwim River at Aniak,2011,2011-05-16,136
+656,3658,Kuskokwim River at Aniak,2012,2012-05-06,127
+604,3680,Kuskokwim River at Aniak,2013,2013-05-26,146
+550,6584,Kuskokwim River at Aniak,2014,2014-05-01,121
+498,6668,Kuskokwim River at Aniak,2015,2015-05-04,124
+443,6720,Kuskokwim River at Aniak,2016,2016-04-19,110
+397,6789,Kuskokwim River at Aniak,2017,2017-05-03,123
+338,6874,Kuskokwim River at Aniak,2018,2018-05-01,121
+303,6938,Kuskokwim River at Aniak,2019,2019-04-29,119
+256,6995,Kuskokwim River at Aniak,2020,2020-05-01,122
+203,7054,Kuskokwim River at Aniak,2021,2021-05-03,123
+152,7134,Kuskokwim River at Aniak,2022,2022-05-01,121
+123,7211,Kuskokwim River at Aniak,2023,2022-05-15,135
+57,7261,Kuskokwim River at Aniak,2024,2024-05-02,123
+8,7324,Kuskokwim River at Aniak,2025,2025-05-01,121
+1971,2831,Kuskokwim River at Bethel,1980,1980-05-08,129
+1951,2832,Kuskokwim River at Bethel,1981,1981-05-08,128
+1930,2833,Kuskokwim River at Bethel,1982,1982-05-18,138
+1901,2834,Kuskokwim River at Bethel,1983,1983-05-11,131
+1873,2835,Kuskokwim River at Bethel,1984,1984-05-13,134
+1836,2836,Kuskokwim River at Bethel,1985,1985-05-25,145
+1793,2837,Kuskokwim River at Bethel,1986,1986-05-14,134
+1753,2838,Kuskokwim River at Bethel,1987,1987-05-18,138
+1715,2839,Kuskokwim River at Bethel,1988,1988-05-11,132
+1672,2840,Kuskokwim River at Bethel,1989,1989-05-11,131
+1630,2841,Kuskokwim River at Bethel,1990,1990-05-06,126
+1594,2842,Kuskokwim River at Bethel,1991,1991-05-08,128
+1557,2843,Kuskokwim River at Bethel,1992,1992-05-24,145
+1516,2844,Kuskokwim River at Bethel,1993,1993-05-02,122
+1472,2845,Kuskokwim River at Bethel,1994,1994-05-07,127
+1436,2846,Kuskokwim River at Bethel,1995,1995-05-06,126
+1400,2847,Kuskokwim River at Bethel,1996,1996-05-09,130
+1361,2848,Kuskokwim River at Bethel,1997,1997-05-02,122
+1321,2849,Kuskokwim River at Bethel,1998,1998-05-06,126
+1279,2850,Kuskokwim River at Bethel,1999,1999-05-18,138
+1241,2851,Kuskokwim River at Bethel,2000,2000-05-10,131
+1199,2852,Kuskokwim River at Bethel,2001,2001-05-16,136
+1153,2853,Kuskokwim River at Bethel,2002,2002-05-14,134
+1113,3519,Kuskokwim River at Bethel,2003,2003-05-02,122
+1061,3500,Kuskokwim River at Bethel,2004,2004-05-02,123
+1014,3536,Kuskokwim River at Bethel,2005,2005-05-09,129
+970,3573,Kuskokwim River at Bethel,2006,2006-05-23,143
+917,3587,Kuskokwim River at Bethel,2007,2007-05-03,123
+867,3604,Kuskokwim River at Bethel,2008,2008-05-13,134
+813,3617,Kuskokwim River at Bethel,2009,2009-05-09,129
+760,3634,Kuskokwim River at Bethel,2010,2010-05-17,137
+710,3649,Kuskokwim River at Bethel,2011,2011-05-11,131
+660,3664,Kuskokwim River at Bethel,2012,2012-05-15,136
+598,3674,Kuskokwim River at Bethel,2013,2013-05-29,149
+554,6588,Kuskokwim River at Bethel,2014,2014-05-02,122
+496,6666,Kuskokwim River at Bethel,2015,2015-05-04,124
+447,6724,Kuskokwim River at Bethel,2016,2016-04-20,111
+401,6794,Kuskokwim River at Bethel,2017,2017-05-06,126
+340,6876,Kuskokwim River at Bethel,2018,2018-05-02,122
+291,6926,Kuskokwim River at Bethel,2019,2019-04-12,102
+257,6999,Kuskokwim River at Bethel,2020,2020-05-03,124
+211,7062,Kuskokwim River at Bethel,2021,2021-05-06,126
+150,7132,Kuskokwim River at Bethel,2022,2022-05-05,125
+130,7220,Kuskokwim River at Bethel,2023,2023-05-20,140
+64,7272,Kuskokwim River at Bethel,2024,2024-05-08,129
+16,7333,Kuskokwim River at Bethel,2025,2025-05-06,126
+1952,2892,Kuskokwim River at Crooked Creek,1981,1981-05-03,123
+1902,2894,Kuskokwim River at Crooked Creek,1983,1983-05-06,126
+1874,2895,Kuskokwim River at Crooked Creek,1984,1984-05-15,136
+1837,2896,Kuskokwim River at Crooked Creek,1985,1985-05-20,140
+1794,2897,Kuskokwim River at Crooked Creek,1986,1986-05-13,133
+1754,2898,Kuskokwim River at Crooked Creek,1987,1987-05-09,129
+1716,2899,Kuskokwim River at Crooked Creek,1988,1988-05-06,127
+1673,2900,Kuskokwim River at Crooked Creek,1989,1989-05-02,122
+1595,2902,Kuskokwim River at Crooked Creek,1991,1991-05-04,124
+1558,2903,Kuskokwim River at Crooked Creek,1992,1992-05-16,137
+1517,2904,Kuskokwim River at Crooked Creek,1993,1993-04-26,116
+1437,2906,Kuskokwim River at Crooked Creek,1995,1995-04-28,118
+1401,2907,Kuskokwim River at Crooked Creek,1996,1996-05-03,124
+1280,2909,Kuskokwim River at Crooked Creek,1999,1999-05-15,135
+1242,2910,Kuskokwim River at Crooked Creek,2000,2000-05-01,122
+1200,2911,Kuskokwim River at Crooked Creek,2001,2001-05-14,134
+1154,2912,Kuskokwim River at Crooked Creek,2002,2002-05-12,132
+1104,3499,Kuskokwim River at Crooked Creek,2003,2003-04-27,117
+1062,3501,Kuskokwim River at Crooked Creek,2004,2004-05-03,124
+1015,3537,Kuskokwim River at Crooked Creek,2005,2005-05-01,121
+961,3563,Kuskokwim River at Crooked Creek,2006,2006-05-12,132
+914,3584,Kuskokwim River at Crooked Creek,2007,2007-04-29,119
+858,3595,Kuskokwim River at Crooked Creek,2008,2008-05-09,130
+808,3612,Kuskokwim River at Crooked Creek,2009,2009-05-03,123
+755,3628,Kuskokwim River at Crooked Creek,2010,2010-05-11,131
+706,3645,Kuskokwim River at Crooked Creek,2011,2011-05-09,129
+655,3656,Kuskokwim River at Crooked Creek,2012,2012-05-06,127
+603,3679,Kuskokwim River at Crooked Creek,2013,2013-05-22,142
+549,6583,Kuskokwim River at Crooked Creek,2014,2014-05-02,122
+503,6674,Kuskokwim River at Crooked Creek,2015,2015-04-29,119
+442,6719,Kuskokwim River at Crooked Creek,2016,2016-04-21,112
+396,6788,Kuskokwim River at Crooked Creek,2017,2017-05-03,123
+337,6873,Kuskokwim River at Crooked Creek,2018,2018-04-29,119
+300,6935,Kuskokwim River at Crooked Creek,2019,2019-04-29,119
+250,6988,Kuskokwim River at Crooked Creek,2020,2020-04-29,120
+202,7052,Kuskokwim River at Crooked Creek,2021,2021-05-03,123
+167,7150,Kuskokwim River at Crooked Creek,2022,2022-05-08,128
+113,7201,Kuskokwim River at Crooked Creek,2023,2023-05-13,133
+52,7255,Kuskokwim River at Crooked Creek,2024,2024-05-01,122
+5,7319,Kuskokwim River at Crooked Creek,2025,2025-04-28,118
+1795,2940,Kuskokwim River at Kalskag,1986,1986-05-20,140
+1755,2941,Kuskokwim River at Kalskag,1987,1987-05-16,136
+1674,2943,Kuskokwim River at Kalskag,1989,1989-05-09,129
+1631,2944,Kuskokwim River at Kalskag,1990,1990-05-02,122
+1596,2945,Kuskokwim River at Kalskag,1991,1991-05-09,129
+1518,2946,Kuskokwim River at Kalskag,1993,1993-04-28,118
+1473,2947,Kuskokwim River at Kalskag,1994,1994-05-04,124
+1438,2948,Kuskokwim River at Kalskag,1995,1995-05-03,123
+1362,2950,Kuskokwim River at Kalskag,1997,1997-04-30,120
+1322,2951,Kuskokwim River at Kalskag,1998,1998-04-26,116
+1281,2952,Kuskokwim River at Kalskag,1999,1999-05-16,136
+1243,2953,Kuskokwim River at Kalskag,2000,2000-05-06,127
+1201,2954,Kuskokwim River at Kalskag,2001,2001-05-14,134
+1155,2955,Kuskokwim River at Kalskag,2002,2002-05-16,136
+1110,3516,Kuskokwim River at Kalskag,2003,2003-05-02,122
+1065,3504,Kuskokwim River at Kalskag,2004,2004-05-02,123
+1020,3559,Kuskokwim River at Kalskag,2005,2005-05-04,124
+967,3569,Kuskokwim River at Kalskag,2006,2006-05-19,139
+916,3586,Kuskokwim River at Kalskag,2007,2007-04-30,120
+864,3601,Kuskokwim River at Kalskag,2008,2008-05-11,132
+810,3614,Kuskokwim River at Kalskag,2009,2009-05-07,127
+757,3631,Kuskokwim River at Kalskag,2010,2010-05-12,132
+707,3646,Kuskokwim River at Kalskag,2011,2011-05-12,132
+657,3659,Kuskokwim River at Kalskag,2012,2012-05-07,128
+605,3681,Kuskokwim River at Kalskag,2013,2013-05-25,145
+551,6585,Kuskokwim River at Kalskag,2014,2014-04-30,120
+505,6676,Kuskokwim River at Kalskag,2015,2015-05-05,125
+444,6721,Kuskokwim River at Kalskag,2016,2016-04-20,111
+398,6790,Kuskokwim River at Kalskag,2017,2017-05-04,124
+339,6875,Kuskokwim River at Kalskag,2018,2018-05-05,125
+304,6939,Kuskokwim River at Kalskag,2019,2019-04-29,119
+253,6992,Kuskokwim River at Kalskag,2020,2020-05-04,125
+210,7061,Kuskokwim River at Kalskag,2021,2021-05-06,126
+168,7151,Kuskokwim River at Kalskag,2022,2022-05-08,128
+125,7213,Kuskokwim River at Kalskag,2023,2023-05-15,135
+62,7269,Kuskokwim River at Kalskag,2024,2024-05-03,124
+14,7331,Kuskokwim River at Kalskag,2025,2025-05-05,125
+1972,2995,Kuskokwim River at McGrath,1980,1980-04-27,118
+1953,2996,Kuskokwim River at McGrath,1981,1981-05-03,123
+1931,2997,Kuskokwim River at McGrath,1982,1982-05-14,134
+1903,2998,Kuskokwim River at McGrath,1983,1983-05-05,125
+1875,2999,Kuskokwim River at McGrath,1984,1984-05-16,137
+1838,3000,Kuskokwim River at McGrath,1985,1985-05-22,142
+1796,3001,Kuskokwim River at McGrath,1986,1986-05-12,132
+1756,3002,Kuskokwim River at McGrath,1987,1987-05-08,128
+1717,3003,Kuskokwim River at McGrath,1988,1988-05-04,125
+1675,3004,Kuskokwim River at McGrath,1989,1989-05-05,125
+1632,3005,Kuskokwim River at McGrath,1990,1990-05-02,122
+1597,3006,Kuskokwim River at McGrath,1991,1991-05-05,125
+1559,3007,Kuskokwim River at McGrath,1992,1992-05-20,141
+1519,3008,Kuskokwim River at McGrath,1993,1993-04-30,120
+1474,3009,Kuskokwim River at McGrath,1994,1994-05-01,121
+1439,3010,Kuskokwim River at McGrath,1995,1995-04-30,120
+1402,3011,Kuskokwim River at McGrath,1996,1996-05-10,131
+1363,3012,Kuskokwim River at McGrath,1997,1997-05-02,122
+1323,3013,Kuskokwim River at McGrath,1998,1998-04-25,115
+1282,3014,Kuskokwim River at McGrath,1999,1999-05-13,133
+1244,3015,Kuskokwim River at McGrath,2000,2000-05-08,129
+1202,3016,Kuskokwim River at McGrath,2001,2001-05-16,136
+1156,3017,Kuskokwim River at McGrath,2002,2002-05-12,132
+1106,3512,Kuskokwim River at McGrath,2003,2003-05-04,124
+1063,3502,Kuskokwim River at McGrath,2004,2004-04-25,116
+1013,3523,Kuskokwim River at McGrath,2005,2005-05-03,123
+960,3552,Kuskokwim River at McGrath,2006,2006-05-12,132
+910,3580,Kuskokwim River at McGrath,2007,2007-04-30,120
+857,3594,Kuskokwim River at McGrath,2008,2008-05-10,131
+804,3608,Kuskokwim River at McGrath,2009,2009-05-04,124
+751,3622,Kuskokwim River at McGrath,2010,2010-05-03,123
+702,3640,Kuskokwim River at McGrath,2011,2011-05-05,125
+651,3652,Kuskokwim River at McGrath,2012,2012-04-30,121
+597,3673,Kuskokwim River at McGrath,2013,2013-05-24,144
+545,6579,Kuskokwim River at McGrath,2014,2014-04-30,120
+493,6662,Kuskokwim River at McGrath,2015,2015-04-30,120
+451,6728,Kuskokwim River at McGrath,2016,2016-04-24,115
+393,6785,Kuskokwim River at McGrath,2017,2017-05-04,124
+352,6889,Kuskokwim River at McGrath,2018,2018-05-09,129
+298,6933,Kuskokwim River at McGrath,2019,2019-04-28,118
+251,6990,Kuskokwim River at McGrath,2020,2020-05-02,123
+205,7056,Kuskokwim River at McGrath,2021,2021-05-04,124
+162,7145,Kuskokwim River at McGrath,2022,2022-05-09,129
+111,7199,Kuskokwim River at McGrath,2023,2023-05-13,133
+54,7258,Kuskokwim River at McGrath,2024,2024-05-01,122
+12,7329,Kuskokwim River at McGrath,2025,2025-05-03,123
+1797,3042,Kuskokwim River at Napakiak,1986,1986-05-17,137
+1757,3043,Kuskokwim River at Napakiak,1987,1987-05-19,139
+1676,3044,Kuskokwim River at Napakiak,1989,1989-05-14,134
+1633,3045,Kuskokwim River at Napakiak,1990,1990-05-08,128
+1598,3046,Kuskokwim River at Napakiak,1991,1991-05-09,129
+1560,3047,Kuskokwim River at Napakiak,1992,1992-05-24,145
+1520,3048,Kuskokwim River at Napakiak,1993,1993-05-04,124
+1475,3049,Kuskokwim River at Napakiak,1994,1994-05-08,128
+1403,3050,Kuskokwim River at Napakiak,1996,1996-05-10,131
+1364,3051,Kuskokwim River at Napakiak,1997,1997-05-02,122
+1245,3052,Kuskokwim River at Napakiak,2000,2000-05-16,137
+1023,3562,Kuskokwim River at Napakiak,2005,2005-05-10,130
+971,3574,Kuskokwim River at Napakiak,2006,2006-05-24,144
+918,3588,Kuskokwim River at Napakiak,2007,2007-05-03,123
+868,3605,Kuskokwim River at Napakiak,2008,2008-05-14,135
+814,3618,Kuskokwim River at Napakiak,2009,2009-05-11,131
+761,3636,Kuskokwim River at Napakiak,2010,2010-05-18,138
+711,3650,Kuskokwim River at Napakiak,2011,2011-05-13,133
+661,3665,Kuskokwim River at Napakiak,2012,2012-05-16,137
+608,3685,Kuskokwim River at Napakiak,2013,2013-05-30,150
+499,6670,Kuskokwim River at Napakiak,2015,2015-05-03,123
+448,6725,Kuskokwim River at Napakiak,2016,2016-04-20,111
+402,6795,Kuskokwim River at Napakiak,2017,2017-05-08,128
+347,6884,Kuskokwim River at Napakiak,2018,2018-05-05,125
+293,6928,Kuskokwim River at Napakiak,2019,2019-04-14,104
+284,7032,Kuskokwim River at Napakiak,2020,2020-05-03,124
+213,7065,Kuskokwim River at Napakiak,2021,2021-05-08,128
+170,7154,Kuskokwim River at Napakiak,2022,2022-05-05,125
+136,7227,Kuskokwim River at Napakiak,2023,2023-05-20,140
+63,7271,Kuskokwim River at Napakiak,2024,2024-05-10,131
+18,7336,Kuskokwim River at Napakiak,2025,2025-05-07,127
+1876,3075,Kuskokwim River at Nikolai,1984,1984-05-03,124
+1841,3672,Kuskokwim River at Nikolai,1985,1985-05-09,129
+1798,3076,Kuskokwim River at Nikolai,1986,1986-05-05,125
+1718,3077,Kuskokwim River at Nikolai,1988,1988-04-26,117
+1634,3078,Kuskokwim River at Nikolai,1990,1990-04-12,102
+1599,3079,Kuskokwim River at Nikolai,1991,1991-04-24,114
+1561,3080,Kuskokwim River at Nikolai,1992,1992-04-24,115
+1521,3081,Kuskokwim River at Nikolai,1993,1993-04-13,103
+1476,3082,Kuskokwim River at Nikolai,1994,1994-04-22,112
+1440,3083,Kuskokwim River at Nikolai,1995,1995-04-17,107
+1404,3084,Kuskokwim River at Nikolai,1996,1996-04-30,121
+1365,3085,Kuskokwim River at Nikolai,1997,1997-04-23,113
+1324,3086,Kuskokwim River at Nikolai,1998,1998-04-10,100
+1283,3087,Kuskokwim River at Nikolai,1999,1999-04-24,114
+1246,3088,Kuskokwim River at Nikolai,2000,2000-04-21,112
+1203,3089,Kuskokwim River at Nikolai,2001,2001-04-23,113
+1157,3090,Kuskokwim River at Nikolai,2002,2002-05-01,121
+1105,3511,Kuskokwim River at Nikolai,2003,2003-04-21,111
+1059,3496,Kuskokwim River at Nikolai,2004,2004-04-18,109
+1012,3522,Kuskokwim River at Nikolai,2005,2005-04-15,105
+962,3564,Kuskokwim River at Nikolai,2006,2006-04-25,115
+909,3579,Kuskokwim River at Nikolai,2007,2007-04-21,111
+859,3596,Kuskokwim River at Nikolai,2008,2008-04-26,117
+803,3607,Kuskokwim River at Nikolai,2009,2009-04-25,115
+750,3621,Kuskokwim River at Nikolai,2010,2010-04-25,115
+700,3638,Kuskokwim River at Nikolai,2011,2011-04-24,114
+650,3651,Kuskokwim River at Nikolai,2012,2012-04-19,110
+599,3675,Kuskokwim River at Nikolai,2013,2013-05-09,129
+544,6578,Kuskokwim River at Nikolai,2014,2014-04-22,112
+483,6649,Kuskokwim River at Nikolai,2015,2015-04-15,105
+439,6716,Kuskokwim River at Nikolai,2016,2016-04-11,102
+384,6772,Kuskokwim River at Nikolai,2017,2017-04-23,113
+333,6867,Kuskokwim River at Nikolai,2018,2018-04-24,114
+288,6921,Kuskokwim River at Nikolai,2019,2019-03-31,90
+242,6971,Kuskokwim River at Nikolai,2020,2020-04-21,112
+193,7039,Kuskokwim River at Nikolai,2021,2021-04-23,113
+146,7124,Kuskokwim River at Nikolai,2022,2022-04-25,115
+99,7186,Kuskokwim River at Nikolai,2023,2023-05-02,122
+47,7245,Kuskokwim River at Nikolai,2024,2024-04-16,107
+0,7313,Kuskokwim River at Nikolai,2025,2025-04-22,112
+1904,3102,Kuskokwim River at Red Devil,1983,1983-05-03,123
+1877,3103,Kuskokwim River at Red Devil,1984,1984-05-13,134
+1839,3104,Kuskokwim River at Red Devil,1985,1985-05-20,140
+1799,3105,Kuskokwim River at Red Devil,1986,1986-05-13,133
+1719,3107,Kuskokwim River at Red Devil,1988,1988-05-06,127
+1677,3108,Kuskokwim River at Red Devil,1989,1989-05-05,125
+1635,3109,Kuskokwim River at Red Devil,1990,1990-04-30,120
+1600,3110,Kuskokwim River at Red Devil,1991,1991-05-04,124
+1562,3111,Kuskokwim River at Red Devil,1992,1992-05-14,135
+1522,3112,Kuskokwim River at Red Devil,1993,1993-04-28,118
+1477,3113,Kuskokwim River at Red Devil,1994,1994-04-30,120
+1441,3114,Kuskokwim River at Red Devil,1995,1995-04-27,117
+1405,3115,Kuskokwim River at Red Devil,1996,1996-05-06,127
+1366,3116,Kuskokwim River at Red Devil,1997,1997-05-02,122
+1284,3117,Kuskokwim River at Red Devil,1999,1999-05-15,135
+1204,3118,Kuskokwim River at Red Devil,2001,2001-05-14,134
+1158,3119,Kuskokwim River at Red Devil,2002,2002-05-10,130
+1108,3514,Kuskokwim River at Red Devil,2003,2003-04-24,114
+1058,3495,Kuskokwim River at Red Devil,2004,2004-04-30,121
+1018,3557,Kuskokwim River at Red Devil,2005,2005-05-01,121
+965,3567,Kuskokwim River at Red Devil,2006,2006-05-14,134
+913,3583,Kuskokwim River at Red Devil,2007,2007-04-30,120
+862,3599,Kuskokwim River at Red Devil,2008,2008-05-08,129
+807,3611,Kuskokwim River at Red Devil,2009,2009-05-03,123
+752,3624,Kuskokwim River at Red Devil,2010,2010-05-09,129
+705,3644,Kuskokwim River at Red Devil,2011,2011-05-08,128
+654,3655,Kuskokwim River at Red Devil,2012,2012-05-05,126
+602,3678,Kuskokwim River at Red Devil,2013,2013-05-21,141
+548,6582,Kuskokwim River at Red Devil,2014,2014-05-01,121
+490,6659,Kuskokwim River at Red Devil,2015,2015-04-30,120
+441,6718,Kuskokwim River at Red Devil,2016,2016-04-19,110
+395,6787,Kuskokwim River at Red Devil,2017,2017-04-28,118
+335,6871,Kuskokwim River at Red Devil,2018,2018-04-29,119
+301,6936,Kuskokwim River at Red Devil,2019,2019-04-29,119
+249,6987,Kuskokwim River at Red Devil,2020,2020-04-28,119
+201,7051,Kuskokwim River at Red Devil,2021,2021-04-30,120
+166,7149,Kuskokwim River at Red Devil,2022,2022-05-08,128
+112,7200,Kuskokwim River at Red Devil,2023,2023-05-13,133
+58,7262,Kuskokwim River at Red Devil,2024,2024-05-01,122
+3,7317,Kuskokwim River at Red Devil,2025,2025-04-28,118
+1878,3147,Kuskokwim River at Sleetmute,1984,1984-05-14,135
+1800,3148,Kuskokwim River at Sleetmute,1986,1986-05-14,134
+1758,3149,Kuskokwim River at Sleetmute,1987,1987-05-07,127
+1720,3150,Kuskokwim River at Sleetmute,1988,1988-05-06,127
+1636,3151,Kuskokwim River at Sleetmute,1990,1990-04-30,120
+1601,3152,Kuskokwim River at Sleetmute,1991,1991-05-02,122
+1563,3153,Kuskokwim River at Sleetmute,1992,1992-05-14,135
+1523,3154,Kuskokwim River at Sleetmute,1993,1993-04-27,117
+1478,3155,Kuskokwim River at Sleetmute,1994,1994-05-02,122
+1442,3156,Kuskokwim River at Sleetmute,1995,1995-04-27,117
+1406,3157,Kuskokwim River at Sleetmute,1996,1996-05-06,127
+1367,3158,Kuskokwim River at Sleetmute,1997,1997-05-01,121
+1327,3577,Kuskokwim River at Sleetmute,1998,1998-04-20,110
+1285,3159,Kuskokwim River at Sleetmute,1999,1999-05-15,135
+1159,3160,Kuskokwim River at Sleetmute,2002,2002-05-10,130
+1067,3576,Kuskokwim River at Sleetmute,2004,2004-04-30,121
+1017,3556,Kuskokwim River at Sleetmute,2005,2005-05-01,121
+964,3566,Kuskokwim River at Sleetmute,2006,2006-05-14,134
+912,3582,Kuskokwim River at Sleetmute,2007,2007-04-30,120
+861,3598,Kuskokwim River at Sleetmute,2008,2008-05-09,130
+806,3610,Kuskokwim River at Sleetmute,2009,2009-05-02,122
+754,3627,Kuskokwim River at Sleetmute,2010,2010-05-08,128
+704,3643,Kuskokwim River at Sleetmute,2011,2011-05-07,127
+653,3654,Kuskokwim River at Sleetmute,2012,2012-04-30,121
+601,3677,Kuskokwim River at Sleetmute,2013,2013-05-21,141
+547,6581,Kuskokwim River at Sleetmute,2014,2014-05-01,121
+491,6660,Kuskokwim River at Sleetmute,2015,2015-04-30,120
+440,6717,Kuskokwim River at Sleetmute,2016,2016-04-18,109
+394,6786,Kuskokwim River at Sleetmute,2017,2017-04-27,117
+336,6872,Kuskokwim River at Sleetmute,2018,2018-04-29,119
+299,6934,Kuskokwim River at Sleetmute,2019,2019-04-28,118
+248,6986,Kuskokwim River at Sleetmute,2020,2020-04-28,119
+196,7045,Kuskokwim River at Sleetmute,2021,2021-04-29,119
+165,7148,Kuskokwim River at Sleetmute,2022,2022-05-08,128
+109,7197,Kuskokwim River at Sleetmute,2023,2023-05-12,132
+53,7257,Kuskokwim River at Sleetmute,2024,2024-05-02,123
+2,7316,Kuskokwim River at Sleetmute,2025,2025-04-27,117
+1879,3177,Kuskokwim River at Stony River,1984,1984-05-14,135
+1840,3178,Kuskokwim River at Stony River,1985,1985-05-20,140
+1801,3179,Kuskokwim River at Stony River,1986,1986-05-14,134
+1759,3180,Kuskokwim River at Stony River,1987,1987-05-07,127
+1721,3181,Kuskokwim River at Stony River,1988,1988-05-05,126
+1678,3182,Kuskokwim River at Stony River,1989,1989-05-02,122
+1637,3183,Kuskokwim River at Stony River,1990,1990-04-30,120
+1602,3184,Kuskokwim River at Stony River,1991,1991-05-02,122
+1564,3185,Kuskokwim River at Stony River,1992,1992-05-14,135
 1407,3186,Kuskokwim River at Stony River,1996,1996-05-06,127
-1406,3187,Kuskokwim River at Stony River,1997,1997-04-30,120
-1405,3188,Kuskokwim River at Stony River,1998,1998-04-28,118
-1404,3189,Kuskokwim River at Stony River,1999,1999-05-13,133
-1403,3190,Kuskokwim River at Stony River,2001,2001-05-11,131
-1402,3191,Kuskokwim River at Stony River,2002,2002-05-07,127
-1378,3513,Kuskokwim River at Stony River,2003,2003-05-02,122
-1388,3497,Kuskokwim River at Stony River,2004,2004-04-30,121
-1366,3554,Kuskokwim River at Stony River,2005,2005-05-02,122
-1356,3565,Kuskokwim River at Stony River,2006,2006-05-11,131
-1342,3581,Kuskokwim River at Stony River,2007,2007-04-29,119
-1329,3597,Kuskokwim River at Stony River,2008,2008-05-06,127
-1318,3609,Kuskokwim River at Stony River,2009,2009-05-02,122
-1305,3625,Kuskokwim River at Stony River,2010,2010-05-07,127
-1293,3642,Kuskokwim River at Stony River,2011,2011-05-01,121
-1282,3653,Kuskokwim River at Stony River,2012,2012-04-30,121
-1267,3676,Kuskokwim River at Stony River,2013,2013-05-20,140
-516,6580,Kuskokwim River at Stony River,2014,2014-05-02,122
-472,6658,Kuskokwim River at Stony River,2015,2015-04-30,120
-410,6727,Kuskokwim River at Stony River,2016,2016-04-23,114
-375,6776,Kuskokwim River at Stony River,2017,2017-04-26,116
-319,6878,Kuskokwim River at Stony River,2018,2018-05-02,122
-258,6944,Kuskokwim River at Stony River,2019,2019-04-28,118
-195,7031,Kuskokwim River at Stony River,2020,2020-04-28,119
-184,7050,Kuskokwim River at Stony River,2021,2021-04-30,120
-138,7133,Kuskokwim River at Stony River,2022,2022-05-05,125
-86,7196,Kuskokwim River at Stony River,2023,2023-05-12,132
-37,7265,Kuskokwim River at Stony River,2024,2024-05-02,123
-1398,3202,Kuskokwim River at Tuluksak,1984,1984-05-18,139
-1397,3203,Kuskokwim River at Tuluksak,1986,1986-05-16,136
-1396,3204,Kuskokwim River at Tuluksak,1990,1990-05-02,122
-1401,3197,Kuskokwim River at Tuluksak,1994,1994-05-07,127
-1400,3198,Kuskokwim River at Tuluksak,1995,1995-05-04,124
-1399,3199,Kuskokwim River at Tuluksak,1996,1996-05-09,130
-1395,3205,Kuskokwim River at Tuluksak,1998,1998-04-30,120
-1394,3206,Kuskokwim River at Tuluksak,1999,1999-05-18,138
-1393,3207,Kuskokwim River at Tuluksak,2000,2000-05-07,128
-1392,3208,Kuskokwim River at Tuluksak,2001,2001-05-17,137
-1391,3209,Kuskokwim River at Tuluksak,2002,2002-05-16,136
-1374,3517,Kuskokwim River at Tuluksak,2003,2003-05-02,122
-1345,3578,Kuskokwim River at Tuluksak,2004,2004-05-02,123
-1361,3560,Kuskokwim River at Tuluksak,2005,2005-05-07,127
-1351,3570,Kuskokwim River at Tuluksak,2006,2006-05-21,141
-1333,3590,Kuskokwim River at Tuluksak,2007,2007-05-01,121
-1324,3602,Kuskokwim River at Tuluksak,2008,2008-05-12,133
-1312,3615,Kuskokwim River at Tuluksak,2009,2009-05-06,126
-1300,3632,Kuskokwim River at Tuluksak,2010,2010-05-15,135
-1288,3647,Kuskokwim River at Tuluksak,2011,2011-05-09,129
-1276,3660,Kuskokwim River at Tuluksak,2012,2012-05-13,134
-1261,3682,Kuskokwim River at Tuluksak,2013,2013-05-25,145
-510,6586,Kuskokwim River at Tuluksak,2014,2014-05-04,124
-461,6671,Kuskokwim River at Tuluksak,2015,2015-05-05,125
-415,6722,Kuskokwim River at Tuluksak,2016,2016-04-21,112
-362,6791,Kuskokwim River at Tuluksak,2017,2017-05-07,127
-318,6879,Kuskokwim River at Tuluksak,2018,2018-05-04,124
-262,6940,Kuskokwim River at Tuluksak,2019,2019-04-30,120
-223,6994,Kuskokwim River at Tuluksak,2020,2020-05-04,125
-172,7063,Kuskokwim River at Tuluksak,2021,2021-05-06,126
-120,7152,Kuskokwim River at Tuluksak,2022,2022-05-04,124
-69,7214,Kuskokwim River at Tuluksak,2023,2023-05-18,138
-16,7292,Kuskokwim River at Tuluksak,2024,2024-05-04,125
-1593,2276,Susitna River at Sunshine,1980,1980-05-01,122
-1592,2277,Susitna River at Sunshine,1981,1981-05-06,126
-1591,2278,Susitna River at Sunshine,1983,1983-05-03,123
-1676,1997,Susitna River at Sunshine,1984,1984-05-03,124
-1675,1998,Susitna River at Sunshine,1985,1985-05-16,136
-1674,1999,Susitna River at Sunshine,1986,1986-05-06,126
-1673,2000,Susitna River at Sunshine,1987,1987-04-27,117
-1672,2001,Susitna River at Sunshine,1988,1988-04-26,117
-1671,2002,Susitna River at Sunshine,1989,1989-05-02,122
-1670,2003,Susitna River at Sunshine,1990,1990-05-03,123
-1669,2004,Susitna River at Sunshine,1991,1991-05-04,124
-1668,2006,Susitna River at Sunshine,1993,1993-05-04,124
-1667,2007,Susitna River at Sunshine,1994,1994-05-01,121
-1666,2008,Susitna River at Sunshine,1996,1996-05-03,124
-1665,2009,Susitna River at Sunshine,1997,1997-05-03,123
-1664,2010,Susitna River at Sunshine,1998,1998-04-23,113
-1663,2011,Susitna River at Sunshine,2002,2002-05-14,134
-1629,2197,Susitna River at Sunshine,2004,2004-04-23,114
-1635,2179,Susitna River at Sunshine,2005,2005-04-29,119
-1617,2219,Susitna River at Sunshine,2006,2006-05-07,127
-1614,2230,Susitna River at Sunshine,2007,2007-05-03,123
-1610,2234,Susitna River at Sunshine,2008,2008-05-08,129
-1605,2245,Susitna River at Sunshine,2009,2009-05-04,124
-1603,2249,Susitna River at Sunshine,2010,2010-04-29,119
-1595,2271,Susitna River at Sunshine,2012,2012-04-27,118
-527,6568,Susitna River at Sunshine,2014,2014-05-02,122
-475,6654,Susitna River at Sunshine,2015,2015-04-30,120
-424,6713,Susitna River at Sunshine,2016,2016-04-16,107
-329,6828,Susitna River at Sunshine,2017,2017-04-29,119
-314,6883,Susitna River at Sunshine,2018,2018-05-04,124
-271,6931,Susitna River at Sunshine,2019,2019-04-17,107
-193,7036,Susitna River at Sunshine,2020,2020-05-01,122
-180,7055,Susitna River at Sunshine,2021,2021-04-29,119
-134,7137,Susitna River at Sunshine,2022,2022-05-05,125
-88,7193,Susitna River at Sunshine,2023,2023-05-10,130
-41,7259,Susitna River at Sunshine,2024,2024-05-01,122
-1234,4083,Tanana River at Fairbanks D-S of Chena R,1986,1986-05-08,128
-1233,4084,Tanana River at Fairbanks D-S of Chena R,1988,1988-04-26,117
-1232,4085,Tanana River at Fairbanks D-S of Chena R,1989,1989-04-30,120
-1231,4087,Tanana River at Fairbanks D-S of Chena R,1991,1991-04-27,117
-1230,4089,Tanana River at Fairbanks D-S of Chena R,1993,1993-04-25,115
-1229,4092,Tanana River at Fairbanks D-S of Chena R,1997,1997-05-01,121
-1193,4343,Tanana River at Fairbanks D-S of Chena R,2004,2004-04-23,114
-1171,4394,Tanana River at Fairbanks D-S of Chena R,2005,2005-04-28,118
-1180,4377,Tanana River at Fairbanks D-S of Chena R,2006,2006-05-06,126
-1173,4391,Tanana River at Fairbanks D-S of Chena R,2007,2007-04-24,114
-1168,4398,Tanana River at Fairbanks D-S of Chena R,2008,2008-05-07,128
-1163,4410,Tanana River at Fairbanks D-S of Chena R,2009,2009-05-02,122
-1159,4416,Tanana River at Fairbanks D-S of Chena R,2010,2010-04-29,119
-1150,4435,Tanana River at Fairbanks D-S of Chena R,2012,2012-04-25,116
-1139,4452,Tanana River at Fairbanks D-S of Chena R,2013,2013-05-16,136
-521,6575,Tanana River at Fairbanks D-S of Chena R,2014,2014-04-29,119
-469,6661,Tanana River at Fairbanks D-S of Chena R,2015,2015-04-30,120
-422,6715,Tanana River at Fairbanks D-S of Chena R,2016,2016-04-18,109
-370,6782,Tanana River at Fairbanks D-S of Chena R,2017,2017-05-01,121
-272,6930,Tanana River at Fairbanks D-S of Chena R,2019,2019-04-15,105
-175,7060,Tanana River at Fairbanks D-S of Chena R,2021,2021-05-05,125
-5,7304,Tanana River at Fairbanks D-S of Chena R,2024,2023-04-30,120
-1217,4222,Tanana River at Nenana,1980,1980-04-29,120
-1216,4223,Tanana River at Nenana,1981,1981-04-30,120
-1215,4224,Tanana River at Nenana,1982,1982-05-10,130
-1214,4225,Tanana River at Nenana,1983,1983-04-29,119
-1213,4226,Tanana River at Nenana,1984,1984-05-09,130
-1212,4227,Tanana River at Nenana,1985,1985-05-11,131
-1211,4228,Tanana River at Nenana,1986,1986-05-08,128
-1210,4229,Tanana River at Nenana,1987,1987-05-05,125
-1209,4230,Tanana River at Nenana,1988,1988-04-27,118
-1208,4231,Tanana River at Nenana,1989,1989-05-01,121
-1207,4232,Tanana River at Nenana,1990,1990-04-24,114
-1206,4233,Tanana River at Nenana,1991,1991-05-01,121
-1205,4234,Tanana River at Nenana,1992,1992-05-14,135
-1204,4235,Tanana River at Nenana,1993,1993-04-24,114
-1203,4236,Tanana River at Nenana,1994,1994-04-29,119
-1202,4237,Tanana River at Nenana,1995,1995-04-26,116
-1201,4238,Tanana River at Nenana,1996,1996-05-06,127
-1200,4239,Tanana River at Nenana,1997,1997-04-30,120
-1199,4240,Tanana River at Nenana,1998,1998-04-20,110
-1195,4339,Tanana River at Nenana,1999,1999-04-29,119
-1198,4242,Tanana River at Nenana,2000,2000-05-01,122
-1197,4243,Tanana River at Nenana,2001,2001-05-08,128
-1196,4244,Tanana River at Nenana,2002,2002-05-07,127
-1191,4350,Tanana River at Nenana,2003,2003-04-29,119
-1186,4368,Tanana River at Nenana,2004,2004-04-24,115
-1185,4369,Tanana River at Nenana,2005,2005-04-28,118
-1179,4378,Tanana River at Nenana,2006,2006-05-07,127
-1176,4388,Tanana River at Nenana,2007,2007-04-27,117
-1169,4396,Tanana River at Nenana,2008,2008-05-06,127
-1162,4411,Tanana River at Nenana,2009,2009-05-01,121
-1158,4417,Tanana River at Nenana,2010,2010-04-29,119
-1155,4426,Tanana River at Nenana,2011,2011-05-04,124
-1149,4437,Tanana River at Nenana,2012,2012-04-23,114
-1138,4453,Tanana River at Nenana,2013,2013-05-20,140
-520,6576,Tanana River at Nenana,2014,2014-04-25,115
-477,6650,Tanana River at Nenana,2015,2015-04-24,114
-396,6749,Tanana River at Nenana,2016,2016-04-23,114
-369,6783,Tanana River at Nenana,2017,2017-05-01,121
-293,6906,Tanana River at Nenana,2018,2018-05-01,121
-275,6927,Tanana River at Nenana,2019,2019-04-14,104
-233,6977,Tanana River at Nenana,2020,2020-04-27,118
-186,7047,Tanana River at Nenana,2021,2021-04-30,120
-140,7129,Tanana River at Nenana,2022,2022-05-02,122
-91,7190,Tanana River at Nenana,2023,2023-05-08,128
-47,7248,Tanana River at Nenana,2024,2024-04-27,118
-1146,4443,Tanana River nr Manley Hot Springs,1980,1980-04-29,120
-1145,4444,Tanana River nr Manley Hot Springs,1981,1981-05-06,126
-1228,4125,Tanana River nr Manley Hot Springs,1985,1985-05-15,135
-1227,4126,Tanana River nr Manley Hot Springs,1987,1987-05-07,127
-1226,4127,Tanana River nr Manley Hot Springs,1988,1988-05-02,123
-1225,4128,Tanana River nr Manley Hot Springs,1989,1989-05-04,124
-1224,4129,Tanana River nr Manley Hot Springs,1990,1990-04-16,106
-1223,4131,Tanana River nr Manley Hot Springs,1992,1992-05-19,140
-1222,4132,Tanana River nr Manley Hot Springs,1993,1993-04-26,116
-1221,4133,Tanana River nr Manley Hot Springs,1994,1994-05-01,121
-1220,4137,Tanana River nr Manley Hot Springs,1998,1998-04-22,112
-1219,4138,Tanana River nr Manley Hot Springs,1999,1999-05-07,127
-1218,4141,Tanana River nr Manley Hot Springs,2002,2002-05-10,130
-1190,4351,Tanana River nr Manley Hot Springs,2003,2003-05-03,123
-1189,4360,Tanana River nr Manley Hot Springs,2004,2004-04-28,119
-1188,4362,Tanana River nr Manley Hot Springs,2005,2005-04-30,120
-1178,4380,Tanana River nr Manley Hot Springs,2006,2006-05-08,128
-1177,4386,Tanana River nr Manley Hot Springs,2007,2007-04-26,116
-1166,4405,Tanana River nr Manley Hot Springs,2008,2008-05-09,130
-1165,4406,Tanana River nr Manley Hot Springs,2009,2009-05-03,123
-1157,4419,Tanana River nr Manley Hot Springs,2010,2010-05-01,121
-1156,4424,Tanana River nr Manley Hot Springs,2011,2011-05-08,128
-1153,4431,Tanana River nr Manley Hot Springs,2012,2012-04-28,119
-1142,4448,Tanana River nr Manley Hot Springs,2013,2013-05-23,143
-519,6577,Tanana River nr Manley Hot Springs,2014,2014-04-29,119
-467,6663,Tanana River nr Manley Hot Springs,2015,2015-05-01,121
-395,6750,Tanana River nr Manley Hot Springs,2016,2016-04-28,119
-306,6891,Tanana River nr Manley Hot Springs,2018,2018-05-08,128
-261,6941,Tanana River nr Manley Hot Springs,2019,2019-04-30,120
-218,7003,Tanana River nr Manley Hot Springs,2020,2020-05-01,122
-176,7059,Tanana River nr Manley Hot Springs,2021,2021-05-05,125
-84,7198,Tanana River nr Manley Hot Springs,2023,2023-05-12,132
-7,7302,Tanana River nr Manley Hot Springs,2024,2024-05-02,123
-1082,4994,Yukon River at Alakanuk,1983,1983-05-16,136
-1081,4995,Yukon River at Alakanuk,1984,1984-05-25,146
-1080,4996,Yukon River at Alakanuk,1985,1985-06-04,155
-1079,4997,Yukon River at Alakanuk,1986,1986-05-31,151
-1078,4998,Yukon River at Alakanuk,1987,1987-05-28,148
-1077,4999,Yukon River at Alakanuk,1988,1988-05-16,137
-1076,5000,Yukon River at Alakanuk,1989,1989-05-29,149
-1075,5001,Yukon River at Alakanuk,1992,1992-06-03,155
-1074,5002,Yukon River at Alakanuk,1993,1993-05-19,139
-1073,5003,Yukon River at Alakanuk,1994,1994-05-19,139
-1072,5004,Yukon River at Alakanuk,1995,1995-05-15,135
-1071,5005,Yukon River at Alakanuk,1996,1996-05-17,138
-1070,5006,Yukon River at Alakanuk,1997,1997-05-14,134
-1069,5007,Yukon River at Alakanuk,1998,1998-05-20,140
-1068,5008,Yukon River at Alakanuk,1999,1999-05-29,149
-1067,5009,Yukon River at Alakanuk,2000,2000-05-28,149
-1066,5010,Yukon River at Alakanuk,2001,2001-06-04,155
-1065,5011,Yukon River at Alakanuk,2002,2002-05-21,141
-750,6253,Yukon River at Alakanuk,2003,2003-05-18,138
-761,6240,Yukon River at Alakanuk,2004,2004-05-08,129
-667,6374,Yukon River at Alakanuk,2005,2005-05-16,136
-714,6312,Yukon River at Alakanuk,2006,2006-05-28,148
-685,6352,Yukon River at Alakanuk,2007,2007-05-18,138
-652,6393,Yukon River at Alakanuk,2008,2008-05-23,144
-625,6425,Yukon River at Alakanuk,2009,2009-05-23,143
-600,6456,Yukon River at Alakanuk,2010,2010-05-24,144
-579,6483,Yukon River at Alakanuk,2011,2011-05-22,142
-574,6490,Yukon River at Alakanuk,2012,2012-05-25,146
-532,6559,Yukon River at Alakanuk,2013,2013-06-03,154
-440,6694,Yukon River at Alakanuk,2015,2015-05-16,136
-386,6761,Yukon River at Alakanuk,2016,2016-05-03,124
-340,6815,Yukon River at Alakanuk,2017,2017-05-14,134
-196,7030,Yukon River at Alakanuk,2020,2020-05-14,135
-155,7084,Yukon River at Alakanuk,2021,2021-05-16,136
-112,7161,Yukon River at Alakanuk,2022,2022-05-15,135
-53,7235,Yukon River at Alakanuk,2023,2023-05-27,147
-13,7295,Yukon River at Alakanuk,2024,2024-05-24,145
-1064,5049,Yukon River at Anvik,1983,1983-05-14,134
-1063,5050,Yukon River at Anvik,1984,1984-05-20,141
-1062,5051,Yukon River at Anvik,1985,1985-05-26,146
-1061,5052,Yukon River at Anvik,1986,1986-05-25,145
-1060,5053,Yukon River at Anvik,1987,1987-05-24,144
-1059,5055,Yukon River at Anvik,1989,1989-05-15,135
-1058,5056,Yukon River at Anvik,1990,1990-05-09,129
-1057,5057,Yukon River at Anvik,1991,1991-05-10,130
-1056,5058,Yukon River at Anvik,1992,1992-05-27,148
-1055,5059,Yukon River at Anvik,1993,1993-05-11,131
-1054,5060,Yukon River at Anvik,1994,1994-05-11,131
-1053,5061,Yukon River at Anvik,1995,1995-05-08,128
-1052,5063,Yukon River at Anvik,1999,1999-05-20,140
-1051,5064,Yukon River at Anvik,2000,2000-05-20,141
-1050,5065,Yukon River at Anvik,2001,2001-05-30,150
-1049,5066,Yukon River at Anvik,2002,2002-05-20,140
-754,6249,Yukon River at Anvik,2003,2003-05-13,133
-675,6366,Yukon River at Anvik,2004,2004-05-05,126
-676,6365,Yukon River at Anvik,2005,2005-05-07,127
-721,6304,Yukon River at Anvik,2006,2006-05-22,142
-691,6346,Yukon River at Anvik,2007,2007-05-11,131
-661,6380,Yukon River at Anvik,2008,2008-05-17,138
-630,6420,Yukon River at Anvik,2009,2009-05-13,133
-611,6441,Yukon River at Anvik,2010,2010-05-13,133
-592,6469,Yukon River at Anvik,2011,2011-05-17,137
-573,6491,Yukon River at Anvik,2012,2012-05-15,136
-538,6553,Yukon River at Anvik,2013,2013-05-30,150
-495,6603,Yukon River at Anvik,2014,2014-05-07,127
-446,6688,Yukon River at Anvik,2015,2015-05-14,134
-391,6756,Yukon River at Anvik,2016,2016-05-04,125
-346,6809,Yukon River at Anvik,2017,2017-05-11,131
-291,6908,Yukon River at Anvik,2018,2018-05-15,135
-208,7017,Yukon River at Anvik,2020,2020-05-10,131
-109,7166,Yukon River at Anvik,2022,2022-05-18,138
-61,7224,Yukon River at Anvik,2023,2023-05-19,139
-12,7296,Yukon River at Anvik,2024,2024-05-14,135
-1048,5096,Yukon River at Beaver,1985,1985-05-19,139
-1047,5097,Yukon River at Beaver,1997,1997-05-07,127
-1046,5098,Yukon River at Beaver,1998,1998-05-10,130
-1045,5099,Yukon River at Beaver,1999,1999-05-14,134
-1044,5100,Yukon River at Beaver,2000,2000-05-11,132
-1043,5101,Yukon River at Beaver,2001,2001-05-20,140
-1042,5102,Yukon River at Beaver,2002,2002-05-15,135
-786,6207,Yukon River at Beaver,2003,2003-05-08,128
-777,6219,Yukon River at Beaver,2004,2004-05-06,127
-747,6259,Yukon River at Beaver,2005,2005-05-02,122
-727,6294,Yukon River at Beaver,2006,2006-05-13,133
-699,6337,Yukon River at Beaver,2007,2007-05-07,127
-646,6401,Yukon River at Beaver,2008,2008-05-09,130
-640,6410,Yukon River at Beaver,2009,2009-05-08,128
-619,6432,Yukon River at Beaver,2010,2010-05-04,124
-584,6477,Yukon River at Beaver,2011,2011-05-12,132
-572,6492,Yukon River at Beaver,2012,2012-05-10,131
-545,6545,Yukon River at Beaver,2013,2013-05-22,142
-503,6594,Yukon River at Beaver,2014,2014-05-07,127
-453,6680,Yukon River at Beaver,2015,2015-05-10,130
-394,6752,Yukon River at Beaver,2016,2016-05-02,123
-354,6800,Yukon River at Beaver,2017,2017-05-12,132
-298,6901,Yukon River at Beaver,2018,2018-05-12,132
-243,6964,Yukon River at Beaver,2019,2019-05-12,132
-214,7007,Yukon River at Beaver,2020,2020-05-08,129
-163,7074,Yukon River at Beaver,2021,2021-05-12,132
-98,7177,Yukon River at Beaver,2022,2022-05-10,130
-73,7210,Yukon River at Beaver,2023,2022-05-15,135
-25,7280,Yukon River at Beaver,2024,2024-05-12,133
-1041,5138,Yukon River at Circle,1983,1983-05-03,123
-1040,5139,Yukon River at Circle,1984,1984-05-18,139
-1039,5140,Yukon River at Circle,1985,1985-05-17,137
-1038,5141,Yukon River at Circle,1986,1986-05-13,133
-1037,5142,Yukon River at Circle,1987,1987-05-13,133
-1036,5143,Yukon River at Circle,1988,1988-05-05,126
-1035,5144,Yukon River at Circle,1989,1989-05-02,122
-1034,5145,Yukon River at Circle,1990,1990-05-04,124
-1033,5146,Yukon River at Circle,1991,1991-05-08,128
-1032,5147,Yukon River at Circle,1992,1992-05-24,145
-1031,5148,Yukon River at Circle,1993,1993-05-03,123
-1030,5149,Yukon River at Circle,1994,1994-05-03,123
-1029,5150,Yukon River at Circle,1995,1995-05-02,122
-1028,5151,Yukon River at Circle,1996,1996-05-16,137
-1027,5152,Yukon River at Circle,1998,1998-05-12,132
-1026,5153,Yukon River at Circle,1999,1999-05-12,132
-1025,5154,Yukon River at Circle,2000,2000-05-09,130
-1024,5155,Yukon River at Circle,2001,2001-05-19,139
-1023,5156,Yukon River at Circle,2002,2002-05-15,135
-758,6244,Yukon River at Circle,2003,2003-05-08,128
-772,6228,Yukon River at Circle,2004,2004-05-06,127
-684,6354,Yukon River at Circle,2005,2005-04-30,120
-728,6292,Yukon River at Circle,2006,2006-05-10,130
-701,6335,Yukon River at Circle,2007,2007-05-05,125
-645,6402,Yukon River at Circle,2008,2008-05-08,129
-636,6414,Yukon River at Circle,2009,2009-05-06,126
-604,6451,Yukon River at Circle,2010,2010-05-06,126
-597,6464,Yukon River at Circle,2011,2011-05-15,135
-576,6488,Yukon River at Circle,2012,2012-05-04,125
-546,6544,Yukon River at Circle,2013,2013-05-19,139
-505,6592,Yukon River at Circle,2014,2014-05-05,125
-455,6678,Yukon River at Circle,2015,2015-05-11,131
-407,6732,Yukon River at Circle,2016,2016-04-29,120
-356,6798,Yukon River at Circle,2017,2017-05-08,128
-305,6893,Yukon River at Circle,2018,2018-05-10,130
-248,6957,Yukon River at Circle,2019,2019-05-09,129
-217,7004,Yukon River at Circle,2020,2020-05-06,127
-165,7071,Yukon River at Circle,2021,2021-05-10,130
-133,7138,Yukon River at Circle,2022,2022-05-09,129
-77,7206,Yukon River at Circle,2023,2023-05-13,133
-28,7276,Yukon River at Circle,2024,2024-05-12,133
-730,6276,Yukon River at Dawson,1980,1980-05-06,127
-731,6275,Yukon River at Dawson,1981,1981-05-08,128
-732,6274,Yukon River at Dawson,1982,1982-05-13,133
-1022,5253,Yukon River at Dawson,1983,1983-05-01,121
-1021,5254,Yukon River at Dawson,1984,1984-05-08,129
-1020,5255,Yukon River at Dawson,1985,1985-05-16,136
-1019,5256,Yukon River at Dawson,1986,1986-05-12,132
-733,6273,Yukon River at Dawson,1987,1987-05-09,129
-1018,5257,Yukon River at Dawson,1988,1988-05-01,122
-734,6272,Yukon River at Dawson,1989,1989-04-29,119
-735,6271,Yukon River at Dawson,1990,1990-04-30,120
-1017,5259,Yukon River at Dawson,1991,1991-05-01,121
-1016,5260,Yukon River at Dawson,1992,1992-05-08,129
-1015,5261,Yukon River at Dawson,1993,1993-04-29,119
-1014,5262,Yukon River at Dawson,1994,1994-05-01,121
-1013,5263,Yukon River at Dawson,1995,1995-05-02,122
-1012,5264,Yukon River at Dawson,1996,1996-05-07,128
-736,6270,Yukon River at Dawson,1997,1997-05-04,124
-737,6269,Yukon River at Dawson,1998,1998-05-04,124
-738,6268,Yukon River at Dawson,1999,1999-05-08,128
-739,6267,Yukon River at Dawson,2000,2000-05-05,126
-740,6266,Yukon River at Dawson,2001,2001-05-08,128
-741,6265,Yukon River at Dawson,2002,2002-05-12,132
-759,6243,Yukon River at Dawson,2003,2003-05-01,121
-773,6227,Yukon River at Dawson,2004,2004-05-04,125
-742,6264,Yukon River at Dawson,2005,2005-04-29,119
-707,6328,Yukon River at Dawson,2006,2006-05-11,131
-696,6340,Yukon River at Dawson,2007,2007-05-04,124
-666,6375,Yukon River at Dawson,2008,2008-05-04,125
-637,6413,Yukon River at Dawson,2009,2009-05-04,124
-642,6406,Yukon River at Dawson,2010,2010-04-29,119
-427,6709,Yukon River at Dawson,2011,2011-05-07,127
-571,6493,Yukon River at Dawson,2012,2012-05-01,122
-548,6542,Yukon River at Dawson,2013,2013-05-15,135
-507,6590,Yukon River at Dawson,2014,2014-05-02,122
-464,6667,Yukon River at Dawson,2015,2015-05-04,124
-411,6726,Yukon River at Dawson,2016,2016-04-23,114
-358,6796,Yukon River at Dawson,2017,2017-05-03,123
-310,6887,Yukon River at Dawson,2018,2018-05-08,128
-270,6932,Yukon River at Dawson,2019,2019-04-23,113
-226,6991,Yukon River at Dawson,2020,2020-05-03,124
-177,7058,Yukon River at Dawson,2021,2021-05-06,126
-135,7136,Yukon River at Dawson,2022,2022-05-07,127
-90,7191,Yukon River at Dawson,2023,2023-05-09,129
-45,7254,Yukon River at Dawson,2024,2024-05-01,122
-1011,5330,Yukon River at Eagle,1980,1980-05-03,124
-1010,5331,Yukon River at Eagle,1981,1981-05-07,127
-1009,5332,Yukon River at Eagle,1982,1982-05-14,134
-1008,5333,Yukon River at Eagle,1983,1983-05-02,122
-1007,5334,Yukon River at Eagle,1984,1984-05-09,130
-1006,5335,Yukon River at Eagle,1985,1985-05-16,136
-1005,5336,Yukon River at Eagle,1986,1986-05-11,131
-1004,5337,Yukon River at Eagle,1987,1987-05-09,129
-1003,5338,Yukon River at Eagle,1988,1988-05-02,123
-1002,5339,Yukon River at Eagle,1989,1989-04-29,119
-1001,5340,Yukon River at Eagle,1990,1990-04-25,115
-1000,5341,Yukon River at Eagle,1991,1991-04-28,118
-999,5342,Yukon River at Eagle,1992,1992-05-12,133
-998,5343,Yukon River at Eagle,1993,1993-04-29,119
-997,5344,Yukon River at Eagle,1994,1994-04-29,119
-996,5345,Yukon River at Eagle,1995,1995-04-29,119
-995,5346,Yukon River at Eagle,1996,1996-05-08,129
-994,5347,Yukon River at Eagle,1997,1997-05-04,124
-993,5348,Yukon River at Eagle,1998,1998-04-29,119
-992,5349,Yukon River at Eagle,1999,1999-05-11,131
-991,5350,Yukon River at Eagle,2000,2000-05-06,127
-990,5351,Yukon River at Eagle,2001,2001-05-12,132
-989,5352,Yukon River at Eagle,2002,2002-05-18,138
-785,6208,Yukon River at Eagle,2003,2003-04-27,117
-780,6215,Yukon River at Eagle,2004,2004-05-03,124
-744,6262,Yukon River at Eagle,2005,2005-04-28,118
-729,6291,Yukon River at Eagle,2006,2006-05-08,128
-702,6334,Yukon River at Eagle,2007,2007-04-30,120
-656,6385,Yukon River at Eagle,2008,2008-05-03,124
-644,6403,Yukon River at Eagle,2009,2009-05-03,123
-621,6429,Yukon River at Eagle,2010,2010-04-29,119
-596,6465,Yukon River at Eagle,2011,2011-05-07,127
-575,6489,Yukon River at Eagle,2012,2012-04-29,120
-547,6543,Yukon River at Eagle,2013,2013-05-17,137
-506,6591,Yukon River at Eagle,2014,2014-05-01,121
-460,6672,Yukon River at Eagle,2015,2015-05-06,126
-408,6729,Yukon River at Eagle,2016,2016-04-26,117
-357,6797,Yukon River at Eagle,2017,2017-05-04,124
-309,6888,Yukon River at Eagle,2018,2018-05-08,128
-260,6942,Yukon River at Eagle,2019,2019-05-01,121
-220,7001,Yukon River at Eagle,2020,2020-05-05,126
-169,7067,Yukon River at Eagle,2021,2021-05-08,128
-136,7135,Yukon River at Eagle,2022,2022-05-07,127
-87,7195,Yukon River at Eagle,2023,2023-05-12,132
-36,7266,Yukon River at Eagle,2024,2024-05-03,124
-969,5440,Yukon River at Fort Yukon,1983,1983-05-05,125
-968,5441,Yukon River at Fort Yukon,1984,1984-05-19,140
-967,5442,Yukon River at Fort Yukon,1985,1985-05-18,138
-966,5443,Yukon River at Fort Yukon,1986,1986-05-17,137
-965,5444,Yukon River at Fort Yukon,1987,1987-05-14,134
-964,5445,Yukon River at Fort Yukon,1988,1988-05-05,126
-963,5446,Yukon River at Fort Yukon,1989,1989-05-04,124
-962,5447,Yukon River at Fort Yukon,1990,1990-05-02,122
-961,5448,Yukon River at Fort Yukon,1991,1991-05-05,125
-960,5449,Yukon River at Fort Yukon,1992,1992-05-23,144
-959,5450,Yukon River at Fort Yukon,1993,1993-05-04,124
-958,5451,Yukon River at Fort Yukon,1994,1994-05-05,125
-957,5452,Yukon River at Fort Yukon,1995,1995-05-03,123
-956,5453,Yukon River at Fort Yukon,1996,1996-05-17,138
-955,5454,Yukon River at Fort Yukon,1998,1998-05-13,133
-954,5455,Yukon River at Fort Yukon,1999,1999-05-13,133
-1084,4942,Yukon River at Fort Yukon,2000,2000-05-10,131
-1083,4943,Yukon River at Fort Yukon,2001,2001-05-20,140
-953,5458,Yukon River at Fort Yukon,2002,2002-05-16,136
-787,6206,Yukon River at Fort Yukon,2003,2003-05-09,129
-778,6217,Yukon River at Fort Yukon,2004,2004-05-10,131
-746,6260,Yukon River at Fort Yukon,2005,2005-05-01,121
-708,6324,Yukon River at Fort Yukon,2006,2006-05-12,132
-700,6336,Yukon River at Fort Yukon,2007,2007-05-07,127
-648,6399,Yukon River at Fort Yukon,2008,2008-05-07,128
-638,6412,Yukon River at Fort Yukon,2009,2009-05-06,126
-616,6435,Yukon River at Fort Yukon,2010,2010-05-04,124
-595,6466,Yukon River at Fort Yukon,2011,2011-05-13,133
-558,6508,Yukon River at Fort Yukon,2012,2012-05-09,130
-550,6540,Yukon River at Fort Yukon,2013,2013-05-21,141
-504,6593,Yukon River at Fort Yukon,2014,2014-05-06,126
-454,6679,Yukon River at Fort Yukon,2015,2015-05-12,132
-406,6733,Yukon River at Fort Yukon,2016,2016-05-01,122
-355,6799,Yukon River at Fort Yukon,2017,2017-05-11,131
-302,6896,Yukon River at Fort Yukon,2018,2018-05-12,132
-244,6963,Yukon River at Fort Yukon,2019,2019-05-11,131
-199,7027,Yukon River at Fort Yukon,2020,2020-05-08,129
-161,7077,Yukon River at Fort Yukon,2021,2021-05-11,131
-118,7155,Yukon River at Fort Yukon,2022,2022-05-10,130
-78,7205,Yukon River at Fort Yukon,2023,2023-05-14,134
-29,7275,Yukon River at Fort Yukon,2024,2024-05-12,133
-555,6521,Yukon River at Galena,1980,1980-05-10,131
-554,6522,Yukon River at Galena,1982,1982-05-20,140
-952,5494,Yukon River at Galena,1983,1983-05-10,130
-951,5495,Yukon River at Galena,1984,1984-05-19,140
-950,5496,Yukon River at Galena,1985,1985-05-23,143
-949,5497,Yukon River at Galena,1986,1986-05-20,140
-948,5498,Yukon River at Galena,1987,1987-05-16,136
-947,5499,Yukon River at Galena,1988,1988-05-07,128
-946,5500,Yukon River at Galena,1989,1989-05-07,127
-945,5501,Yukon River at Galena,1990,1990-05-08,128
-944,5502,Yukon River at Galena,1991,1991-05-08,128
-943,5503,Yukon River at Galena,1992,1992-05-25,146
-942,5504,Yukon River at Galena,1993,1993-05-06,126
-941,5505,Yukon River at Galena,1994,1994-05-07,127
-940,5506,Yukon River at Galena,1995,1995-05-03,123
-939,5507,Yukon River at Galena,1996,1996-05-16,137
-938,5508,Yukon River at Galena,1997,1997-05-07,127
-937,5509,Yukon River at Galena,1998,1998-05-08,128
-936,5510,Yukon River at Galena,1999,1999-05-17,137
-935,5511,Yukon River at Galena,2000,2000-05-12,133
-934,5512,Yukon River at Galena,2001,2001-05-22,142
-933,5513,Yukon River at Galena,2002,2002-05-16,136
-756,6247,Yukon River at Galena,2003,2003-05-11,131
-768,6232,Yukon River at Galena,2004,2004-05-06,127
-743,6263,Yukon River at Galena,2005,2005-05-05,125
-709,6323,Yukon River at Galena,2006,2006-05-16,136
-693,6343,Yukon River at Galena,2007,2007-05-10,130
-647,6400,Yukon River at Galena,2008,2008-05-13,134
-632,6418,Yukon River at Galena,2009,2009-05-11,131
-605,6449,Yukon River at Galena,2010,2010-05-11,131
-599,6457,Yukon River at Galena,2011,2011-05-16,136
-578,6486,Yukon River at Galena,2012,2012-05-11,132
-541,6549,Yukon River at Galena,2013,2013-05-26,146
-498,6599,Yukon River at Galena,2014,2014-05-05,125
-449,6684,Yukon River at Galena,2015,2015-05-09,129
-403,6736,Yukon River at Galena,2016,2016-05-02,123
-349,6805,Yukon River at Galena,2017,2017-05-11,131
-303,6895,Yukon River at Galena,2018,2018-05-12,132
-252,6950,Yukon River at Galena,2019,2019-05-09,129
-216,7005,Yukon River at Galena,2020,2020-05-07,128
-170,7066,Yukon River at Galena,2021,2021-05-09,129
-117,7156,Yukon River at Galena,2022,2022-05-11,131
-66,7218,Yukon River at Galena,2023,2023-05-19,139
-27,7277,Yukon River at Galena,2024,2024-05-11,132
-932,5639,Yukon River at Holy Cross,1983,1983-05-14,134
-931,5640,Yukon River at Holy Cross,1985,1985-05-26,146
-930,5641,Yukon River at Holy Cross,1986,1986-05-25,145
-929,5642,Yukon River at Holy Cross,1987,1987-05-19,139
-928,5643,Yukon River at Holy Cross,1988,1988-05-12,133
-927,5644,Yukon River at Holy Cross,1989,1989-05-15,135
-926,5645,Yukon River at Holy Cross,1990,1990-05-12,132
-925,5646,Yukon River at Holy Cross,1991,1991-05-10,130
-924,5647,Yukon River at Holy Cross,1992,1992-05-25,146
-923,5648,Yukon River at Holy Cross,1994,1994-05-11,131
-922,5649,Yukon River at Holy Cross,1995,1995-05-08,128
-921,5651,Yukon River at Holy Cross,1998,1998-05-16,136
-920,5652,Yukon River at Holy Cross,1999,1999-05-18,138
-919,5653,Yukon River at Holy Cross,2000,2000-05-18,139
-918,5654,Yukon River at Holy Cross,2001,2001-05-24,144
-917,5655,Yukon River at Holy Cross,2002,2002-05-17,137
-674,6367,Yukon River at Holy Cross,2003,2003-05-12,132
-766,6235,Yukon River at Holy Cross,2004,2004-05-03,124
-673,6368,Yukon River at Holy Cross,2005,2005-05-08,128
-720,6305,Yukon River at Holy Cross,2006,2006-05-22,142
-690,6347,Yukon River at Holy Cross,2007,2007-05-10,130
-660,6381,Yukon River at Holy Cross,2008,2008-05-18,139
-629,6421,Yukon River at Holy Cross,2009,2009-05-13,133
-609,6444,Yukon River at Holy Cross,2010,2010-05-15,135
-588,6473,Yukon River at Holy Cross,2011,2011-05-19,139
-569,6496,Yukon River at Holy Cross,2012,2012-05-15,136
-537,6554,Yukon River at Holy Cross,2013,2013-05-29,149
-494,6604,Yukon River at Holy Cross,2014,2014-05-07,127
-445,6689,Yukon River at Holy Cross,2015,2015-05-11,131
-393,6753,Yukon River at Holy Cross,2016,2016-04-26,117
-345,6810,Yukon River at Holy Cross,2017,2017-05-06,126
-290,6909,Yukon River at Holy Cross,2018,2018-05-16,136
-256,6946,Yukon River at Holy Cross,2019,2019-05-05,125
-200,7026,Yukon River at Holy Cross,2020,2020-05-06,127
-153,7086,Yukon River at Holy Cross,2021,2021-05-12,132
-107,7168,Yukon River at Holy Cross,2022,2022-05-18,138
-62,7223,Yukon River at Holy Cross,2023,2023-05-19,139
-15,7293,Yukon River at Holy Cross,2024,2024-05-09,130
-916,5686,Yukon River at Kaltag,1980,1980-05-09,130
-915,5687,Yukon River at Kaltag,1982,1982-05-19,139
-914,5688,Yukon River at Kaltag,1983,1983-05-12,132
-913,5689,Yukon River at Kaltag,1985,1985-05-23,143
-912,5690,Yukon River at Kaltag,1986,1986-05-22,142
-911,5692,Yukon River at Kaltag,1988,1988-05-10,131
-910,5693,Yukon River at Kaltag,1989,1989-05-14,134
-909,5694,Yukon River at Kaltag,1991,1991-05-08,128
-908,5695,Yukon River at Kaltag,1992,1992-05-26,147
-907,5696,Yukon River at Kaltag,1993,1993-05-10,130
-906,5697,Yukon River at Kaltag,1995,1995-05-06,126
-905,5698,Yukon River at Kaltag,1997,1997-05-06,126
-904,5699,Yukon River at Kaltag,1998,1998-05-12,132
-903,5700,Yukon River at Kaltag,1999,1999-05-18,138
-902,5701,Yukon River at Kaltag,2000,2000-05-17,138
-901,5702,Yukon River at Kaltag,2001,2001-05-30,150
-900,5703,Yukon River at Kaltag,2002,2002-05-17,137
-755,6248,Yukon River at Kaltag,2003,2003-05-12,132
-767,6233,Yukon River at Kaltag,2004,2004-05-04,125
-677,6364,Yukon River at Kaltag,2005,2005-05-06,126
-722,6303,Yukon River at Kaltag,2006,2006-05-19,139
-692,6345,Yukon River at Kaltag,2007,2007-05-08,128
-662,6379,Yukon River at Kaltag,2008,2008-05-13,134
-631,6419,Yukon River at Kaltag,2009,2009-05-12,132
-612,6440,Yukon River at Kaltag,2010,2010-05-12,132
-582,6479,Yukon River at Kaltag,2011,2011-05-16,136
-568,6497,Yukon River at Kaltag,2012,2012-05-14,135
-539,6552,Yukon River at Kaltag,2013,2013-05-30,150
-496,6602,Yukon River at Kaltag,2014,2014-05-07,127
-447,6687,Yukon River at Kaltag,2015,2015-05-11,131
-392,6755,Yukon River at Kaltag,2016,2016-05-01,122
-347,6808,Yukon River at Kaltag,2017,2017-05-10,130
-292,6907,Yukon River at Kaltag,2018,2018-05-14,134
-251,6951,Yukon River at Kaltag,2019,2019-05-12,132
-201,7025,Yukon River at Kaltag,2020,2020-05-07,128
-147,7093,Yukon River at Kaltag,2021,2021-05-11,131
-115,7158,Yukon River at Kaltag,2022,2022-05-12,132
-64,7221,Yukon River at Kaltag,2023,2023-05-18,138
-22,7284,Yukon River at Kaltag,2024,2024-05-14,135
-899,5765,Yukon River at Marshall,1981,1981-05-10,130
-898,5767,Yukon River at Marshall,1984,1984-05-20,141
-897,5768,Yukon River at Marshall,1985,1985-05-30,150
-896,5769,Yukon River at Marshall,1986,1986-05-14,134
-895,5770,Yukon River at Marshall,1987,1987-05-16,136
-894,5771,Yukon River at Marshall,1988,1988-05-12,133
-893,5772,Yukon River at Marshall,1989,1989-05-15,135
-892,5773,Yukon River at Marshall,1990,1990-05-11,131
-891,5774,Yukon River at Marshall,1991,1991-05-09,129
-890,5775,Yukon River at Marshall,1992,1992-05-27,148
-889,5776,Yukon River at Marshall,1994,1994-05-11,131
-888,5777,Yukon River at Marshall,1995,1995-05-08,128
-887,5778,Yukon River at Marshall,1996,1996-05-14,135
-886,5779,Yukon River at Marshall,1998,1998-05-12,132
-885,5780,Yukon River at Marshall,1999,1999-05-20,140
-884,5781,Yukon River at Marshall,2000,2000-05-16,137
-717,6308,Yukon River at Marshall,2006,2006-05-23,143
-607,6446,Yukon River at Marshall,2009,2009-05-20,140
-610,6442,Yukon River at Marshall,2010,2010-05-17,137
-581,6481,Yukon River at Marshall,2011,2011-05-17,137
-567,6499,Yukon River at Marshall,2012,2012-05-15,136
-535,6556,Yukon River at Marshall,2013,2013-05-27,147
-492,6606,Yukon River at Marshall,2014,2014-05-03,123
-443,6691,Yukon River at Marshall,2015,2015-05-11,131
-389,6758,Yukon River at Marshall,2016,2016-04-25,116
-343,6812,Yukon River at Marshall,2017,2017-05-10,130
-288,6911,Yukon River at Marshall,2018,2018-05-15,135
-255,6947,Yukon River at Marshall,2019,2019-05-05,125
-206,7019,Yukon River at Marshall,2020,2020-05-10,131
-151,7088,Yukon River at Marshall,2021,2021-05-13,133
-105,7170,Yukon River at Marshall,2022,2022-05-15,135
-50,7238,Yukon River at Marshall,2023,2023-05-25,145
-19,7287,Yukon River at Marshall,2024,2024-05-11,132
-883,5811,Yukon River at Mountain Village,1983,1983-05-14,134
-882,5812,Yukon River at Mountain Village,1985,1985-05-29,149
-881,5813,Yukon River at Mountain Village,1986,1986-05-25,145
-880,5814,Yukon River at Mountain Village,1987,1987-05-21,141
-879,5815,Yukon River at Mountain Village,1988,1988-05-13,134
-878,5816,Yukon River at Mountain Village,1989,1989-05-27,147
-877,5817,Yukon River at Mountain Village,1990,1990-05-14,134
-876,5818,Yukon River at Mountain Village,1991,1991-05-16,136
-875,5819,Yukon River at Mountain Village,1993,1993-05-11,131
-874,5820,Yukon River at Mountain Village,1994,1994-05-14,134
-873,5821,Yukon River at Mountain Village,1995,1995-05-13,133
-872,5822,Yukon River at Mountain Village,1998,1998-05-19,139
-871,5823,Yukon River at Mountain Village,1999,1999-05-25,145
-870,5824,Yukon River at Mountain Village,2000,2000-05-26,147
-869,5825,Yukon River at Mountain Village,2001,2001-05-31,151
-868,5826,Yukon River at Mountain Village,2002,2002-05-19,139
-669,6372,Yukon River at Mountain Village,2003,2003-05-10,130
-763,6238,Yukon River at Mountain Village,2004,2004-05-02,123
-670,6371,Yukon River at Mountain Village,2005,2005-05-12,132
-716,6310,Yukon River at Mountain Village,2006,2006-05-25,145
-687,6350,Yukon River at Mountain Village,2007,2007-05-13,133
-653,6392,Yukon River at Mountain Village,2008,2008-05-19,140
-626,6424,Yukon River at Mountain Village,2009,2009-05-22,142
-601,6455,Yukon River at Mountain Village,2010,2010-05-20,140
-589,6472,Yukon River at Mountain Village,2011,2011-05-19,139
-566,6500,Yukon River at Mountain Village,2012,2012-05-22,143
-533,6558,Yukon River at Mountain Village,2013,2013-06-01,152
-490,6608,Yukon River at Mountain Village,2014,2014-05-04,124
-441,6693,Yukon River at Mountain Village,2015,2015-05-12,132
-387,6760,Yukon River at Mountain Village,2016,2016-04-28,119
-341,6814,Yukon River at Mountain Village,2017,2017-05-11,131
-286,6913,Yukon River at Mountain Village,2018,2018-05-14,134
-247,6959,Yukon River at Mountain Village,2019,2019-05-08,128
-204,7021,Yukon River at Mountain Village,2020,2020-05-11,132
-146,7094,Yukon River at Mountain Village,2021,2021-05-12,132
-104,7171,Yukon River at Mountain Village,2022,2022-05-10,130
-55,7233,Yukon River at Mountain Village,2023,2023-05-23,143
-20,7286,Yukon River at Mountain Village,2024,2024-05-19,140
-867,5867,Yukon River at Nulato,1986,1986-05-17,137
-866,5868,Yukon River at Nulato,1997,1997-05-06,126
-865,5869,Yukon River at Nulato,1998,1998-05-09,129
-864,5870,Yukon River at Nulato,1999,1999-05-17,137
-863,5871,Yukon River at Nulato,2000,2000-05-24,145
-862,5872,Yukon River at Nulato,2001,2001-05-24,144
-861,5873,Yukon River at Nulato,2002,2002-05-16,136
-783,6210,Yukon River at Nulato,2003,2003-05-10,130
-781,6214,Yukon River at Nulato,2004,2004-05-04,125
-678,6360,Yukon River at Nulato,2005,2005-05-05,125
-712,6318,Yukon River at Nulato,2006,2006-05-16,136
-706,6330,Yukon River at Nulato,2007,2007-05-04,124
-654,6391,Yukon River at Nulato,2008,2008-05-12,133
-641,6409,Yukon River at Nulato,2009,2009-05-08,128
-603,6453,Yukon River at Nulato,2010,2010-05-10,130
-583,6478,Yukon River at Nulato,2011,2011-05-16,136
-565,6501,Yukon River at Nulato,2012,2012-05-09,130
-540,6551,Yukon River at Nulato,2013,2013-05-30,150
-497,6601,Yukon River at Nulato,2014,2014-05-07,127
-448,6686,Yukon River at Nulato,2015,2015-05-11,131
-399,6740,Yukon River at Nulato,2016,2016-05-04,125
-348,6807,Yukon River at Nulato,2017,2017-05-12,132
-294,6905,Yukon River at Nulato,2018,2018-05-12,132
-164,7073,Yukon River at Nulato,2021,2021-05-11,131
-116,7157,Yukon River at Nulato,2022,2022-05-12,132
-63,7222,Yukon River at Nulato,2023,2023-05-18,138
-23,7283,Yukon River at Nulato,2024,2024-05-13,134
-860,5893,Yukon River at Pilot Station,1983,1983-05-13,133
-859,5894,Yukon River at Pilot Station,1985,1985-06-03,154
-858,5896,Yukon River at Pilot Station,1990,1990-05-14,134
-857,5897,Yukon River at Pilot Station,1995,1995-05-09,129
-856,5898,Yukon River at Pilot Station,2001,2001-05-29,149
-855,5899,Yukon River at Pilot Station,2002,2002-05-18,138
-752,6251,Yukon River at Pilot Station,2003,2003-05-15,135
-764,6237,Yukon River at Pilot Station,2004,2004-05-03,124
-671,6370,Yukon River at Pilot Station,2005,2005-05-11,131
-718,6307,Yukon River at Pilot Station,2006,2006-05-25,145
-688,6349,Yukon River at Pilot Station,2007,2007-05-11,131
-658,6383,Yukon River at Pilot Station,2008,2008-05-19,140
-627,6423,Yukon River at Pilot Station,2009,2009-05-17,137
-602,6454,Yukon River at Pilot Station,2010,2010-05-19,139
-580,6482,Yukon River at Pilot Station,2011,2011-05-17,137
-564,6502,Yukon River at Pilot Station,2012,2012-05-17,138
-534,6557,Yukon River at Pilot Station,2013,2013-05-31,151
-491,6607,Yukon River at Pilot Station,2014,2014-05-03,123
-442,6692,Yukon River at Pilot Station,2015,2015-05-14,134
-388,6759,Yukon River at Pilot Station,2016,2016-04-29,120
-342,6813,Yukon River at Pilot Station,2017,2017-05-05,125
-287,6912,Yukon River at Pilot Station,2018,2018-05-13,133
-246,6960,Yukon River at Pilot Station,2019,2019-05-07,127
-205,7020,Yukon River at Pilot Station,2020,2020-05-11,132
-158,7080,Yukon River at Pilot Station,2021,2021-05-13,133
-114,7159,Yukon River at Pilot Station,2022,2022-05-09,129
-54,7234,Yukon River at Pilot Station,2023,2023-05-25,145
-26,7279,Yukon River at Pilot Station,2024,2024-05-14,135
-854,5960,Yukon River at Rampart,1981,1981-05-11,131
-853,5961,Yukon River at Rampart,1982,1982-05-19,139
-852,5962,Yukon River at Rampart,1983,1983-05-10,130
-851,5963,Yukon River at Rampart,1996,1996-05-18,139
-850,5964,Yukon River at Rampart,1997,1997-05-09,129
-849,5965,Yukon River at Rampart,1999,1999-05-16,136
-848,5966,Yukon River at Rampart,2000,2000-05-13,134
-847,5967,Yukon River at Rampart,2001,2001-05-21,141
-846,5968,Yukon River at Rampart,2002,2002-05-16,136
-681,6357,Yukon River at Rampart,2003,2003-05-08,128
-770,6230,Yukon River at Rampart,2004,2004-05-10,131
-680,6358,Yukon River at Rampart,2005,2005-05-04,124
-726,6295,Yukon River at Rampart,2006,2006-05-14,134
-697,6339,Yukon River at Rampart,2007,2007-05-09,129
-665,6376,Yukon River at Rampart,2008,2008-05-10,131
-634,6416,Yukon River at Rampart,2009,2009-05-10,130
-614,6437,Yukon River at Rampart,2010,2010-05-05,125
-563,6503,Yukon River at Rampart,2012,2012-05-10,131
-543,6547,Yukon River at Rampart,2013,2013-05-24,144
-501,6596,Yukon River at Rampart,2014,2014-05-07,127
-451,6682,Yukon River at Rampart,2015,2015-05-11,131
-400,6739,Yukon River at Rampart,2016,2016-05-03,124
-352,6802,Yukon River at Rampart,2017,2017-05-13,133
-296,6903,Yukon River at Rampart,2018,2018-05-12,132
-241,6966,Yukon River at Rampart,2019,2019-05-12,132
-152,7087,Yukon River at Rampart,2021,2021-05-15,135
-74,7209,Yukon River at Rampart,2023,2023-05-16,136
-31,7273,Yukon River at Rampart,2024,2024-05-11,132
-845,5998,Yukon River at Ruby,1980,1980-05-07,128
-844,6000,Yukon River at Ruby,1982,1982-05-17,137
-843,6001,Yukon River at Ruby,1983,1983-05-09,129
-842,6002,Yukon River at Ruby,1984,1984-05-18,139
-841,6003,Yukon River at Ruby,1985,1985-05-21,141
-840,6004,Yukon River at Ruby,1986,1986-05-18,138
-839,6005,Yukon River at Ruby,1987,1987-05-15,135
-838,6007,Yukon River at Ruby,1989,1989-05-07,127
-837,6008,Yukon River at Ruby,1990,1990-05-07,127
-836,6010,Yukon River at Ruby,1992,1992-05-25,146
-835,6011,Yukon River at Ruby,1993,1993-05-03,123
-834,6015,Yukon River at Ruby,1997,1997-05-05,125
-833,6016,Yukon River at Ruby,1998,1998-05-07,127
-832,6017,Yukon River at Ruby,1999,1999-05-14,134
-831,6018,Yukon River at Ruby,2000,2000-05-13,134
-830,6019,Yukon River at Ruby,2001,2001-05-21,141
-829,6020,Yukon River at Ruby,2002,2002-05-13,133
-784,6209,Yukon River at Ruby,2003,2003-05-08,128
-779,6216,Yukon River at Ruby,2004,2004-05-03,124
-745,6261,Yukon River at Ruby,2005,2005-05-03,123
-723,6298,Yukon River at Ruby,2006,2006-05-16,136
-694,6342,Yukon River at Ruby,2007,2007-05-05,125
-655,6389,Yukon River at Ruby,2008,2008-05-11,132
-643,6405,Yukon River at Ruby,2009,2009-05-06,126
-606,6447,Yukon River at Ruby,2010,2010-05-08,128
-598,6461,Yukon River at Ruby,2011,2011-05-13,133
-562,6504,Yukon River at Ruby,2012,2012-05-08,129
-528,6563,Yukon River at Ruby,2013,2013-05-25,145
-499,6598,Yukon River at Ruby,2014,2014-05-04,124
-450,6683,Yukon River at Ruby,2015,2015-05-08,128
-404,6735,Yukon River at Ruby,2016,2016-05-02,123
-350,6804,Yukon River at Ruby,2017,2017-05-09,129
-301,6897,Yukon River at Ruby,2018,2018-05-12,132
-249,6953,Yukon River at Ruby,2019,2019-05-08,128
-219,7002,Yukon River at Ruby,2020,2020-05-06,127
-168,7068,Yukon River at Ruby,2021,2021-05-08,128
-126,7146,Yukon River at Ruby,2022,2022-05-11,131
-71,7212,Yukon River at Ruby,2023,2023-05-17,137
-24,7281,Yukon River at Ruby,2024,2024-05-13,134
-828,6044,Yukon River at Russian Mission,1981,1981-05-09,129
-827,6046,Yukon River at Russian Mission,1984,1984-05-20,141
-826,6047,Yukon River at Russian Mission,1985,1985-05-26,146
-825,6048,Yukon River at Russian Mission,1986,1986-05-23,143
-824,6049,Yukon River at Russian Mission,1987,1987-05-17,137
-823,6050,Yukon River at Russian Mission,1988,1988-05-12,133
-822,6051,Yukon River at Russian Mission,1989,1989-05-14,134
-821,6052,Yukon River at Russian Mission,1990,1990-05-18,138
-820,6053,Yukon River at Russian Mission,1991,1991-05-10,130
-819,6054,Yukon River at Russian Mission,1992,1992-05-24,145
-818,6055,Yukon River at Russian Mission,1993,1993-05-07,127
-817,6056,Yukon River at Russian Mission,1994,1994-05-09,129
-816,6057,Yukon River at Russian Mission,1995,1995-05-07,127
-815,6059,Yukon River at Russian Mission,1999,1999-05-18,138
-814,6060,Yukon River at Russian Mission,2000,2000-05-18,139
-813,6061,Yukon River at Russian Mission,2001,2001-05-23,143
-812,6062,Yukon River at Russian Mission,2002,2002-05-18,138
-753,6250,Yukon River at Russian Mission,2003,2003-05-16,136
-765,6236,Yukon River at Russian Mission,2004,2004-05-03,124
-672,6369,Yukon River at Russian Mission,2005,2005-05-09,129
-719,6306,Yukon River at Russian Mission,2006,2006-05-22,142
-689,6348,Yukon River at Russian Mission,2007,2007-05-10,130
-659,6382,Yukon River at Russian Mission,2008,2008-05-18,139
-628,6422,Yukon River at Russian Mission,2009,2009-05-17,137
-608,6445,Yukon River at Russian Mission,2010,2010-05-15,135
-591,6470,Yukon River at Russian Mission,2011,2011-05-19,139
-561,6505,Yukon River at Russian Mission,2012,2012-05-15,136
-536,6555,Yukon River at Russian Mission,2013,2013-05-28,148
-493,6605,Yukon River at Russian Mission,2014,2014-05-02,122
-444,6690,Yukon River at Russian Mission,2015,2015-05-13,133
-390,6757,Yukon River at Russian Mission,2016,2016-04-25,116
-344,6811,Yukon River at Russian Mission,2017,2017-05-06,126
-289,6910,Yukon River at Russian Mission,2018,2018-05-14,134
-254,6948,Yukon River at Russian Mission,2019,2019-05-05,125
-207,7018,Yukon River at Russian Mission,2020,2020-05-10,131
-106,7169,Yukon River at Russian Mission,2022,2022-05-18,138
-56,7232,Yukon River at Russian Mission,2023,2023-05-25,145
-21,7285,Yukon River at Russian Mission,2024,2024-05-11,132
-811,6090,Yukon River at Stevens Village,1981,1981-05-11,131
-810,6092,Yukon River at Stevens Village,1985,1985-05-21,141
-809,6093,Yukon River at Stevens Village,1986,1986-05-15,135
-808,6094,Yukon River at Stevens Village,1998,1998-05-09,129
-807,6095,Yukon River at Stevens Village,2001,2001-05-21,141
-806,6096,Yukon River at Stevens Village,2002,2002-05-17,137
-682,6356,Yukon River at Stevens Village,2003,2003-05-07,127
-771,6229,Yukon River at Stevens Village,2004,2004-05-10,131
-683,6355,Yukon River at Stevens Village,2005,2005-05-04,124
-725,6296,Yukon River at Stevens Village,2006,2006-05-14,134
-698,6338,Yukon River at Stevens Village,2007,2007-05-08,128
-664,6377,Yukon River at Stevens Village,2008,2008-05-10,131
-635,6415,Yukon River at Stevens Village,2009,2009-05-09,129
-617,6434,Yukon River at Stevens Village,2010,2010-05-04,124
-594,6467,Yukon River at Stevens Village,2011,2011-05-14,134
-560,6506,Yukon River at Stevens Village,2012,2012-05-10,131
-544,6546,Yukon River at Stevens Village,2013,2013-05-23,143
-502,6595,Yukon River at Stevens Village,2014,2014-05-07,127
-452,6681,Yukon River at Stevens Village,2015,2015-05-11,131
-401,6738,Yukon River at Stevens Village,2016,2016-05-03,124
-353,6801,Yukon River at Stevens Village,2017,2017-05-13,133
-297,6902,Yukon River at Stevens Village,2018,2018-05-11,131
-242,6965,Yukon River at Stevens Village,2019,2019-05-12,132
-156,7083,Yukon River at Stevens Village,2021,2021-05-12,132
-99,7176,Yukon River at Stevens Village,2022,2022-05-10,130
-67,7217,Yukon River at Stevens Village,2023,2023-05-16,136
-30,7274,Yukon River at Stevens Village,2024,2024-05-12,133
-805,6165,Yukon River at Tanana,1980,1980-05-03,124
-804,6166,Yukon River at Tanana,1981,1981-05-11,131
-803,6167,Yukon River at Tanana,1982,1982-05-16,136
-802,6168,Yukon River at Tanana,1983,1983-05-08,128
-801,6170,Yukon River at Tanana,1985,1985-05-20,140
-800,6171,Yukon River at Tanana,1986,1986-05-14,134
-799,6172,Yukon River at Tanana,1987,1987-05-16,136
-798,6173,Yukon River at Tanana,1988,1988-05-04,125
-797,6174,Yukon River at Tanana,1989,1989-05-08,128
-796,6175,Yukon River at Tanana,1990,1990-05-03,123
-795,6176,Yukon River at Tanana,1991,1991-05-07,127
-794,6177,Yukon River at Tanana,1992,1992-05-20,141
-793,6178,Yukon River at Tanana,1993,1993-05-08,128
-792,6179,Yukon River at Tanana,1994,1994-05-07,127
-791,6181,Yukon River at Tanana,1996,1996-05-18,139
-790,6182,Yukon River at Tanana,1998,1998-04-30,120
-789,6184,Yukon River at Tanana,2001,2001-05-18,138
-788,6185,Yukon River at Tanana,2002,2002-05-10,130
-757,6246,Yukon River at Tanana,2003,2003-05-07,127
-769,6231,Yukon River at Tanana,2004,2004-05-10,131
-679,6359,Yukon River at Tanana,2005,2005-05-01,121
-724,6297,Yukon River at Tanana,2006,2006-05-15,135
-695,6341,Yukon River at Tanana,2007,2007-04-30,120
-663,6378,Yukon River at Tanana,2008,2008-05-11,132
-633,6417,Yukon River at Tanana,2009,2009-05-10,130
-613,6438,Yukon River at Tanana,2010,2010-05-06,126
-593,6468,Yukon River at Tanana,2011,2011-05-13,133
-559,6507,Yukon River at Tanana,2012,2012-05-06,127
-542,6548,Yukon River at Tanana,2013,2013-05-24,144
-500,6597,Yukon River at Tanana,2014,2014-05-03,123
-459,6673,Yukon River at Tanana,2015,2015-05-07,127
-405,6734,Yukon River at Tanana,2016,2016-04-29,120
-351,6803,Yukon River at Tanana,2017,2017-05-10,130
-307,6890,Yukon River at Tanana,2018,2018-05-07,127
-253,6949,Yukon River at Tanana,2019,2019-05-05,125
-213,7009,Yukon River at Tanana,2020,2020-05-07,128
-167,7069,Yukon River at Tanana,2021,2021-05-07,127
-130,7142,Yukon River at Tanana,2022,2022-05-09,129
-79,7204,Yukon River at Tanana,2023,2023-05-14,134
-6,7303,Yukon River at Tanana,2024,2024-05-11,132
-988,5357,Yukon River nr Emmonak,1982,1982-05-31,151
-987,5358,Yukon River nr Emmonak,1983,1983-05-16,136
-986,5359,Yukon River nr Emmonak,1984,1984-05-25,146
-985,5360,Yukon River nr Emmonak,1986,1986-05-29,149
-984,5361,Yukon River nr Emmonak,1987,1987-05-28,148
-983,5362,Yukon River nr Emmonak,1988,1988-05-16,137
-982,5363,Yukon River nr Emmonak,1989,1989-05-29,149
-981,5365,Yukon River nr Emmonak,1991,1991-05-21,141
-980,5366,Yukon River nr Emmonak,1992,1992-06-03,155
-979,5367,Yukon River nr Emmonak,1993,1993-05-20,140
-978,5368,Yukon River nr Emmonak,1994,1994-05-19,139
-977,5369,Yukon River nr Emmonak,1995,1995-05-15,135
-976,5370,Yukon River nr Emmonak,1996,1996-05-18,139
-975,5371,Yukon River nr Emmonak,1997,1997-05-14,134
-974,5372,Yukon River nr Emmonak,1998,1998-05-20,140
-973,5373,Yukon River nr Emmonak,1999,1999-05-29,149
-972,5374,Yukon River nr Emmonak,2000,2000-05-28,149
-971,5375,Yukon River nr Emmonak,2001,2001-06-04,155
-970,5376,Yukon River nr Emmonak,2002,2002-05-21,141
-751,6252,Yukon River nr Emmonak,2003,2003-05-17,137
-762,6239,Yukon River nr Emmonak,2004,2004-05-08,129
-668,6373,Yukon River nr Emmonak,2005,2005-05-14,134
-715,6311,Yukon River nr Emmonak,2006,2006-05-28,148
-686,6351,Yukon River nr Emmonak,2007,2007-05-18,138
-651,6394,Yukon River nr Emmonak,2008,2008-05-23,144
-624,6426,Yukon River nr Emmonak,2009,2009-05-23,143
-590,6471,Yukon River nr Emmonak,2011,2011-05-22,142
-570,6494,Yukon River nr Emmonak,2012,2012-05-25,146
-531,6560,Yukon River nr Emmonak,2013,2013-06-03,154
-489,6609,Yukon River nr Emmonak,2014,2014-05-10,130
-439,6695,Yukon River nr Emmonak,2015,2015-05-16,136
-385,6762,Yukon River nr Emmonak,2016,2016-05-03,124
-339,6816,Yukon River nr Emmonak,2017,2017-05-14,134
-250,6952,Yukon River nr Emmonak,2019,2019-05-08,128
-197,7029,Yukon River nr Emmonak,2020,2020-05-14,135
-157,7081,Yukon River nr Emmonak,2021,2021-05-13,133
-113,7160,Yukon River nr Emmonak,2022,2022-05-15,135
-52,7236,Yukon River nr Emmonak,2023,2023-05-27,147
-14,7294,Yukon River nr Emmonak,2024,2024-05-24,145
+1368,3187,Kuskokwim River at Stony River,1997,1997-04-30,120
+1325,3188,Kuskokwim River at Stony River,1998,1998-04-28,118
+1286,3189,Kuskokwim River at Stony River,1999,1999-05-13,133
+1205,3190,Kuskokwim River at Stony River,2001,2001-05-11,131
+1160,3191,Kuskokwim River at Stony River,2002,2002-05-07,127
+1107,3513,Kuskokwim River at Stony River,2003,2003-05-02,122
+1060,3497,Kuskokwim River at Stony River,2004,2004-04-30,121
+1016,3554,Kuskokwim River at Stony River,2005,2005-05-02,122
+963,3565,Kuskokwim River at Stony River,2006,2006-05-11,131
+911,3581,Kuskokwim River at Stony River,2007,2007-04-29,119
+860,3597,Kuskokwim River at Stony River,2008,2008-05-06,127
+805,3609,Kuskokwim River at Stony River,2009,2009-05-02,122
+753,3625,Kuskokwim River at Stony River,2010,2010-05-07,127
+703,3642,Kuskokwim River at Stony River,2011,2011-05-01,121
+652,3653,Kuskokwim River at Stony River,2012,2012-04-30,121
+600,3676,Kuskokwim River at Stony River,2013,2013-05-20,140
+546,6580,Kuskokwim River at Stony River,2014,2014-05-02,122
+489,6658,Kuskokwim River at Stony River,2015,2015-04-30,120
+450,6727,Kuskokwim River at Stony River,2016,2016-04-23,114
+387,6776,Kuskokwim River at Stony River,2017,2017-04-26,116
+341,6878,Kuskokwim River at Stony River,2018,2018-05-02,122
+309,6944,Kuskokwim River at Stony River,2019,2019-04-28,118
+283,7031,Kuskokwim River at Stony River,2020,2020-04-28,119
+200,7050,Kuskokwim River at Stony River,2021,2021-04-30,120
+151,7133,Kuskokwim River at Stony River,2022,2022-05-05,125
+108,7196,Kuskokwim River at Stony River,2023,2023-05-12,132
+59,7265,Kuskokwim River at Stony River,2024,2024-05-02,123
+9,7326,Kuskokwim River at Stony River,2025,2025-04-27,117
+1880,3202,Kuskokwim River at Tuluksak,1984,1984-05-18,139
+1802,3203,Kuskokwim River at Tuluksak,1986,1986-05-16,136
+1638,3204,Kuskokwim River at Tuluksak,1990,1990-05-02,122
+1479,3197,Kuskokwim River at Tuluksak,1994,1994-05-07,127
+1443,3198,Kuskokwim River at Tuluksak,1995,1995-05-04,124
+1408,3199,Kuskokwim River at Tuluksak,1996,1996-05-09,130
+1326,3205,Kuskokwim River at Tuluksak,1998,1998-04-30,120
+1287,3206,Kuskokwim River at Tuluksak,1999,1999-05-18,138
+1247,3207,Kuskokwim River at Tuluksak,2000,2000-05-07,128
+1206,3208,Kuskokwim River at Tuluksak,2001,2001-05-17,137
+1161,3209,Kuskokwim River at Tuluksak,2002,2002-05-16,136
+1111,3517,Kuskokwim River at Tuluksak,2003,2003-05-02,122
+1068,3578,Kuskokwim River at Tuluksak,2004,2004-05-02,123
+1021,3560,Kuskokwim River at Tuluksak,2005,2005-05-07,127
+968,3570,Kuskokwim River at Tuluksak,2006,2006-05-21,141
+920,3590,Kuskokwim River at Tuluksak,2007,2007-05-01,121
+865,3602,Kuskokwim River at Tuluksak,2008,2008-05-12,133
+811,3615,Kuskokwim River at Tuluksak,2009,2009-05-06,126
+758,3632,Kuskokwim River at Tuluksak,2010,2010-05-15,135
+708,3647,Kuskokwim River at Tuluksak,2011,2011-05-09,129
+658,3660,Kuskokwim River at Tuluksak,2012,2012-05-13,134
+606,3682,Kuskokwim River at Tuluksak,2013,2013-05-25,145
+552,6586,Kuskokwim River at Tuluksak,2014,2014-05-04,124
+500,6671,Kuskokwim River at Tuluksak,2015,2015-05-05,125
+445,6722,Kuskokwim River at Tuluksak,2016,2016-04-21,112
+399,6791,Kuskokwim River at Tuluksak,2017,2017-05-07,127
+342,6879,Kuskokwim River at Tuluksak,2018,2018-05-04,124
+305,6940,Kuskokwim River at Tuluksak,2019,2019-04-30,120
+255,6994,Kuskokwim River at Tuluksak,2020,2020-05-04,125
+212,7063,Kuskokwim River at Tuluksak,2021,2021-05-06,126
+169,7152,Kuskokwim River at Tuluksak,2022,2022-05-04,124
+126,7214,Kuskokwim River at Tuluksak,2023,2023-05-18,138
+81,7292,Kuskokwim River at Tuluksak,2024,2024-05-04,125
+19,7337,Kuskokwim River at Tuluksak,2025,2025-05-02,122
+1970,2276,Susitna River at Sunshine,1980,1980-05-01,122
+1950,2277,Susitna River at Sunshine,1981,1981-05-06,126
+1898,2278,Susitna River at Sunshine,1983,1983-05-03,123
+1870,1997,Susitna River at Sunshine,1984,1984-05-03,124
+1832,1998,Susitna River at Sunshine,1985,1985-05-16,136
+1789,1999,Susitna River at Sunshine,1986,1986-05-06,126
+1748,2000,Susitna River at Sunshine,1987,1987-04-27,117
+1711,2001,Susitna River at Sunshine,1988,1988-04-26,117
+1667,2002,Susitna River at Sunshine,1989,1989-05-02,122
+1625,2003,Susitna River at Sunshine,1990,1990-05-03,123
+1590,2004,Susitna River at Sunshine,1991,1991-05-04,124
+1511,2006,Susitna River at Sunshine,1993,1993-05-04,124
+1468,2007,Susitna River at Sunshine,1994,1994-05-01,121
+1395,2008,Susitna River at Sunshine,1996,1996-05-03,124
+1357,2009,Susitna River at Sunshine,1997,1997-05-03,123
+1317,2010,Susitna River at Sunshine,1998,1998-04-23,113
+1148,2011,Susitna River at Sunshine,2002,2002-05-14,134
+1056,2197,Susitna River at Sunshine,2004,2004-04-23,114
+1010,2179,Susitna River at Sunshine,2005,2005-04-29,119
+958,2219,Susitna River at Sunshine,2006,2006-05-07,127
+906,2230,Susitna River at Sunshine,2007,2007-05-03,123
+854,2234,Susitna River at Sunshine,2008,2008-05-08,129
+801,2245,Susitna River at Sunshine,2009,2009-05-04,124
+746,2249,Susitna River at Sunshine,2010,2010-04-29,119
+648,2271,Susitna River at Sunshine,2012,2012-04-27,118
+535,6568,Susitna River at Sunshine,2014,2014-05-02,122
+486,6654,Susitna River at Sunshine,2015,2015-04-30,120
+436,6713,Susitna River at Sunshine,2016,2016-04-16,107
+432,6828,Susitna River at Sunshine,2017,2017-04-29,119
+346,6883,Susitna River at Sunshine,2018,2018-05-04,124
+296,6931,Susitna River at Sunshine,2019,2019-04-17,107
+285,7036,Susitna River at Sunshine,2020,2020-05-01,122
+204,7055,Susitna River at Sunshine,2021,2021-04-29,119
+155,7137,Susitna River at Sunshine,2022,2022-05-05,125
+106,7193,Susitna River at Sunshine,2023,2023-05-10,130
+55,7259,Susitna River at Sunshine,2024,2024-05-01,122
+11,7328,Susitna River at Sunshine,2025,2025-04-28,118
+1805,4083,Tanana River at Fairbanks D-S of Chena R,1986,1986-05-08,128
+1723,4084,Tanana River at Fairbanks D-S of Chena R,1988,1988-04-26,117
+1681,4085,Tanana River at Fairbanks D-S of Chena R,1989,1989-04-30,120
+1604,4087,Tanana River at Fairbanks D-S of Chena R,1991,1991-04-27,117
+1526,4089,Tanana River at Fairbanks D-S of Chena R,1993,1993-04-25,115
+1371,4092,Tanana River at Fairbanks D-S of Chena R,1997,1997-05-01,121
+1070,4343,Tanana River at Fairbanks D-S of Chena R,2004,2004-04-23,114
+1028,4394,Tanana River at Fairbanks D-S of Chena R,2005,2005-04-28,118
+974,4377,Tanana River at Fairbanks D-S of Chena R,2006,2006-05-06,126
+925,4391,Tanana River at Fairbanks D-S of Chena R,2007,2007-04-24,114
+871,4398,Tanana River at Fairbanks D-S of Chena R,2008,2008-05-07,128
+818,4410,Tanana River at Fairbanks D-S of Chena R,2009,2009-05-02,122
+764,4416,Tanana River at Fairbanks D-S of Chena R,2010,2010-04-29,119
+665,4435,Tanana River at Fairbanks D-S of Chena R,2012,2012-04-25,116
+612,4452,Tanana River at Fairbanks D-S of Chena R,2013,2013-05-16,136
+541,6575,Tanana River at Fairbanks D-S of Chena R,2014,2014-04-29,119
+492,6661,Tanana River at Fairbanks D-S of Chena R,2015,2015-04-30,120
+438,6715,Tanana River at Fairbanks D-S of Chena R,2016,2016-04-18,109
+391,6782,Tanana River at Fairbanks D-S of Chena R,2017,2017-05-01,121
+295,6930,Tanana River at Fairbanks D-S of Chena R,2019,2019-04-15,105
+209,7060,Tanana River at Fairbanks D-S of Chena R,2021,2021-05-05,125
+92,7304,Tanana River at Fairbanks D-S of Chena R,2024,2023-04-30,120
+10,7327,Tanana River at Fairbanks D-S of Chena R,2025,2025-04-30,120
+1973,4222,Tanana River at Nenana,1980,1980-04-29,120
+1954,4223,Tanana River at Nenana,1981,1981-04-30,120
+1934,4224,Tanana River at Nenana,1982,1982-05-10,130
+1905,4225,Tanana River at Nenana,1983,1983-04-29,119
+1881,4226,Tanana River at Nenana,1984,1984-05-09,130
+1845,4227,Tanana River at Nenana,1985,1985-05-11,131
+1806,4228,Tanana River at Nenana,1986,1986-05-08,128
+1762,4229,Tanana River at Nenana,1987,1987-05-05,125
+1725,4230,Tanana River at Nenana,1988,1988-04-27,118
+1683,4231,Tanana River at Nenana,1989,1989-05-01,121
+1642,4232,Tanana River at Nenana,1990,1990-04-24,114
+1605,4233,Tanana River at Nenana,1991,1991-05-01,121
+1567,4234,Tanana River at Nenana,1992,1992-05-14,135
+1528,4235,Tanana River at Nenana,1993,1993-04-24,114
+1482,4236,Tanana River at Nenana,1994,1994-04-29,119
+1445,4237,Tanana River at Nenana,1995,1995-04-26,116
+1410,4238,Tanana River at Nenana,1996,1996-05-06,127
+1372,4239,Tanana River at Nenana,1997,1997-04-30,120
+1331,4240,Tanana River at Nenana,1998,1998-04-20,110
+1289,4339,Tanana River at Nenana,1999,1999-04-29,119
+1248,4242,Tanana River at Nenana,2000,2000-05-01,122
+1207,4243,Tanana River at Nenana,2001,2001-05-08,128
+1164,4244,Tanana River at Nenana,2002,2002-05-07,127
+1116,4350,Tanana River at Nenana,2003,2003-04-29,119
+1072,4368,Tanana River at Nenana,2004,2004-04-24,115
+1026,4369,Tanana River at Nenana,2005,2005-04-28,118
+975,4378,Tanana River at Nenana,2006,2006-05-07,127
+922,4388,Tanana River at Nenana,2007,2007-04-27,117
+870,4396,Tanana River at Nenana,2008,2008-05-06,127
+819,4411,Tanana River at Nenana,2009,2009-05-01,121
+765,4417,Tanana River at Nenana,2010,2010-04-29,119
+713,4426,Tanana River at Nenana,2011,2011-05-04,124
+666,4437,Tanana River at Nenana,2012,2012-04-23,114
+613,4453,Tanana River at Nenana,2013,2013-05-20,140
+542,6576,Tanana River at Nenana,2014,2014-04-25,115
+484,6650,Tanana River at Nenana,2015,2015-04-24,114
+464,6749,Tanana River at Nenana,2016,2016-04-23,114
+392,6783,Tanana River at Nenana,2017,2017-05-01,121
+367,6906,Tanana River at Nenana,2018,2018-05-01,121
+292,6927,Tanana River at Nenana,2019,2019-04-14,104
+245,6977,Tanana River at Nenana,2020,2020-04-27,118
+198,7047,Tanana River at Nenana,2021,2021-04-30,120
+149,7129,Tanana River at Nenana,2022,2022-05-02,122
+103,7190,Tanana River at Nenana,2023,2023-05-08,128
+49,7248,Tanana River at Nenana,2024,2024-04-27,118
+4,7318,Tanana River at Nenana,2025,2025-04-27,117
+1974,4443,Tanana River nr Manley Hot Springs,1980,1980-04-29,120
+1955,4444,Tanana River nr Manley Hot Springs,1981,1981-05-06,126
+1844,4125,Tanana River nr Manley Hot Springs,1985,1985-05-15,135
+1761,4126,Tanana River nr Manley Hot Springs,1987,1987-05-07,127
+1724,4127,Tanana River nr Manley Hot Springs,1988,1988-05-02,123
+1682,4128,Tanana River nr Manley Hot Springs,1989,1989-05-04,124
+1641,4129,Tanana River nr Manley Hot Springs,1990,1990-04-16,106
+1566,4131,Tanana River nr Manley Hot Springs,1992,1992-05-19,140
+1527,4132,Tanana River nr Manley Hot Springs,1993,1993-04-26,116
+1481,4133,Tanana River nr Manley Hot Springs,1994,1994-05-01,121
+1330,4137,Tanana River nr Manley Hot Springs,1998,1998-04-22,112
+1288,4138,Tanana River nr Manley Hot Springs,1999,1999-05-07,127
+1163,4141,Tanana River nr Manley Hot Springs,2002,2002-05-10,130
+1117,4351,Tanana River nr Manley Hot Springs,2003,2003-05-03,123
+1071,4360,Tanana River nr Manley Hot Springs,2004,2004-04-28,119
+1024,4362,Tanana River nr Manley Hot Springs,2005,2005-04-30,120
+976,4380,Tanana River nr Manley Hot Springs,2006,2006-05-08,128
+921,4386,Tanana River nr Manley Hot Springs,2007,2007-04-26,116
+873,4405,Tanana River nr Manley Hot Springs,2008,2008-05-09,130
+816,4406,Tanana River nr Manley Hot Springs,2009,2009-05-03,123
+766,4419,Tanana River nr Manley Hot Springs,2010,2010-05-01,121
+712,4424,Tanana River nr Manley Hot Springs,2011,2011-05-08,128
+662,4431,Tanana River nr Manley Hot Springs,2012,2012-04-28,119
+609,4448,Tanana River nr Manley Hot Springs,2013,2013-05-23,143
+543,6577,Tanana River nr Manley Hot Springs,2014,2014-04-29,119
+494,6663,Tanana River nr Manley Hot Springs,2015,2015-05-01,121
+465,6750,Tanana River nr Manley Hot Springs,2016,2016-04-28,119
+354,6891,Tanana River nr Manley Hot Springs,2018,2018-05-08,128
+306,6941,Tanana River nr Manley Hot Springs,2019,2019-04-30,120
+260,7003,Tanana River nr Manley Hot Springs,2020,2020-05-01,122
+208,7059,Tanana River nr Manley Hot Springs,2021,2021-05-05,125
+110,7198,Tanana River nr Manley Hot Springs,2023,2023-05-12,132
+90,7302,Tanana River nr Manley Hot Springs,2024,2024-05-02,123
+1908,4994,Yukon River at Alakanuk,1983,1983-05-16,136
+1883,4995,Yukon River at Alakanuk,1984,1984-05-25,146
+1849,4996,Yukon River at Alakanuk,1985,1985-06-04,155
+1810,4997,Yukon River at Alakanuk,1986,1986-05-31,151
+1766,4998,Yukon River at Alakanuk,1987,1987-05-28,148
+1728,4999,Yukon River at Alakanuk,1988,1988-05-16,137
+1687,5000,Yukon River at Alakanuk,1989,1989-05-29,149
+1571,5001,Yukon River at Alakanuk,1992,1992-06-03,155
+1531,5002,Yukon River at Alakanuk,1993,1993-05-19,139
+1486,5003,Yukon River at Alakanuk,1994,1994-05-19,139
+1448,5004,Yukon River at Alakanuk,1995,1995-05-15,135
+1414,5005,Yukon River at Alakanuk,1996,1996-05-17,138
+1375,5006,Yukon River at Alakanuk,1997,1997-05-14,134
+1335,5007,Yukon River at Alakanuk,1998,1998-05-20,140
+1293,5008,Yukon River at Alakanuk,1999,1999-05-29,149
+1253,5009,Yukon River at Alakanuk,2000,2000-05-28,149
+1212,5010,Yukon River at Alakanuk,2001,2001-06-04,155
+1167,5011,Yukon River at Alakanuk,2002,2002-05-21,141
+1134,6253,Yukon River at Alakanuk,2003,2003-05-18,138
+1094,6240,Yukon River at Alakanuk,2004,2004-05-08,129
+1049,6374,Yukon River at Alakanuk,2005,2005-05-16,136
+992,6312,Yukon River at Alakanuk,2006,2006-05-28,148
+947,6352,Yukon River at Alakanuk,2007,2007-05-18,138
+888,6393,Yukon River at Alakanuk,2008,2008-05-23,144
+838,6425,Yukon River at Alakanuk,2009,2009-05-23,143
+788,6456,Yukon River at Alakanuk,2010,2010-05-24,144
+735,6483,Yukon River at Alakanuk,2011,2011-05-22,142
+671,6490,Yukon River at Alakanuk,2012,2012-05-25,146
+632,6559,Yukon River at Alakanuk,2013,2013-06-03,154
+521,6694,Yukon River at Alakanuk,2015,2015-05-16,136
+474,6761,Yukon River at Alakanuk,2016,2016-05-03,124
+421,6815,Yukon River at Alakanuk,2017,2017-05-14,134
+282,7030,Yukon River at Alakanuk,2020,2020-05-14,135
+229,7084,Yukon River at Alakanuk,2021,2021-05-16,136
+177,7161,Yukon River at Alakanuk,2022,2022-05-15,135
+142,7235,Yukon River at Alakanuk,2023,2023-05-27,147
+84,7295,Yukon River at Alakanuk,2024,2024-05-24,145
+35,7364,Yukon River at Alakanuk,2025,2025-05-17,137
+1909,5049,Yukon River at Anvik,1983,1983-05-14,134
+1884,5050,Yukon River at Anvik,1984,1984-05-20,141
+1850,5051,Yukon River at Anvik,1985,1985-05-26,146
+1811,5052,Yukon River at Anvik,1986,1986-05-25,145
+1767,5053,Yukon River at Anvik,1987,1987-05-24,144
+1688,5055,Yukon River at Anvik,1989,1989-05-15,135
+1645,5056,Yukon River at Anvik,1990,1990-05-09,129
+1609,5057,Yukon River at Anvik,1991,1991-05-10,130
+1572,5058,Yukon River at Anvik,1992,1992-05-27,148
+1532,5059,Yukon River at Anvik,1993,1993-05-11,131
+1487,5060,Yukon River at Anvik,1994,1994-05-11,131
+1449,5061,Yukon River at Anvik,1995,1995-05-08,128
+1294,5063,Yukon River at Anvik,1999,1999-05-20,140
+1254,5064,Yukon River at Anvik,2000,2000-05-20,141
+1213,5065,Yukon River at Anvik,2001,2001-05-30,150
+1168,5066,Yukon River at Anvik,2002,2002-05-20,140
+1130,6249,Yukon River at Anvik,2003,2003-05-13,133
+1095,6366,Yukon River at Anvik,2004,2004-05-05,126
+1043,6365,Yukon River at Anvik,2005,2005-05-07,127
+985,6304,Yukon River at Anvik,2006,2006-05-22,142
+941,6346,Yukon River at Anvik,2007,2007-05-11,131
+879,6380,Yukon River at Anvik,2008,2008-05-17,138
+833,6420,Yukon River at Anvik,2009,2009-05-13,133
+778,6441,Yukon River at Anvik,2010,2010-05-13,133
+722,6469,Yukon River at Anvik,2011,2011-05-17,137
+672,6491,Yukon River at Anvik,2012,2012-05-15,136
+626,6553,Yukon River at Anvik,2013,2013-05-30,150
+567,6603,Yukon River at Anvik,2014,2014-05-07,127
+515,6688,Yukon River at Anvik,2015,2015-05-14,134
+469,6756,Yukon River at Anvik,2016,2016-05-04,125
+415,6809,Yukon River at Anvik,2017,2017-05-11,131
+369,6908,Yukon River at Anvik,2018,2018-05-15,135
+270,7017,Yukon River at Anvik,2020,2020-05-10,131
+180,7166,Yukon River at Anvik,2022,2022-05-18,138
+134,7224,Yukon River at Anvik,2023,2023-05-19,139
+85,7296,Yukon River at Anvik,2024,2024-05-14,135
+28,7355,Yukon River at Anvik,2025,2025-05-12,132
+1851,5096,Yukon River at Beaver,1985,1985-05-19,139
+1376,5097,Yukon River at Beaver,1997,1997-05-07,127
+1336,5098,Yukon River at Beaver,1998,1998-05-10,130
+1295,5099,Yukon River at Beaver,1999,1999-05-14,134
+1255,5100,Yukon River at Beaver,2000,2000-05-11,132
+1214,5101,Yukon River at Beaver,2001,2001-05-20,140
+1169,5102,Yukon River at Beaver,2002,2002-05-15,135
+1119,6207,Yukon River at Beaver,2003,2003-05-08,128
+1078,6219,Yukon River at Beaver,2004,2004-05-06,127
+1031,6259,Yukon River at Beaver,2005,2005-05-02,122
+979,6294,Yukon River at Beaver,2006,2006-05-13,133
+933,6337,Yukon River at Beaver,2007,2007-05-07,127
+894,6401,Yukon River at Beaver,2008,2008-05-09,130
+823,6410,Yukon River at Beaver,2009,2009-05-08,128
+770,6432,Yukon River at Beaver,2010,2010-05-04,124
+730,6477,Yukon River at Beaver,2011,2011-05-12,132
+673,6492,Yukon River at Beaver,2012,2012-05-10,131
+619,6545,Yukon River at Beaver,2013,2013-05-22,142
+559,6594,Yukon River at Beaver,2014,2014-05-07,127
+508,6680,Yukon River at Beaver,2015,2015-05-10,130
+466,6752,Yukon River at Beaver,2016,2016-05-02,123
+407,6800,Yukon River at Beaver,2017,2017-05-12,132
+362,6901,Yukon River at Beaver,2018,2018-05-12,132
+324,6964,Yukon River at Beaver,2019,2019-05-12,132
+264,7007,Yukon River at Beaver,2020,2020-05-08,129
+221,7074,Yukon River at Beaver,2021,2021-05-12,132
+191,7177,Yukon River at Beaver,2022,2022-05-10,130
+122,7210,Yukon River at Beaver,2023,2022-05-15,135
+71,7280,Yukon River at Beaver,2024,2024-05-12,133
+41,7370,Yukon River at Beaver,2025,2025-05-12,132
+1910,5138,Yukon River at Circle,1983,1983-05-03,123
+1885,5139,Yukon River at Circle,1984,1984-05-18,139
+1852,5140,Yukon River at Circle,1985,1985-05-17,137
+1812,5141,Yukon River at Circle,1986,1986-05-13,133
+1768,5142,Yukon River at Circle,1987,1987-05-13,133
+1729,5143,Yukon River at Circle,1988,1988-05-05,126
+1689,5144,Yukon River at Circle,1989,1989-05-02,122
+1646,5145,Yukon River at Circle,1990,1990-05-04,124
+1610,5146,Yukon River at Circle,1991,1991-05-08,128
+1573,5147,Yukon River at Circle,1992,1992-05-24,145
+1533,5148,Yukon River at Circle,1993,1993-05-03,123
+1488,5149,Yukon River at Circle,1994,1994-05-03,123
+1450,5150,Yukon River at Circle,1995,1995-05-02,122
+1415,5151,Yukon River at Circle,1996,1996-05-16,137
+1337,5152,Yukon River at Circle,1998,1998-05-12,132
+1296,5153,Yukon River at Circle,1999,1999-05-12,132
+1256,5154,Yukon River at Circle,2000,2000-05-09,130
+1215,5155,Yukon River at Circle,2001,2001-05-19,139
+1170,5156,Yukon River at Circle,2002,2002-05-15,135
+1126,6244,Yukon River at Circle,2003,2003-05-08,128
+1083,6228,Yukon River at Circle,2004,2004-05-06,127
+1037,6354,Yukon River at Circle,2005,2005-04-30,120
+978,6292,Yukon River at Circle,2006,2006-05-10,130
+931,6335,Yukon River at Circle,2007,2007-05-05,125
+895,6402,Yukon River at Circle,2008,2008-05-08,129
+827,6414,Yukon River at Circle,2009,2009-05-06,126
+784,6451,Yukon River at Circle,2010,2010-05-06,126
+717,6464,Yukon River at Circle,2011,2011-05-15,135
+669,6488,Yukon River at Circle,2012,2012-05-04,125
+618,6544,Yukon River at Circle,2013,2013-05-19,139
+557,6592,Yukon River at Circle,2014,2014-05-05,125
+506,6678,Yukon River at Circle,2015,2015-05-11,131
+453,6732,Yukon River at Circle,2016,2016-04-29,120
+405,6798,Yukon River at Circle,2017,2017-05-08,128
+355,6893,Yukon River at Circle,2018,2018-05-10,130
+320,6957,Yukon River at Circle,2019,2019-05-09,129
+261,7004,Yukon River at Circle,2020,2020-05-06,127
+219,7071,Yukon River at Circle,2021,2021-05-10,130
+156,7138,Yukon River at Circle,2022,2022-05-09,129
+118,7206,Yukon River at Circle,2023,2023-05-13,133
+68,7276,Yukon River at Circle,2024,2024-05-12,133
+13,7330,Yukon River at Circle,2025,2025-05-05,125
+1980,6276,Yukon River at Dawson,1980,1980-05-06,127
+1966,6275,Yukon River at Dawson,1981,1981-05-08,128
+1942,6274,Yukon River at Dawson,1982,1982-05-13,133
+1911,5253,Yukon River at Dawson,1983,1983-05-01,121
+1886,5254,Yukon River at Dawson,1984,1984-05-08,129
+1853,5255,Yukon River at Dawson,1985,1985-05-16,136
+1813,5256,Yukon River at Dawson,1986,1986-05-12,132
+1779,6273,Yukon River at Dawson,1987,1987-05-09,129
+1730,5257,Yukon River at Dawson,1988,1988-05-01,122
+1701,6272,Yukon River at Dawson,1989,1989-04-29,119
+1657,6271,Yukon River at Dawson,1990,1990-04-30,120
+1611,5259,Yukon River at Dawson,1991,1991-05-01,121
+1574,5260,Yukon River at Dawson,1992,1992-05-08,129
+1534,5261,Yukon River at Dawson,1993,1993-04-29,119
+1489,5262,Yukon River at Dawson,1994,1994-05-01,121
+1451,5263,Yukon River at Dawson,1995,1995-05-02,122
+1416,5264,Yukon River at Dawson,1996,1996-05-07,128
+1384,6270,Yukon River at Dawson,1997,1997-05-04,124
+1350,6269,Yukon River at Dawson,1998,1998-05-04,124
+1309,6268,Yukon River at Dawson,1999,1999-05-08,128
+1268,6267,Yukon River at Dawson,2000,2000-05-05,126
+1229,6266,Yukon River at Dawson,2001,2001-05-08,128
+1185,6265,Yukon River at Dawson,2002,2002-05-12,132
+1125,6243,Yukon River at Dawson,2003,2003-05-01,121
+1082,6227,Yukon River at Dawson,2004,2004-05-04,125
+1036,6264,Yukon River at Dawson,2005,2005-04-29,119
+999,6328,Yukon River at Dawson,2006,2006-05-11,131
+936,6340,Yukon River at Dawson,2007,2007-05-04,124
+874,6375,Yukon River at Dawson,2008,2008-05-04,125
+826,6413,Yukon River at Dawson,2009,2009-05-04,124
+767,6406,Yukon River at Dawson,2010,2010-04-29,119
+736,6709,Yukon River at Dawson,2011,2011-05-07,127
+674,6493,Yukon River at Dawson,2012,2012-05-01,122
+616,6542,Yukon River at Dawson,2013,2013-05-15,135
+555,6590,Yukon River at Dawson,2014,2014-05-02,122
+497,6667,Yukon River at Dawson,2015,2015-05-04,124
+449,6726,Yukon River at Dawson,2016,2016-04-23,114
+403,6796,Yukon River at Dawson,2017,2017-05-03,123
+350,6887,Yukon River at Dawson,2018,2018-05-08,128
+297,6932,Yukon River at Dawson,2019,2019-04-23,113
+252,6991,Yukon River at Dawson,2020,2020-05-03,124
+207,7058,Yukon River at Dawson,2021,2021-05-06,126
+154,7136,Yukon River at Dawson,2022,2022-05-07,127
+104,7191,Yukon River at Dawson,2023,2023-05-09,129
+51,7254,Yukon River at Dawson,2024,2024-05-01,122
+6,7321,Yukon River at Dawson,2025,2025-04-30,120
+1976,5330,Yukon River at Eagle,1980,1980-05-03,124
+1960,5331,Yukon River at Eagle,1981,1981-05-07,127
+1936,5332,Yukon River at Eagle,1982,1982-05-14,134
+1912,5333,Yukon River at Eagle,1983,1983-05-02,122
+1887,5334,Yukon River at Eagle,1984,1984-05-09,130
+1854,5335,Yukon River at Eagle,1985,1985-05-16,136
+1814,5336,Yukon River at Eagle,1986,1986-05-11,131
+1769,5337,Yukon River at Eagle,1987,1987-05-09,129
+1731,5338,Yukon River at Eagle,1988,1988-05-02,123
+1690,5339,Yukon River at Eagle,1989,1989-04-29,119
+1647,5340,Yukon River at Eagle,1990,1990-04-25,115
+1612,5341,Yukon River at Eagle,1991,1991-04-28,118
+1575,5342,Yukon River at Eagle,1992,1992-05-12,133
+1535,5343,Yukon River at Eagle,1993,1993-04-29,119
+1490,5344,Yukon River at Eagle,1994,1994-04-29,119
+1452,5345,Yukon River at Eagle,1995,1995-04-29,119
+1417,5346,Yukon River at Eagle,1996,1996-05-08,129
+1377,5347,Yukon River at Eagle,1997,1997-05-04,124
+1338,5348,Yukon River at Eagle,1998,1998-04-29,119
+1297,5349,Yukon River at Eagle,1999,1999-05-11,131
+1257,5350,Yukon River at Eagle,2000,2000-05-06,127
+1216,5351,Yukon River at Eagle,2001,2001-05-12,132
+1171,5352,Yukon River at Eagle,2002,2002-05-18,138
+1120,6208,Yukon River at Eagle,2003,2003-04-27,117
+1075,6215,Yukon River at Eagle,2004,2004-05-03,124
+1034,6262,Yukon River at Eagle,2005,2005-04-28,118
+977,6291,Yukon River at Eagle,2006,2006-05-08,128
+930,6334,Yukon River at Eagle,2007,2007-04-30,120
+884,6385,Yukon River at Eagle,2008,2008-05-03,124
+820,6403,Yukon River at Eagle,2009,2009-05-03,123
+768,6429,Yukon River at Eagle,2010,2010-04-29,119
+718,6465,Yukon River at Eagle,2011,2011-05-07,127
+670,6489,Yukon River at Eagle,2012,2012-04-29,120
+617,6543,Yukon River at Eagle,2013,2013-05-17,137
+556,6591,Yukon River at Eagle,2014,2014-05-01,121
+501,6672,Yukon River at Eagle,2015,2015-05-06,126
+452,6729,Yukon River at Eagle,2016,2016-04-26,117
+404,6797,Yukon River at Eagle,2017,2017-05-04,124
+351,6888,Yukon River at Eagle,2018,2018-05-08,128
+307,6942,Yukon River at Eagle,2019,2019-05-01,121
+258,7001,Yukon River at Eagle,2020,2020-05-05,126
+215,7067,Yukon River at Eagle,2021,2021-05-08,128
+153,7135,Yukon River at Eagle,2022,2022-05-07,127
+107,7195,Yukon River at Eagle,2023,2023-05-12,132
+60,7266,Yukon River at Eagle,2024,2024-05-03,124
+7,7322,Yukon River at Eagle,2025,2025-05-01,121
+1914,5440,Yukon River at Fort Yukon,1983,1983-05-05,125
+1889,5441,Yukon River at Fort Yukon,1984,1984-05-19,140
+1855,5442,Yukon River at Fort Yukon,1985,1985-05-18,138
+1816,5443,Yukon River at Fort Yukon,1986,1986-05-17,137
+1771,5444,Yukon River at Fort Yukon,1987,1987-05-14,134
+1733,5445,Yukon River at Fort Yukon,1988,1988-05-05,126
+1692,5446,Yukon River at Fort Yukon,1989,1989-05-04,124
+1648,5447,Yukon River at Fort Yukon,1990,1990-05-02,122
+1614,5448,Yukon River at Fort Yukon,1991,1991-05-05,125
+1577,5449,Yukon River at Fort Yukon,1992,1992-05-23,144
+1537,5450,Yukon River at Fort Yukon,1993,1993-05-04,124
+1492,5451,Yukon River at Fort Yukon,1994,1994-05-05,125
+1454,5452,Yukon River at Fort Yukon,1995,1995-05-03,123
+1419,5453,Yukon River at Fort Yukon,1996,1996-05-17,138
+1340,5454,Yukon River at Fort Yukon,1998,1998-05-13,133
+1299,5455,Yukon River at Fort Yukon,1999,1999-05-13,133
+1252,4942,Yukon River at Fort Yukon,2000,2000-05-10,131
+1211,4943,Yukon River at Fort Yukon,2001,2001-05-20,140
+1173,5458,Yukon River at Fort Yukon,2002,2002-05-16,136
+1118,6206,Yukon River at Fort Yukon,2003,2003-05-09,129
+1077,6217,Yukon River at Fort Yukon,2004,2004-05-10,131
+1032,6260,Yukon River at Fort Yukon,2005,2005-05-01,121
+998,6324,Yukon River at Fort Yukon,2006,2006-05-12,132
+932,6336,Yukon River at Fort Yukon,2007,2007-05-07,127
+892,6399,Yukon River at Fort Yukon,2008,2008-05-07,128
+825,6412,Yukon River at Fort Yukon,2009,2009-05-06,126
+773,6435,Yukon River at Fort Yukon,2010,2010-05-04,124
+719,6466,Yukon River at Fort Yukon,2011,2011-05-13,133
+687,6508,Yukon River at Fort Yukon,2012,2012-05-09,130
+614,6540,Yukon River at Fort Yukon,2013,2013-05-21,141
+558,6593,Yukon River at Fort Yukon,2014,2014-05-06,126
+507,6679,Yukon River at Fort Yukon,2015,2015-05-12,132
+454,6733,Yukon River at Fort Yukon,2016,2016-05-01,122
+406,6799,Yukon River at Fort Yukon,2017,2017-05-11,131
+358,6896,Yukon River at Fort Yukon,2018,2018-05-12,132
+323,6963,Yukon River at Fort Yukon,2019,2019-05-11,131
+279,7027,Yukon River at Fort Yukon,2020,2020-05-08,129
+223,7077,Yukon River at Fort Yukon,2021,2021-05-11,131
+171,7155,Yukon River at Fort Yukon,2022,2022-05-10,130
+117,7205,Yukon River at Fort Yukon,2023,2023-05-14,134
+67,7275,Yukon River at Fort Yukon,2024,2024-05-12,133
+15,7332,Yukon River at Fort Yukon,2025,2025-05-06,126
+1981,6521,Yukon River at Galena,1980,1980-05-10,131
+1943,6522,Yukon River at Galena,1982,1982-05-20,140
+1915,5494,Yukon River at Galena,1983,1983-05-10,130
+1890,5495,Yukon River at Galena,1984,1984-05-19,140
+1856,5496,Yukon River at Galena,1985,1985-05-23,143
+1817,5497,Yukon River at Galena,1986,1986-05-20,140
+1772,5498,Yukon River at Galena,1987,1987-05-16,136
+1734,5499,Yukon River at Galena,1988,1988-05-07,128
+1693,5500,Yukon River at Galena,1989,1989-05-07,127
+1649,5501,Yukon River at Galena,1990,1990-05-08,128
+1615,5502,Yukon River at Galena,1991,1991-05-08,128
+1578,5503,Yukon River at Galena,1992,1992-05-25,146
+1538,5504,Yukon River at Galena,1993,1993-05-06,126
+1493,5505,Yukon River at Galena,1994,1994-05-07,127
+1455,5506,Yukon River at Galena,1995,1995-05-03,123
+1420,5507,Yukon River at Galena,1996,1996-05-16,137
+1379,5508,Yukon River at Galena,1997,1997-05-07,127
+1341,5509,Yukon River at Galena,1998,1998-05-08,128
+1300,5510,Yukon River at Galena,1999,1999-05-17,137
+1259,5511,Yukon River at Galena,2000,2000-05-12,133
+1218,5512,Yukon River at Galena,2001,2001-05-22,142
+1174,5513,Yukon River at Galena,2002,2002-05-16,136
+1128,6247,Yukon River at Galena,2003,2003-05-11,131
+1087,6232,Yukon River at Galena,2004,2004-05-06,127
+1035,6263,Yukon River at Galena,2005,2005-05-05,125
+997,6323,Yukon River at Galena,2006,2006-05-16,136
+939,6343,Yukon River at Galena,2007,2007-05-10,130
+893,6400,Yukon River at Galena,2008,2008-05-13,134
+831,6418,Yukon River at Galena,2009,2009-05-11,131
+783,6449,Yukon River at Galena,2010,2010-05-11,131
+715,6457,Yukon River at Galena,2011,2011-05-16,136
+667,6486,Yukon River at Galena,2012,2012-05-11,132
+623,6549,Yukon River at Galena,2013,2013-05-26,146
+564,6599,Yukon River at Galena,2014,2014-05-05,125
+512,6684,Yukon River at Galena,2015,2015-05-09,129
+457,6736,Yukon River at Galena,2016,2016-05-02,123
+412,6805,Yukon River at Galena,2017,2017-05-11,131
+357,6895,Yukon River at Galena,2018,2018-05-12,132
+315,6950,Yukon River at Galena,2019,2019-05-09,129
+262,7005,Yukon River at Galena,2020,2020-05-07,128
+214,7066,Yukon River at Galena,2021,2021-05-09,129
+172,7156,Yukon River at Galena,2022,2022-05-11,131
+129,7218,Yukon River at Galena,2023,2023-05-19,139
+69,7277,Yukon River at Galena,2024,2024-05-11,132
+21,7339,Yukon River at Galena,2025,2025-05-08,128
+1916,5639,Yukon River at Holy Cross,1983,1983-05-14,134
+1857,5640,Yukon River at Holy Cross,1985,1985-05-26,146
+1818,5641,Yukon River at Holy Cross,1986,1986-05-25,145
+1773,5642,Yukon River at Holy Cross,1987,1987-05-19,139
+1735,5643,Yukon River at Holy Cross,1988,1988-05-12,133
+1694,5644,Yukon River at Holy Cross,1989,1989-05-15,135
+1650,5645,Yukon River at Holy Cross,1990,1990-05-12,132
+1616,5646,Yukon River at Holy Cross,1991,1991-05-10,130
+1579,5647,Yukon River at Holy Cross,1992,1992-05-25,146
+1494,5648,Yukon River at Holy Cross,1994,1994-05-11,131
+1456,5649,Yukon River at Holy Cross,1995,1995-05-08,128
+1342,5651,Yukon River at Holy Cross,1998,1998-05-16,136
+1301,5652,Yukon River at Holy Cross,1999,1999-05-18,138
+1260,5653,Yukon River at Holy Cross,2000,2000-05-18,139
+1219,5654,Yukon River at Holy Cross,2001,2001-05-24,144
+1175,5655,Yukon River at Holy Cross,2002,2002-05-17,137
+1137,6367,Yukon River at Holy Cross,2003,2003-05-12,132
+1089,6235,Yukon River at Holy Cross,2004,2004-05-03,124
+1044,6368,Yukon River at Holy Cross,2005,2005-05-08,128
+986,6305,Yukon River at Holy Cross,2006,2006-05-22,142
+942,6347,Yukon River at Holy Cross,2007,2007-05-10,130
+880,6381,Yukon River at Holy Cross,2008,2008-05-18,139
+834,6421,Yukon River at Holy Cross,2009,2009-05-13,133
+780,6444,Yukon River at Holy Cross,2010,2010-05-15,135
+726,6473,Yukon River at Holy Cross,2011,2011-05-19,139
+676,6496,Yukon River at Holy Cross,2012,2012-05-15,136
+627,6554,Yukon River at Holy Cross,2013,2013-05-29,149
+568,6604,Yukon River at Holy Cross,2014,2014-05-07,127
+516,6689,Yukon River at Holy Cross,2015,2015-05-11,131
+467,6753,Yukon River at Holy Cross,2016,2016-04-26,117
+416,6810,Yukon River at Holy Cross,2017,2017-05-06,126
+370,6909,Yukon River at Holy Cross,2018,2018-05-16,136
+311,6946,Yukon River at Holy Cross,2019,2019-05-05,125
+278,7026,Yukon River at Holy Cross,2020,2020-05-06,127
+231,7086,Yukon River at Holy Cross,2021,2021-05-12,132
+182,7168,Yukon River at Holy Cross,2022,2022-05-18,138
+133,7223,Yukon River at Holy Cross,2023,2023-05-19,139
+82,7293,Yukon River at Holy Cross,2024,2024-05-09,130
+30,7358,Yukon River at Holy Cross,2025,2025-05-12,132
+1977,5686,Yukon River at Kaltag,1980,1980-05-09,130
+1938,5687,Yukon River at Kaltag,1982,1982-05-19,139
+1917,5688,Yukon River at Kaltag,1983,1983-05-12,132
+1858,5689,Yukon River at Kaltag,1985,1985-05-23,143
+1819,5690,Yukon River at Kaltag,1986,1986-05-22,142
+1736,5692,Yukon River at Kaltag,1988,1988-05-10,131
+1695,5693,Yukon River at Kaltag,1989,1989-05-14,134
+1617,5694,Yukon River at Kaltag,1991,1991-05-08,128
+1580,5695,Yukon River at Kaltag,1992,1992-05-26,147
+1539,5696,Yukon River at Kaltag,1993,1993-05-10,130
+1457,5697,Yukon River at Kaltag,1995,1995-05-06,126
+1380,5698,Yukon River at Kaltag,1997,1997-05-06,126
+1343,5699,Yukon River at Kaltag,1998,1998-05-12,132
+1302,5700,Yukon River at Kaltag,1999,1999-05-18,138
+1261,5701,Yukon River at Kaltag,2000,2000-05-17,138
+1220,5702,Yukon River at Kaltag,2001,2001-05-30,150
+1176,5703,Yukon River at Kaltag,2002,2002-05-17,137
+1129,6248,Yukon River at Kaltag,2003,2003-05-12,132
+1088,6233,Yukon River at Kaltag,2004,2004-05-04,125
+1042,6364,Yukon River at Kaltag,2005,2005-05-06,126
+984,6303,Yukon River at Kaltag,2006,2006-05-19,139
+940,6345,Yukon River at Kaltag,2007,2007-05-08,128
+878,6379,Yukon River at Kaltag,2008,2008-05-13,134
+832,6419,Yukon River at Kaltag,2009,2009-05-12,132
+777,6440,Yukon River at Kaltag,2010,2010-05-12,132
+732,6479,Yukon River at Kaltag,2011,2011-05-16,136
+677,6497,Yukon River at Kaltag,2012,2012-05-14,135
+625,6552,Yukon River at Kaltag,2013,2013-05-30,150
+566,6602,Yukon River at Kaltag,2014,2014-05-07,127
+514,6687,Yukon River at Kaltag,2015,2015-05-11,131
+468,6755,Yukon River at Kaltag,2016,2016-05-01,122
+414,6808,Yukon River at Kaltag,2017,2017-05-10,130
+368,6907,Yukon River at Kaltag,2018,2018-05-14,134
+316,6951,Yukon River at Kaltag,2019,2019-05-12,132
+277,7025,Yukon River at Kaltag,2020,2020-05-07,128
+237,7093,Yukon River at Kaltag,2021,2021-05-11,131
+174,7158,Yukon River at Kaltag,2022,2022-05-12,132
+131,7221,Yukon River at Kaltag,2023,2023-05-18,138
+74,7284,Yukon River at Kaltag,2024,2024-05-14,135
+24,7350,Yukon River at Kaltag,2025,2025-05-10,130
+1961,5765,Yukon River at Marshall,1981,1981-05-10,130
+1891,5767,Yukon River at Marshall,1984,1984-05-20,141
+1859,5768,Yukon River at Marshall,1985,1985-05-30,150
+1820,5769,Yukon River at Marshall,1986,1986-05-14,134
+1774,5770,Yukon River at Marshall,1987,1987-05-16,136
+1737,5771,Yukon River at Marshall,1988,1988-05-12,133
+1696,5772,Yukon River at Marshall,1989,1989-05-15,135
+1651,5773,Yukon River at Marshall,1990,1990-05-11,131
+1618,5774,Yukon River at Marshall,1991,1991-05-09,129
+1581,5775,Yukon River at Marshall,1992,1992-05-27,148
+1495,5776,Yukon River at Marshall,1994,1994-05-11,131
+1458,5777,Yukon River at Marshall,1995,1995-05-08,128
+1421,5778,Yukon River at Marshall,1996,1996-05-14,135
+1344,5779,Yukon River at Marshall,1998,1998-05-12,132
+1303,5780,Yukon River at Marshall,1999,1999-05-20,140
+1262,5781,Yukon River at Marshall,2000,2000-05-16,137
+989,6308,Yukon River at Marshall,2006,2006-05-23,143
+842,6446,Yukon River at Marshall,2009,2009-05-20,140
+779,6442,Yukon River at Marshall,2010,2010-05-17,137
+733,6481,Yukon River at Marshall,2011,2011-05-17,137
+678,6499,Yukon River at Marshall,2012,2012-05-15,136
+629,6556,Yukon River at Marshall,2013,2013-05-27,147
+570,6606,Yukon River at Marshall,2014,2014-05-03,123
+518,6691,Yukon River at Marshall,2015,2015-05-11,131
+471,6758,Yukon River at Marshall,2016,2016-04-25,116
+418,6812,Yukon River at Marshall,2017,2017-05-10,130
+372,6911,Yukon River at Marshall,2018,2018-05-15,135
+312,6947,Yukon River at Marshall,2019,2019-05-05,125
+272,7019,Yukon River at Marshall,2020,2020-05-10,131
+233,7088,Yukon River at Marshall,2021,2021-05-13,133
+184,7170,Yukon River at Marshall,2022,2022-05-15,135
+145,7238,Yukon River at Marshall,2023,2023-05-25,145
+77,7287,Yukon River at Marshall,2024,2024-05-11,132
+32,7360,Yukon River at Marshall,2025,2025-05-12,132
+1918,5811,Yukon River at Mountain Village,1983,1983-05-14,134
+1860,5812,Yukon River at Mountain Village,1985,1985-05-29,149
+1821,5813,Yukon River at Mountain Village,1986,1986-05-25,145
+1775,5814,Yukon River at Mountain Village,1987,1987-05-21,141
+1738,5815,Yukon River at Mountain Village,1988,1988-05-13,134
+1697,5816,Yukon River at Mountain Village,1989,1989-05-27,147
+1652,5817,Yukon River at Mountain Village,1990,1990-05-14,134
+1619,5818,Yukon River at Mountain Village,1991,1991-05-16,136
+1540,5819,Yukon River at Mountain Village,1993,1993-05-11,131
+1496,5820,Yukon River at Mountain Village,1994,1994-05-14,134
+1459,5821,Yukon River at Mountain Village,1995,1995-05-13,133
+1345,5822,Yukon River at Mountain Village,1998,1998-05-19,139
+1304,5823,Yukon River at Mountain Village,1999,1999-05-25,145
+1263,5824,Yukon River at Mountain Village,2000,2000-05-26,147
+1221,5825,Yukon River at Mountain Village,2001,2001-05-31,151
+1177,5826,Yukon River at Mountain Village,2002,2002-05-19,139
+1138,6372,Yukon River at Mountain Village,2003,2003-05-10,130
+1092,6238,Yukon River at Mountain Village,2004,2004-05-02,123
+1047,6371,Yukon River at Mountain Village,2005,2005-05-12,132
+990,6310,Yukon River at Mountain Village,2006,2006-05-25,145
+945,6350,Yukon River at Mountain Village,2007,2007-05-13,133
+887,6392,Yukon River at Mountain Village,2008,2008-05-19,140
+837,6424,Yukon River at Mountain Village,2009,2009-05-22,142
+787,6455,Yukon River at Mountain Village,2010,2010-05-20,140
+725,6472,Yukon River at Mountain Village,2011,2011-05-19,139
+679,6500,Yukon River at Mountain Village,2012,2012-05-22,143
+631,6558,Yukon River at Mountain Village,2013,2013-06-01,152
+572,6608,Yukon River at Mountain Village,2014,2014-05-04,124
+520,6693,Yukon River at Mountain Village,2015,2015-05-12,132
+473,6760,Yukon River at Mountain Village,2016,2016-04-28,119
+420,6814,Yukon River at Mountain Village,2017,2017-05-11,131
+374,6913,Yukon River at Mountain Village,2018,2018-05-14,134
+319,6959,Yukon River at Mountain Village,2019,2019-05-08,128
+274,7021,Yukon River at Mountain Village,2020,2020-05-11,132
+238,7094,Yukon River at Mountain Village,2021,2021-05-12,132
+185,7171,Yukon River at Mountain Village,2022,2022-05-10,130
+140,7233,Yukon River at Mountain Village,2023,2023-05-23,143
+76,7286,Yukon River at Mountain Village,2024,2024-05-19,140
+44,7373,Yukon River at Mountain Village,2025,2025-05-13,133
+1822,5867,Yukon River at Nulato,1986,1986-05-17,137
+1381,5868,Yukon River at Nulato,1997,1997-05-06,126
+1346,5869,Yukon River at Nulato,1998,1998-05-09,129
+1305,5870,Yukon River at Nulato,1999,1999-05-17,137
+1264,5871,Yukon River at Nulato,2000,2000-05-24,145
+1222,5872,Yukon River at Nulato,2001,2001-05-24,144
+1178,5873,Yukon River at Nulato,2002,2002-05-16,136
+1122,6210,Yukon River at Nulato,2003,2003-05-10,130
+1074,6214,Yukon River at Nulato,2004,2004-05-04,125
+1041,6360,Yukon River at Nulato,2005,2005-05-05,125
+994,6318,Yukon River at Nulato,2006,2006-05-16,136
+926,6330,Yukon River at Nulato,2007,2007-05-04,124
+886,6391,Yukon River at Nulato,2008,2008-05-12,133
+822,6409,Yukon River at Nulato,2009,2009-05-08,128
+785,6453,Yukon River at Nulato,2010,2010-05-10,130
+731,6478,Yukon River at Nulato,2011,2011-05-16,136
+680,6501,Yukon River at Nulato,2012,2012-05-09,130
+624,6551,Yukon River at Nulato,2013,2013-05-30,150
+565,6601,Yukon River at Nulato,2014,2014-05-07,127
+513,6686,Yukon River at Nulato,2015,2015-05-11,131
+461,6740,Yukon River at Nulato,2016,2016-05-04,125
+413,6807,Yukon River at Nulato,2017,2017-05-12,132
+366,6905,Yukon River at Nulato,2018,2018-05-12,132
+220,7073,Yukon River at Nulato,2021,2021-05-11,131
+173,7157,Yukon River at Nulato,2022,2022-05-12,132
+132,7222,Yukon River at Nulato,2023,2023-05-18,138
+73,7283,Yukon River at Nulato,2024,2024-05-13,134
+1919,5893,Yukon River at Pilot Station,1983,1983-05-13,133
+1861,5894,Yukon River at Pilot Station,1985,1985-06-03,154
+1653,5896,Yukon River at Pilot Station,1990,1990-05-14,134
+1460,5897,Yukon River at Pilot Station,1995,1995-05-09,129
+1223,5898,Yukon River at Pilot Station,2001,2001-05-29,149
+1179,5899,Yukon River at Pilot Station,2002,2002-05-18,138
+1132,6251,Yukon River at Pilot Station,2003,2003-05-15,135
+1091,6237,Yukon River at Pilot Station,2004,2004-05-03,124
+1046,6370,Yukon River at Pilot Station,2005,2005-05-11,131
+988,6307,Yukon River at Pilot Station,2006,2006-05-25,145
+944,6349,Yukon River at Pilot Station,2007,2007-05-11,131
+882,6383,Yukon River at Pilot Station,2008,2008-05-19,140
+836,6423,Yukon River at Pilot Station,2009,2009-05-17,137
+786,6454,Yukon River at Pilot Station,2010,2010-05-19,139
+734,6482,Yukon River at Pilot Station,2011,2011-05-17,137
+681,6502,Yukon River at Pilot Station,2012,2012-05-17,138
+630,6557,Yukon River at Pilot Station,2013,2013-05-31,151
+571,6607,Yukon River at Pilot Station,2014,2014-05-03,123
+519,6692,Yukon River at Pilot Station,2015,2015-05-14,134
+472,6759,Yukon River at Pilot Station,2016,2016-04-29,120
+419,6813,Yukon River at Pilot Station,2017,2017-05-05,125
+373,6912,Yukon River at Pilot Station,2018,2018-05-13,133
+321,6960,Yukon River at Pilot Station,2019,2019-05-07,127
+273,7020,Yukon River at Pilot Station,2020,2020-05-11,132
+226,7080,Yukon River at Pilot Station,2021,2021-05-13,133
+175,7159,Yukon River at Pilot Station,2022,2022-05-09,129
+141,7234,Yukon River at Pilot Station,2023,2023-05-25,145
+70,7279,Yukon River at Pilot Station,2024,2024-05-14,135
+43,7372,Yukon River at Pilot Station,2025,2025-05-12,132
+1962,5960,Yukon River at Rampart,1981,1981-05-11,131
+1939,5961,Yukon River at Rampart,1982,1982-05-19,139
+1920,5962,Yukon River at Rampart,1983,1983-05-10,130
+1422,5963,Yukon River at Rampart,1996,1996-05-18,139
+1382,5964,Yukon River at Rampart,1997,1997-05-09,129
+1306,5965,Yukon River at Rampart,1999,1999-05-16,136
+1265,5966,Yukon River at Rampart,2000,2000-05-13,134
+1224,5967,Yukon River at Rampart,2001,2001-05-21,141
+1180,5968,Yukon River at Rampart,2002,2002-05-16,136
+1136,6357,Yukon River at Rampart,2003,2003-05-08,128
+1085,6230,Yukon River at Rampart,2004,2004-05-10,131
+1039,6358,Yukon River at Rampart,2005,2005-05-04,124
+980,6295,Yukon River at Rampart,2006,2006-05-14,134
+935,6339,Yukon River at Rampart,2007,2007-05-09,129
+875,6376,Yukon River at Rampart,2008,2008-05-10,131
+829,6416,Yukon River at Rampart,2009,2009-05-10,130
+775,6437,Yukon River at Rampart,2010,2010-05-05,125
+682,6503,Yukon River at Rampart,2012,2012-05-10,131
+621,6547,Yukon River at Rampart,2013,2013-05-24,144
+561,6596,Yukon River at Rampart,2014,2014-05-07,127
+510,6682,Yukon River at Rampart,2015,2015-05-11,131
+460,6739,Yukon River at Rampart,2016,2016-05-03,124
+409,6802,Yukon River at Rampart,2017,2017-05-13,133
+364,6903,Yukon River at Rampart,2018,2018-05-12,132
+326,6966,Yukon River at Rampart,2019,2019-05-12,132
+232,7087,Yukon River at Rampart,2021,2021-05-15,135
+121,7209,Yukon River at Rampart,2023,2023-05-16,136
+65,7273,Yukon River at Rampart,2024,2024-05-11,132
+27,7354,Yukon River at Rampart,2025,2025-05-13,133
+1978,5998,Yukon River at Ruby,1980,1980-05-07,128
+1940,6000,Yukon River at Ruby,1982,1982-05-17,137
+1921,6001,Yukon River at Ruby,1983,1983-05-09,129
+1892,6002,Yukon River at Ruby,1984,1984-05-18,139
+1862,6003,Yukon River at Ruby,1985,1985-05-21,141
+1823,6004,Yukon River at Ruby,1986,1986-05-18,138
+1776,6005,Yukon River at Ruby,1987,1987-05-15,135
+1698,6007,Yukon River at Ruby,1989,1989-05-07,127
+1654,6008,Yukon River at Ruby,1990,1990-05-07,127
+1582,6010,Yukon River at Ruby,1992,1992-05-25,146
+1541,6011,Yukon River at Ruby,1993,1993-05-03,123
+1383,6015,Yukon River at Ruby,1997,1997-05-05,125
+1347,6016,Yukon River at Ruby,1998,1998-05-07,127
+1307,6017,Yukon River at Ruby,1999,1999-05-14,134
+1266,6018,Yukon River at Ruby,2000,2000-05-13,134
+1225,6019,Yukon River at Ruby,2001,2001-05-21,141
+1181,6020,Yukon River at Ruby,2002,2002-05-13,133
+1121,6209,Yukon River at Ruby,2003,2003-05-08,128
+1076,6216,Yukon River at Ruby,2004,2004-05-03,124
+1033,6261,Yukon River at Ruby,2005,2005-05-03,123
+983,6298,Yukon River at Ruby,2006,2006-05-16,136
+938,6342,Yukon River at Ruby,2007,2007-05-05,125
+885,6389,Yukon River at Ruby,2008,2008-05-11,132
+821,6405,Yukon River at Ruby,2009,2009-05-06,126
+782,6447,Yukon River at Ruby,2010,2010-05-08,128
+716,6461,Yukon River at Ruby,2011,2011-05-13,133
+683,6504,Yukon River at Ruby,2012,2012-05-08,129
+636,6563,Yukon River at Ruby,2013,2013-05-25,145
+563,6598,Yukon River at Ruby,2014,2014-05-04,124
+511,6683,Yukon River at Ruby,2015,2015-05-08,128
+456,6735,Yukon River at Ruby,2016,2016-05-02,123
+411,6804,Yukon River at Ruby,2017,2017-05-09,129
+359,6897,Yukon River at Ruby,2018,2018-05-12,132
+318,6953,Yukon River at Ruby,2019,2019-05-08,128
+259,7002,Yukon River at Ruby,2020,2020-05-06,127
+216,7068,Yukon River at Ruby,2021,2021-05-08,128
+163,7146,Yukon River at Ruby,2022,2022-05-11,131
+124,7212,Yukon River at Ruby,2023,2023-05-17,137
+72,7281,Yukon River at Ruby,2024,2024-05-13,134
+29,7357,Yukon River at Ruby,2025,2025-05-07,127
+1963,6044,Yukon River at Russian Mission,1981,1981-05-09,129
+1893,6046,Yukon River at Russian Mission,1984,1984-05-20,141
+1863,6047,Yukon River at Russian Mission,1985,1985-05-26,146
+1824,6048,Yukon River at Russian Mission,1986,1986-05-23,143
+1777,6049,Yukon River at Russian Mission,1987,1987-05-17,137
+1739,6050,Yukon River at Russian Mission,1988,1988-05-12,133
+1699,6051,Yukon River at Russian Mission,1989,1989-05-14,134
+1655,6052,Yukon River at Russian Mission,1990,1990-05-18,138
+1620,6053,Yukon River at Russian Mission,1991,1991-05-10,130
+1583,6054,Yukon River at Russian Mission,1992,1992-05-24,145
+1542,6055,Yukon River at Russian Mission,1993,1993-05-07,127
+1497,6056,Yukon River at Russian Mission,1994,1994-05-09,129
+1461,6057,Yukon River at Russian Mission,1995,1995-05-07,127
+1308,6059,Yukon River at Russian Mission,1999,1999-05-18,138
+1267,6060,Yukon River at Russian Mission,2000,2000-05-18,139
+1226,6061,Yukon River at Russian Mission,2001,2001-05-23,143
+1182,6062,Yukon River at Russian Mission,2002,2002-05-18,138
+1131,6250,Yukon River at Russian Mission,2003,2003-05-16,136
+1090,6236,Yukon River at Russian Mission,2004,2004-05-03,124
+1045,6369,Yukon River at Russian Mission,2005,2005-05-09,129
+987,6306,Yukon River at Russian Mission,2006,2006-05-22,142
+943,6348,Yukon River at Russian Mission,2007,2007-05-10,130
+881,6382,Yukon River at Russian Mission,2008,2008-05-18,139
+835,6422,Yukon River at Russian Mission,2009,2009-05-17,137
+781,6445,Yukon River at Russian Mission,2010,2010-05-15,135
+723,6470,Yukon River at Russian Mission,2011,2011-05-19,139
+684,6505,Yukon River at Russian Mission,2012,2012-05-15,136
+628,6555,Yukon River at Russian Mission,2013,2013-05-28,148
+569,6605,Yukon River at Russian Mission,2014,2014-05-02,122
+517,6690,Yukon River at Russian Mission,2015,2015-05-13,133
+470,6757,Yukon River at Russian Mission,2016,2016-04-25,116
+417,6811,Yukon River at Russian Mission,2017,2017-05-06,126
+371,6910,Yukon River at Russian Mission,2018,2018-05-14,134
+313,6948,Yukon River at Russian Mission,2019,2019-05-05,125
+271,7018,Yukon River at Russian Mission,2020,2020-05-10,131
+183,7169,Yukon River at Russian Mission,2022,2022-05-18,138
+139,7232,Yukon River at Russian Mission,2023,2023-05-25,145
+75,7285,Yukon River at Russian Mission,2024,2024-05-11,132
+31,7359,Yukon River at Russian Mission,2025,2025-05-12,132
+1964,6090,Yukon River at Stevens Village,1981,1981-05-11,131
+1864,6092,Yukon River at Stevens Village,1985,1985-05-21,141
+1825,6093,Yukon River at Stevens Village,1986,1986-05-15,135
+1348,6094,Yukon River at Stevens Village,1998,1998-05-09,129
+1227,6095,Yukon River at Stevens Village,2001,2001-05-21,141
+1183,6096,Yukon River at Stevens Village,2002,2002-05-17,137
+1135,6356,Yukon River at Stevens Village,2003,2003-05-07,127
+1084,6229,Yukon River at Stevens Village,2004,2004-05-10,131
+1038,6355,Yukon River at Stevens Village,2005,2005-05-04,124
+981,6296,Yukon River at Stevens Village,2006,2006-05-14,134
+934,6338,Yukon River at Stevens Village,2007,2007-05-08,128
+876,6377,Yukon River at Stevens Village,2008,2008-05-10,131
+828,6415,Yukon River at Stevens Village,2009,2009-05-09,129
+772,6434,Yukon River at Stevens Village,2010,2010-05-04,124
+720,6467,Yukon River at Stevens Village,2011,2011-05-14,134
+685,6506,Yukon River at Stevens Village,2012,2012-05-10,131
+620,6546,Yukon River at Stevens Village,2013,2013-05-23,143
+560,6595,Yukon River at Stevens Village,2014,2014-05-07,127
+509,6681,Yukon River at Stevens Village,2015,2015-05-11,131
+459,6738,Yukon River at Stevens Village,2016,2016-05-03,124
+408,6801,Yukon River at Stevens Village,2017,2017-05-13,133
+363,6902,Yukon River at Stevens Village,2018,2018-05-11,131
+325,6965,Yukon River at Stevens Village,2019,2019-05-12,132
+228,7083,Yukon River at Stevens Village,2021,2021-05-12,132
+190,7176,Yukon River at Stevens Village,2022,2022-05-10,130
+128,7217,Yukon River at Stevens Village,2023,2023-05-16,136
+66,7274,Yukon River at Stevens Village,2024,2024-05-12,133
+42,7371,Yukon River at Stevens Village,2025,2025-05-13,133
+1979,6165,Yukon River at Tanana,1980,1980-05-03,124
+1965,6166,Yukon River at Tanana,1981,1981-05-11,131
+1941,6167,Yukon River at Tanana,1982,1982-05-16,136
+1922,6168,Yukon River at Tanana,1983,1983-05-08,128
+1865,6170,Yukon River at Tanana,1985,1985-05-20,140
+1826,6171,Yukon River at Tanana,1986,1986-05-14,134
+1778,6172,Yukon River at Tanana,1987,1987-05-16,136
+1740,6173,Yukon River at Tanana,1988,1988-05-04,125
+1700,6174,Yukon River at Tanana,1989,1989-05-08,128
+1656,6175,Yukon River at Tanana,1990,1990-05-03,123
+1621,6176,Yukon River at Tanana,1991,1991-05-07,127
+1584,6177,Yukon River at Tanana,1992,1992-05-20,141
+1543,6178,Yukon River at Tanana,1993,1993-05-08,128
+1498,6179,Yukon River at Tanana,1994,1994-05-07,127
+1423,6181,Yukon River at Tanana,1996,1996-05-18,139
+1349,6182,Yukon River at Tanana,1998,1998-04-30,120
+1228,6184,Yukon River at Tanana,2001,2001-05-18,138
+1184,6185,Yukon River at Tanana,2002,2002-05-10,130
+1127,6246,Yukon River at Tanana,2003,2003-05-07,127
+1086,6231,Yukon River at Tanana,2004,2004-05-10,131
+1040,6359,Yukon River at Tanana,2005,2005-05-01,121
+982,6297,Yukon River at Tanana,2006,2006-05-15,135
+937,6341,Yukon River at Tanana,2007,2007-04-30,120
+877,6378,Yukon River at Tanana,2008,2008-05-11,132
+830,6417,Yukon River at Tanana,2009,2009-05-10,130
+776,6438,Yukon River at Tanana,2010,2010-05-06,126
+721,6468,Yukon River at Tanana,2011,2011-05-13,133
+686,6507,Yukon River at Tanana,2012,2012-05-06,127
+622,6548,Yukon River at Tanana,2013,2013-05-24,144
+562,6597,Yukon River at Tanana,2014,2014-05-03,123
+502,6673,Yukon River at Tanana,2015,2015-05-07,127
+455,6734,Yukon River at Tanana,2016,2016-04-29,120
+410,6803,Yukon River at Tanana,2017,2017-05-10,130
+353,6890,Yukon River at Tanana,2018,2018-05-07,127
+314,6949,Yukon River at Tanana,2019,2019-05-05,125
+265,7009,Yukon River at Tanana,2020,2020-05-07,128
+217,7069,Yukon River at Tanana,2021,2021-05-07,127
+159,7142,Yukon River at Tanana,2022,2022-05-09,129
+116,7204,Yukon River at Tanana,2023,2023-05-14,134
+91,7303,Yukon River at Tanana,2024,2024-05-11,132
+20,7338,Yukon River at Tanana,2025,2025-05-08,128
+1937,5357,Yukon River nr Emmonak,1982,1982-05-31,151
+1913,5358,Yukon River nr Emmonak,1983,1983-05-16,136
+1888,5359,Yukon River nr Emmonak,1984,1984-05-25,146
+1815,5360,Yukon River nr Emmonak,1986,1986-05-29,149
+1770,5361,Yukon River nr Emmonak,1987,1987-05-28,148
+1732,5362,Yukon River nr Emmonak,1988,1988-05-16,137
+1691,5363,Yukon River nr Emmonak,1989,1989-05-29,149
+1613,5365,Yukon River nr Emmonak,1991,1991-05-21,141
+1576,5366,Yukon River nr Emmonak,1992,1992-06-03,155
+1536,5367,Yukon River nr Emmonak,1993,1993-05-20,140
+1491,5368,Yukon River nr Emmonak,1994,1994-05-19,139
+1453,5369,Yukon River nr Emmonak,1995,1995-05-15,135
+1418,5370,Yukon River nr Emmonak,1996,1996-05-18,139
+1378,5371,Yukon River nr Emmonak,1997,1997-05-14,134
+1339,5372,Yukon River nr Emmonak,1998,1998-05-20,140
+1298,5373,Yukon River nr Emmonak,1999,1999-05-29,149
+1258,5374,Yukon River nr Emmonak,2000,2000-05-28,149
+1217,5375,Yukon River nr Emmonak,2001,2001-06-04,155
+1172,5376,Yukon River nr Emmonak,2002,2002-05-21,141
+1133,6252,Yukon River nr Emmonak,2003,2003-05-17,137
+1093,6239,Yukon River nr Emmonak,2004,2004-05-08,129
+1048,6373,Yukon River nr Emmonak,2005,2005-05-14,134
+991,6311,Yukon River nr Emmonak,2006,2006-05-28,148
+946,6351,Yukon River nr Emmonak,2007,2007-05-18,138
+889,6394,Yukon River nr Emmonak,2008,2008-05-23,144
+839,6426,Yukon River nr Emmonak,2009,2009-05-23,143
+724,6471,Yukon River nr Emmonak,2011,2011-05-22,142
+675,6494,Yukon River nr Emmonak,2012,2012-05-25,146
+633,6560,Yukon River nr Emmonak,2013,2013-06-03,154
+573,6609,Yukon River nr Emmonak,2014,2014-05-10,130
+522,6695,Yukon River nr Emmonak,2015,2015-05-16,136
+475,6762,Yukon River nr Emmonak,2016,2016-05-03,124
+422,6816,Yukon River nr Emmonak,2017,2017-05-14,134
+381,7311,Yukon River nr Emmonak,2018,2018-05-18,138
+317,6952,Yukon River nr Emmonak,2019,2019-05-08,128
+281,7029,Yukon River nr Emmonak,2020,2020-05-14,135
+227,7081,Yukon River nr Emmonak,2021,2021-05-13,133
+176,7160,Yukon River nr Emmonak,2022,2022-05-15,135
+143,7236,Yukon River nr Emmonak,2023,2023-05-27,147
+83,7294,Yukon River nr Emmonak,2024,2023-05-24,144
+34,7363,Yukon River nr Emmonak,2025,2025-05-17,137

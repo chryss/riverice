@@ -14,7 +14,7 @@ PROJPATH = Path(__file__).resolve().parent.parent
 ACISDIR = PROJPATH / "data/weatherstations/ACIS"
 OUTDIR = ACISDIR / 'stationdata/RFC_new_model'
 ACISSTATIONS = "ACIS_stations_AK_fornewmodel.csv"
-RUNYEAR = cfg
+RUNYEAR = cfg.RUNYEAR
 
 def safelyget(alist, idx, default='N/A'):
     """Returns alist[idx] if exists, else default"""
@@ -29,7 +29,7 @@ def get_acis_stationdata(uid):
     params = {
         'uid': uid,
         'sdate': "1980-01-01",
-        'edate': f"{RUNYEAR}-06-30",
+        'edate': f"{RUNYEAR}-08-31",
         'elems': "maxt,mint,avgt,snwd,13",
         'output': 'csv'
     }

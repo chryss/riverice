@@ -12,20 +12,20 @@ import riverice_util as ru
 import warnings
 import annual_config as cfg
 
-warnings.filterwarnings("ignore")
+# warnings.filterwarnings("ignore")
 prefix = "DD25" 
 xs = np.arange(-101, 101)
 year = cfg.RUNYEAR
 for_ffmpeg = False
 DAILY = False
 # only if DAILY = False:
-START_DATE = f'{year}-05-07'
+START_DATE = f'{year}-03-15'
 END_DATE = None
 PLOTS = True
 
 PROJPATH = Path().resolve().parent
 tdd_anomalycorr = PROJPATH / f"data/breakupdata/derived/{prefix}_anomaly_correlations.csv"
-breakup_stats = PROJPATH / f"data/breakupdata/derived/breakupdate_mean_std_JD.csv"
+breakup_stats = PROJPATH / f"data/breakupdata/derived/breakupdate_mean_std_JD_{year}.csv"
 breakupdata = PROJPATH / 'data/breakupdata/'
 breakuppth = breakupdata / "derived/breakupDate_cleaned_selected.csv"
 stationfolder = PROJPATH / f"data/weatherstations/ACIS/{prefix}/dd_cumul_bystation"
@@ -135,6 +135,7 @@ if __name__ == '__main__':
         breakup = breakup[breakup.siteID == location].sort_values(by='year').reset_index(drop=True)
         likelihoodDF = make_likelihood_DF(breakup)
 
+
         # do calculation and generate plots
         if for_ffmpeg: icount = 1
         for ii in range (days_start, days_end, 1):
@@ -157,6 +158,7 @@ if __name__ == '__main__':
             forecastdate = ru.julianday2date(ii + 1, year) # forecast is one day later than data
             mostlikely = int(np.round(mu_0))
             forecasteddate = ru.julianday2date(mostlikely+ii, year)
+            print(forecasteddate)
             startidx = max(100, 100 + mostlikely-3)
             endidx = startidx + 6
             plusminus3daysprob = pdf[startidx:endidx+1].sum()

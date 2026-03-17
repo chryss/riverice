@@ -2,7 +2,7 @@
 # Means and std of breakup day as Julian Day 
 # Only sites with more than 20 data points since 1980 on selected Rivers
 # 
-,siteID,mean,std,expected,lat,lon
+,siteID,mean,std,expected_2026,lat,lon
 0,Buckland River at Buckland,137.30556,7.97073,2026-05-17,65.97851,-161.12066
 1,Colville River at Colville Village,152.04348,7.53464,2026-06-01,,
 2,Colville River at Umiat,144.40000,7.56086,2026-05-24,,
