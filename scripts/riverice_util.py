@@ -7,6 +7,7 @@ import seaborn as sb
 from pathlib import Path
 from matplotlib import pyplot as plt
 from scipy.stats import pearsonr
+import annual_config as cfg
 
 DD_CONFIG = {
     "TDD": {
@@ -25,7 +26,7 @@ BREAKUPPTH = PROJPATH / "data/breakupdata/derived/breakupDate_cleaned_selected_r
 CLIMPTH = PROJPATH / "data/weatherstations/ACIS/TDD/all_cumul_clim1991_2020.csv"
 STATIONDATA = PROJPATH / "data/weatherstations/ACIS/TDD/tdd_cumul_bystation"
 COLNAMES = ["Tmax_f", "Tmin_F", "Tavg_F", "sd_m", "swe"]
-LASTYEAR = 2025
+LASTYEAR = cfg.RUNYEAR
 
 def get_climpath(ddprefix):
     return PROJPATH / f"data/weatherstations/ACIS/{ddprefix}/all_cumul_clim1991_2020.csv"

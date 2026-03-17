@@ -8,12 +8,13 @@ import requests
 import pandas as pd
 import geopandas as gp
 import numpy as np
+import annual_config as cfg
 
 PROJPATH = Path(__file__).resolve().parent.parent
 ACISDIR = PROJPATH / "data/weatherstations/ACIS"
 OUTDIR = ACISDIR / 'stationdata/RFC_new_model'
 ACISSTATIONS = "ACIS_stations_AK_fornewmodel.csv"
-RUNYEAR = 2025
+RUNYEAR = cfg
 
 def safelyget(alist, idx, default='N/A'):
     """Returns alist[idx] if exists, else default"""

@@ -4,9 +4,10 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 import riverice_util as ru
+import annual_config as cfg
 
 prefix = "DD25"       # set to TDD for Thawing Degree Days
-lastyear = 2025
+lastyear = cfg.RUNYEAR
 
 config = {
     "TDD": {
@@ -48,6 +49,7 @@ if __name__ == '__main__':
             print(f"Working on {name}")
         stationpth = datapath / f"{name}{datasuffix}"
         climdf = pd.read_csv(fp, header=4, index_col=0)
+        print(stationpth)
         testdf = ru.get_MAMJ_dd(ru.station2df(stationpth))
         missing = pd.DataFrame(testdf[testdf.Tavg_F==-9999].groupby('year').size().rename('count_missing'))
         significant_missing = missing[missing.count_missing > nmissing]

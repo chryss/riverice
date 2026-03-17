@@ -10,15 +10,16 @@ from matplotlib import pyplot as plt
 import seaborn as sns
 import riverice_util as ru
 import warnings
+import annual_config as cfg
 
 warnings.filterwarnings("ignore")
 prefix = "DD25" 
 xs = np.arange(-101, 101)
-year = 2025
+year = cfg.RUNYEAR
 for_ffmpeg = False
 DAILY = False
 # only if DAILY = False:
-START_DATE = '2026-05-07'
+START_DATE = f'{year}-05-07'
 END_DATE = None
 PLOTS = True
 
@@ -30,8 +31,8 @@ breakuppth = breakupdata / "derived/breakupDate_cleaned_selected.csv"
 stationfolder = PROJPATH / f"data/weatherstations/ACIS/{prefix}/dd_cumul_bystation"
 combinedpath = PROJPATH / 'data/weatherstations/ACIS_combined_DD'
 # huctablepath = PROJPATH / "data/breakupdata/derived/breakupDate_mean_std_HUC_augmented.csv"
-outfolder = PROJPATH / f"data/DDforecast_2025"
-broken_up = "broken_up_2026.csv"
+outfolder = PROJPATH / f"data/DDforecast_{year}"
+broken_up = f"{year}.csv"
 
 def get_brokenup():
     try:
