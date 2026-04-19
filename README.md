@@ -28,12 +28,27 @@ Author: Chris Waigl, IARC/UAF, cwaigl@alaska.edu
 
 ### Daily runs
 
-1. Core data files are already in the repository under `data/` 
-1. `get_acisdata.py` to update the ACIS data
-2. `acis2combinedDD.py` to update the daily and cumulative DD tables and combine station data into averaged DD values as per `selectedstations.json`
-3. `make_forecast_2024.py` runs the statistics and generates plots and reports
+Most users run these components individually (or in their own shell wrapper) in this order:
 
-These three scripts can be automated via `run_2025.sh` which is a shell script. It needs to be edited before first run (name of enironment and how to load it, path of shared drive....)
+1. `get_acisdata.py` - retrieves new weather station data from ACIS
+2. `acis2combinedDD.py` - combines ACIS data into DD25 cumulative series for each modeled location
+3. `make_forecast.py` - computes breakup forecast probabilities and writes daily reports under `data/DDforecast_<year>/`
+4. `make_cumul_plots.py` - generates cumulative DD plots and writes to `data/DDforecast_<year>/<River_Name>/`
+
+The same four-step process can also be run with the season shell script:
+
+```bash
+./scripts/run_2026.sh
+```
+
+### Notes for `make_cumul_plots.py`
+
+* Reads from:
+	* `data/breakupdata/derived/breakupDate_cleaned_selected.csv`
+	* `data/weatherstations/ACIS_combined_DD/DD25_combined_<site>.csv`
+	* `data/DDforecast_<year>/daily_report_<YYYY-MM-DD>.csv`
+* Writes to:
+	* `data/DDforecast_<year>/<River_Name>/intermediate_cumul_<site>_<year>.png`
 
 
 

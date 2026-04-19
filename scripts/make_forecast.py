@@ -23,7 +23,7 @@ START_DATE = f'{year}-03-15'
 END_DATE = None
 PLOTS = True
 
-PROJPATH = Path().resolve().parent
+PROJPATH = Path(__file__).resolve().parent
 tdd_anomalycorr = PROJPATH / f"data/breakupdata/derived/{prefix}_anomaly_correlations.csv"
 breakup_stats = PROJPATH / f"data/breakupdata/derived/breakupdate_mean_std_JD_{year}.csv"
 breakupdata = PROJPATH / 'data/breakupdata/'
@@ -65,6 +65,9 @@ def parse_arguments():
         help='date to start end; format YYYY-MM-DD, for example 2025-05-31',
         default=END_DATE,
         type=str)
+    parser.add_argument('--resume',
+        help="resume from last forecasted date in outfolder to today",
+        action="store_true")
     return parser.parse_args()
 
 def make_likelihood_DF(breakupDF):
@@ -93,21 +96,54 @@ def make_likelihood_DF(breakupDF):
     likelihoodDF['forecastdate'] = likelihoodDF['forecast_day_jday'].apply(ru.julianday2date)
     return likelihoodDF
 
+# Utility to get start and end date based on args and outfolder
+def get_start_end_date(args, outfolder):
+    """
+    Determine days_start and days_end based on args and outfolder.
+    Handles --resume, --daily, startdate, enddate logic.
+    """
+    import datetime as dt
+    from pathlib import Path
+    # Helper to convert date string to julianday
+    def to_jd(datestr):
+        return ru.datestr2julianday(datestr)
+
+    if hasattr(args, 'resume') and args.resume:
+        # Find daily_report_YYYY-MM-DD.csv files
+        report_files = sorted(outfolder.glob('daily_report_*.csv'))
+        if report_files:
+            # Get last file's date string
+            last_file = report_files[-1]
+            last_date_str = last_file.stem.split('_')[-1]  # 'YYYY-MM-DD'
+            last_date = last_date_str
+            last_date_dt = dt.datetime.strptime(last_date, '%Y-%m-%d')
+            startdate_resume = (last_date_dt + dt.timedelta(days=1)).strftime('%Y-%m-%d')
+            days_start = to_jd(startdate_resume)
+        else:
+            days_start = to_jd(args.startdate)
+        today = dt.datetime.now().strftime('%Y-%m-%d')
+        days_end = to_jd(today)
+        return days_start, days_end
+    else:
+        days_start = to_jd(args.startdate)
+        if not args.enddate:
+            today = dt.datetime.now().strftime('%Y-%m-%d')
+            days_end = to_jd(today)
+        else:
+            days_end = to_jd(args.enddate)
+        if DAILY or args.daily:
+            if not args.startdate:
+                today = dt.datetime.now().strftime('%Y-%m-%d')
+                days_start = to_jd(today) - 1
+            days_end = days_start + 1
+        return days_start, days_end
+
 if __name__ == '__main__':
     # parse arguments
     args = parse_arguments()
-    days_start = ru.datestr2julianday(args.startdate)
-    if not args.enddate:
-        today = dt.datetime.now().strftime('%Y-%m-%d')
-        days_end = ru.datestr2julianday(today)
-    else:
-        days_end = ru.datestr2julianday(args.enddate)
-    if DAILY or args.daily:
-        if not args.startdate:
-            today = dt.datetime.now().strftime('%Y-%m-%d')
-            # we start and end the day before today b/c day with newest ACIS data
-            days_start = ru.datestr2julianday(today) - 1
-        days_end = days_start + 1
+
+    # Handle --resume, --daily, startdate, enddate logic
+    days_start, days_end = get_start_end_date(args, outfolder)
 
     breakupstats = pd.read_csv(breakup_stats, skiprows=4, index_col=0)
     breakupDF = pd.read_csv(breakuppth, header=3, index_col=0)
