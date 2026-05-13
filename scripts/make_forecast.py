@@ -23,7 +23,7 @@ START_DATE = f'{year}-03-15'
 END_DATE = None
 PLOTS = True
 
-PROJPATH = Path(__file__).resolve().parent
+PROJPATH = Path(__file__).resolve().parents[1]
 tdd_anomalycorr = PROJPATH / f"data/breakupdata/derived/{prefix}_anomaly_correlations.csv"
 breakup_stats = PROJPATH / f"data/breakupdata/derived/breakupdate_mean_std_JD_{year}.csv"
 breakupdata = PROJPATH / 'data/breakupdata/'
@@ -252,6 +252,7 @@ if __name__ == '__main__':
                             f"{loc}_DD25_{year}_{icount:02d}.png")
                     icount += 1 
                 fig.savefig(outfn, bbox_inches='tight')
+                plt.close()
             resultrecord = {
                 "location": locality,
                 "river": river,

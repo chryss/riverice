@@ -4,7 +4,6 @@
 ACISDIR="../data/weatherstations/ACIS/stationdata/RFC_new_model"
 OUTDIR="../data/DDforecast_2026"
 CLOUDDIR='/Users/chris/Library/CloudStorage/GoogleDrive-cwaigl@alaska.edu/.shortcut-targets-by-id/16EqbrP-7DV4rvd2MNBbqmaRmYh5OtqsW/Alaska River Ice Forecasting/Forecasts2026'
-SCRIPTDIR=`pwd`
 
 # run in activated conda environment
 # conda init
@@ -18,6 +17,8 @@ python get_acisdata.py
 python acis2combinedDD.py
 # run new forecast
 python make_forecast.py 
+# make cumulative plots for today
+python make_cumul_plots.py
 
 echo "Copying to Google Drive"
 cd ${OUTDIR}
